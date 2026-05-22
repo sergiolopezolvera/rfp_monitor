@@ -16,7 +16,7 @@ DEFAULT_SOURCES = [
     },
     {
         "name": "bidsandtenders",
-        "base_url": "https://bidsandtenders.ic9.esolg.ca",
+        "base_url": "https://bids.bidsandtenders.ca",
         "is_active": True,
     },
     {
