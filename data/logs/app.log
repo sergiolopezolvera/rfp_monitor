@@ -6311,3 +6311,8 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-05-22 05:55:00 | INFO | rfp_monitor | Fetched 1 Bids & Tenders items.
 2026-05-22 05:55:01 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=0 path=/tmp/pytest-of-jules/pytest-0/test_export_new_opportunities_0/weekly_export.xlsx
 2026-05-22 05:55:01 | INFO | rfp_monitor | MERX detail fetch completed for 1 opportunities.
+2026-05-22 18:17:25 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=2 path=/tmp/pytest-of-jules/pytest-4/test_export_new_opportunities_0/weekly_export.xlsx
+2026-05-22 18:25:15 | INFO | rfp_monitor | Bids & Tenders ingestion completed. total=1 new=0 existing=1
+2026-05-22 18:25:15 | INFO | rfp_monitor | Fetched 1 Bids & Tenders items.
+2026-05-22 18:25:15 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=2 path=/tmp/pytest-of-jules/pytest-5/test_export_new_opportunities_0/weekly_export.xlsx
+2026-05-22 18:25:16 | INFO | rfp_monitor | MERX detail fetch completed for 1 opportunities.
