@@ -189,6 +189,7 @@ def export_new_opportunities_to_excel(
     header = [
         "id",
         "source",
+        "title",
         "organization",
         "url",
         "description",
@@ -216,6 +217,7 @@ def export_new_opportunities_to_excel(
             [
                 opp.id,
                 opp.source.name if opp.source else None,
+                opp.title,
                 opp.organization,
                 opp.url,
                 opp.description_raw,

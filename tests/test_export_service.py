@@ -6,7 +6,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import Session, sessionmaker
 
 from app.db import Base
-from app.models import Opportunity, Source
+from app.models import Opportunity, Source, LLMAnalysis
 from app.services.export_service import export_new_opportunities_to_excel
 
 
@@ -61,8 +61,19 @@ def test_export_new_opportunities_to_excel_only_includes_last_week(tmp_path: Pat
         created_at=datetime.utcnow() - timedelta(days=1),
         updated_at=datetime.utcnow(),
     )
+
     db.add_all([recent, old, recent_other_source])
     db.commit()
+    db.refresh(recent)
+    db.refresh(old)
+    db.refresh(recent_other_source)
+
+    a1 = LLMAnalysis(opportunity_id=recent.id, is_fit=True, fit_score=2, reasoning="Good fit", matched_services="IT")
+    a2 = LLMAnalysis(opportunity_id=old.id, is_fit=True, fit_score=1, reasoning="Okay fit", matched_services="Cloud")
+    a3 = LLMAnalysis(opportunity_id=recent_other_source.id, is_fit=True, fit_score=3, reasoning="Great fit", matched_services="Support")
+    db.add_all([a1, a2, a3])
+    db.commit()
+
 
     output_path = tmp_path / "weekly_export.xlsx"
     result = export_new_opportunities_to_excel(db, days=7, output_path=output_path)
