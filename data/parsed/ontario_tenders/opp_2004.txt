@@ -1,0 +1,264 @@
+Title: Microsoft Subscriptions Services
+
+Project reference: RFB26-70
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: IT
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+The Ontario Clean Water Agency has issued a Request for Bids (“RFB”) to prospective Bidders to submit bids for the provision of Microsoft Subscriptions Services.
+Default Additional Notes
+
+FULL_TEXT:
+Project: tender_21831 - Microsoft Subscriptions Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21831 - Microsoft Subscriptions Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+RFB26-70
+Project Details
+Project Code
+tender_21831
+Project Title
+Microsoft Subscriptions Services
+Project Reference
+RFB26-70
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+43231500-Business function specific software
+43232100-Content authoring and editing software
+43232200-Content management software
+43232300-Data management and query software
+43232700-Network applications software
+43232800-Network management software
+43232900-Networking software
+43233000-Operating environment software
+43233500-Information exchange software
+43233700-System management software
+Opportunity Details
+Detailed Description
+The Ontario Clean Water Agency has issued a Request for Bids (“RFB”) to prospective Bidders to submit bids for the provision of Microsoft Subscriptions Services.
+The RFB closing date is June 15, 2026. Bidders are required to download the document from https://ontariotenders.app.jaggaer.com and send any questions to the RFB Contact through the messages feature within the Jaggaer platform on or before the Bidder’s Deadline for questions as listed in the RFB document.
+Scope of Work
+Default Additional Notes
+Work Category
+IT
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+15/05/2026 18:33
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+15/06/2026 12:00
+Estimated Contract Start Date (dd/mm/yyyy)
+29/06/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+36
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Services d'abonnement Microsoft
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+L’Agence ontarienne des eaux a lancé un appel d’offres à l’intention des soumissionnaires potentiels pour l’approvisionnement de services services d’abonnement Microsoft.
+La date limite de dépôt des offres est le 15 juin 2026. Les soumissionnaires doivent télécharger le document à l’adresse https://ontariotenders.app.jaggaer.com et envoyer leurs questions au contact désigné pour l’appel d’offres par le biais de la messagerie de la plateforme Jaggaer® au plus tard à la date limite indiquée dans le document d’appel d’offres.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+L’Agence ontarienne des eaux a lancé un appel d’offres à l’intention des soumissionnaires potentiels pour l’approvisionnement de services services d’abonnement Microsoft.
+La date limite de dépôt des offres est le 15 juin 2026. Les soumissionnaires doivent télécharger le document à l’adresse https://ontariotenders.app.jaggaer.com et envoyer leurs questions au contact désigné pour l’appel d’offres par le biais de la messagerie de la plateforme Jaggaer® au plus tard à la date limite indiquée dans le document d’appel d’offres.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Ontario Clean Water Agency
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+2085 Duplicate Hurontario St
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Mississauga
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+L5A 4G1
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Matthew Wilkins
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Submit questions through Jaggaer
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+647-236-9649
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19937
+Microsoft Subscriptions Services
+15/06/2026 12:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Matthew Wilkins
+Email
+mwilkins@ocwa.com
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

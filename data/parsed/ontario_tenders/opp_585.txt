@@ -1,0 +1,274 @@
+Title: OPP-2080 Breaching Equipment and Carrier Bags
+
+Project reference: tender_21556
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Through this RFB, the Ministry is seeking Vendor(s) to supply and deliver breaching equipment and carrier bags for use by the Ontario Provincial Police (OPP), and potentially by other Province of Ontario Police Services (POPS). All Deliverables must be robust enough to withstand repeated use under operational conditions, unless otherwise specified.
+
+During the Term of the Contract, the Vendor shall supply and deliver the following Deliverables on an as-and-when required basis:
+
+FULL_TEXT:
+Project: tender_21556 - OPP-2080 Breaching Equipment and Carrier Bags (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21556 - OPP-2080 Breaching Equipment and Carrier Bags
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+tender_21556
+Project Details
+Project Code
+tender_21556
+Project Title
+OPP-2080 Breaching Equipment and Carrier Bags
+Project Reference
+tender_21556
+Multi Lot Project
+No
+Project Type
+Goods
+Project Categories
+24111500-Bags
+27111500-Cutting and crimping and punching tools
+27111600-Forming tools
+27112000-Agriculture, forestry and garden handtools
+27113200-Tool kits
+53121600-Purses and handbags and bags
+Opportunity Details
+Detailed Description
+Through this RFB, the Ministry is seeking Vendor(s) to supply and deliver breaching equipment and carrier bags for use by the Ontario Provincial Police (OPP), and potentially by other Province of Ontario Police Services (POPS). All Deliverables must be robust enough to withstand repeated use under operational conditions, unless otherwise specified.
+Scope of Work
+During the Term of the Contract, the Vendor shall supply and deliver the following Deliverables on an as-and-when required basis:
+Category A: Breaching Equipment
+Category B: Carrier Bags
+Bidders may bid on one (1) or both Categories.  Each of the Categories described in this RFB may be evaluated and awarded separately.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+20/04/2026 10:33
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+20/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+12
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Fourniture et livraison de matériel pour l’accès forcé et de sacs de transport
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Le ministère est à la recherche d’un ou de plusieurs fournisseurs pouvant fournir et livrer du matériel pour l’accès forcé et des sacs de transport à la Police provinciale de l’Ontario, et éventuellement à d’autres services de police de la province. Les produits fournis doivent être suffisamment robustes pour supporter un usage opérationnel à répétition, sauf indication contraire.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Pendant la durée du contrat, le ou les fournisseurs fourniront et livreront, au moment et dans les quantités voulus, les livrables suivants :
+Catégorie A : Matériel pour l’accès forcé
+Catégorie B : Sacs de transport
+Les soumissionnaires peuvent présenter une offre pour une (1) seule catégorie ou pour les deux (2). Il pourrait y avoir une évaluation et une attribution distinctes pour chaque catégorie.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Solicitor General
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+777 Memorial Avenue
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Orillia
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+L3V 7V3
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+N/A
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+N/A
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+SAMPLE SUBMISSION
+Ministry of the Solicitor General
+Ontario Provincial Police (OPP)
+Garage Operations Services
+Shipping and Receiving, North Entrance
+777 Memorial Avenue,
+Orillia, Ontario
+L3V 7V3
+NOTE: ONTARIO PROVINCIAL POLICE, SHIPPING AND RECEIVING IS LOCATED AT THE NORTH ENTRANCE OF THE BUILDING, SAMPLE SUBMISSIONS WILL NOT BE ACCEPTED AT ANY OTHER ENTRANCE.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Judy
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Chan
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+437-224-7980
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19781
+OPP-2080 Breaching Equipment and Carrier Bags
+20/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Judy Chan
+Email
+Judy.Chan@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

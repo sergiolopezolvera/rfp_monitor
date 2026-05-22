@@ -1,0 +1,51 @@
+Title: Legal Solution Software
+
+Solicitation number: 2025015
+
+Publication date: 2026-04-17
+
+Closing date: 2026-04-27
+
+Status: Open
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: Canada
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 43230000 Software | 43231500 Business function specific software | 43232100 Content authoring and editing software | 43232200 Content management software | 43232500 Educational or reference software | 43232600 Industry specific software | 55110000 Electronic reference material | 55111600 Electronic software reference material | 81110000 Computer services | 81112200 Software maintenance and support
+
+Organization: House of Commons
+
+Contracting authority: Éric Bernier
+
+Email: contractingserv@parl.gc.ca
+
+Description:
+House of Commons Notice of Proposed Procurement
+Request for Proposal reference number: 2025015
+Description:
+This requirement is for: House of Commons (HoC)
+This Request for Proposal (RFP) is an invitation by the House of Commons (HoC) to prospective Bidders to submit proposals for the provision, implementation, and support of a comprehensive legal software solution to enhance the management of its legislative, legal, and compliance activities.
+This HoC tender notice and its solicitation documents are available on MERX at the following link:
+https://www.merx.com/solicitations/open-bids/Legal-Solution-Software/00…
+There is no charge to preview the HoC solicitation documents, noting that in order to do so, you have to at a minimum sign up with MERX selecting the “Free” option.
+You may have received this tender notice through a third-party distributor. The HoC is not responsible for any tender notices and/or related documents and attachments not accessed directly through MERX.
+Contact Information:
+Name:Éric Bernier
+Title: Procurement Specialist
+E-Mail:
+contractingserv@parl.gc.ca
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process
+
+Reason for limited tendering:
+None

@@ -1,0 +1,351 @@
+Title: The Procurement of an Energy Management Solution for Ontario’s Education Sector
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: IT
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+The Procurement of an Energy Management Solution for Ontario’s Education Sector.
+High Level Scope of Services
+
+FULL_TEXT:
+Project: tender_21656 - The Procurement of an Energy Management Solution for Ontario’s Education Sector (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21656 - The Procurement of an Energy Management Solution for Ontario’s Education Sector
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21656
+Project Title
+The Procurement of an Energy Management Solution for Ontario’s Education Sector
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+81101500-Civil engineering
+81101600-Mechanical engineering
+81101700-Electrical and electronic engineering
+81102300-Aeronautical engineering
+81102400-Electrical power transmission engineering
+81102500-Permitting services
+81102600-Sampling services
+81102700-Instrumented control systems design and engineering services
+81102800-Minefield and demining services
+81102900-Cultural conservation-restoration engineering services
+81103000-Marine operation and inspection services
+81103100-Technology research and development service
+81103200-Research and development innovation and technology services
+81103300-Geomatics engineering
+81103400-Engineering procurement and project management services
+81111500-Software or hardware engineering
+81111600-Computer programmers
+81111700-Management information systems MIS
+81111800-System and system component administration services
+81111900-Information retrieval systems
+81112000-Data services
+81112100-Internet services
+81112200-Software maintenance and support
+81112300-Computer hardware maintenance and support
+81112400-Computer hardware rental or leasing services
+81112500-Computer software licensing rental or leasing service
+81112600-Computer hardware offsite or depot maintenance, repair and support
+81121500-Economic analysis
+81121600-Monetary systems and issues
+81131500-Methodology and analysis
+81141500-Quality control
+81141600-Supply chain management
+81141700-Production planning and control
+81141800-Facilities management
+81141900-Manufacturing technology research and development services
+81151500-Meteorology
+81151600-Cartography
+81151700-Geology
+81151800-Oceanography and hydrology
+81151900-Geophysics
+81161500-Access management services
+81161600-Electronic mail and messaging services
+81161700-Telecommunication Services
+81161800-Data voice or multimedia network equipment or platform rental or leasing services
+81161900-Cloud-based hardware as a service
+81162000-Cloud-based software as a service
+81162100-Cloud-based platform as a service
+81162200-Cloud-based infrastructure as a service
+81162300-Cloud-based business process as a service
+81171700-Botanical science services
+Opportunity Details
+Detailed Description
+The Procurement of an Energy Management Solution for Ontario’s Education Sector.
+The Ministry of Education is seeking Bids for the procurement of an Energy Management Solution (Solution) to support Ontario’s Education Sector and the Ministry in making informed, strategic energy management decisions.
+The Solution will replace the previous Utility Consumption Database (UCD) with a modern, secure, and accessible platform that enables:
+•	Centralized collection and integration of electricity, natural gas, water, renewable, and alternative utility data.
+•	Comprehensive data management, analysis, benchmarking, and reporting to support compliance with provincial requirements.
+•	Enhanced dashboards, custom reports, and decision-support tools for Ontario’s Education Sector and the Ministry.
+•	Full alignment with Ontario Public Service (OPS) information technology, security, accessibility, and data residency standards.
+•	Training, onboarding, and support services to ensure effective user adoption and long-term sustainability of the Solution.
+The selected Bidder will be responsible for end-to-end implementation, transition management, and ongoing support to ensure continuity of service, accuracy of data, and alignment with provincial objectives.
+Scope of Work
+High Level Scope of Services
+The Vendor will be responsible for the provision and management of the Solution and Services as described in Part 3 - The Deliverables of the RFB.
+The Vendor will be required to:
+1.	Provide a Solution that will accept and utilize all existing data fields and other fields as required;
+2.	Provide Hosting Services and administration Services for the Solution;
+3.	Ensure data integrity, accuracy, completeness and security;
+4.	Provide ongoing technical and user support Services for the Solution;
+5.	Provide both initial and ongoing training Services to all Authorized Users;
+6.	Provide the Ministry with key team members; an overall project lead, a project manager, and an application and security lead for the Application;
+7.	Liaise with the Ministry’s project lead for the Solution on a regular basis;
+8.	Liaise with other Ministry staff, as required;
+9.	Meet with the education stakeholders on a regular basis;
+10.	Work with representatives from all Authorized Users as identified by the Ministry on the key Deliverables as specified in the RFB;
+11.	Provide the Ministry with a monthly report (to be defined with the ministry) on the status of the initiative which must include, but not be limited to:
+i.	the progress status of each Deliverable;
+ii.	identify unforeseen challenges and put forward corresponding options for resolution or mitigation strategies; and
+12.	Provide all services (Help desk, documentations) in English and French.
+Work Category
+IT
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+27/04/2026 15:31
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+01/06/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+36
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+L'acquisition d'une solution de gestion énergétique pour le secteur de l'éducation en Ontario.
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Appel d'offres (RFB) # 2055 pour l'acquisition d'une solution de gestion de l'énergie pour le secteur de l'éducation de l'Ontario.
+Le ministère de l'Éducation lance un appel d'offres pour l'acquisition d'une solution de gestion de l'énergie (la « solution ») afin d'aider le secteur de l'éducation de l'Ontario et le ministère à prendre des décisions éclairées et stratégiques en matière de gestion de l'énergie.
+La solution remplacera l'ancienne base de données sur la consommation des services publics (UCD) par une plateforme moderne, sécurisée et accessible qui permettra :
+•	La collecte et l'intégration centralisées des données sur l'électricité, le gaz naturel, l'eau, les énergies renouvelables et les services publics alternatifs.
+•	La gestion, l'analyse, l'évaluation comparative et la communication complètes des données afin de faciliter la conformité aux exigences provinciales.
+•	Des tableaux de bord améliorés, des rapports personnalisés et des outils d'aide à la décision pour le secteur de l'éducation de l'Ontario et le ministère.
+•	Une conformité totale avec les normes de la fonction publique de l'Ontario (FPO) en matière de technologie de l'information, de sécurité, d'accessibilité et de résidence des données.
+•	Des services de formation, d'intégration et d'assistance pour garantir l'adoption efficace de la solution par les utilisateurs et sa viabilité à long terme.
+•	Le soumissionnaire retenu sera responsable de la mise en œuvre de bout en bout, de la gestion de la transition et du soutien continu afin d'assurer la continuité du service, l'exactitude des données et l'alignement sur les objectifs provinciaux.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Scope of Work (French)*	Portée générale des services
+Le fournisseur sera responsable de la fourniture et de la gestion de la solution et des services décrits dans la partie 3 - Les livrables de l'appel d'offres.
+Le fournisseur devra :
+1.	Fournir une solution qui acceptera et utilisera tous les champs de données existants et autres champs requis ;
+2.	Fournir des services d'hébergement et d'administration pour la solution ;
+3.	Garantir l'intégrité, l'exactitude, l'exhaustivité et la sécurité des données ;
+4.	Fournir des services d'assistance technique et d'aide aux utilisateurs pour la solution ;
+5.	Fournir des services de formation initiale et continue à tous les utilisateurs autorisés ;
+6.	Mettre à la disposition du ministère les membres clés de l'équipe : un chef de projet global, un chef de projet et un responsable des applications et de la sécurité pour l'application ;
+7.	Assurer une liaison régulière avec le chef de projet du ministère pour la solution ;
+8.	Assurer une liaison avec les autres membres du personnel du ministère, au besoin ;
+9.	Rencontrer régulièrement les intervenants du secteur de l'éducation ;
+10.	Travailler avec les représentants de tous les utilisateurs autorisés désignés par le ministère sur les principaux livrables spécifiés dans la demande de propositions ;
+11.	Fournir au ministère un rapport mensuel (à définir avec le ministère) sur l'état d'avancement de l'initiative, qui doit inclure, sans s'y limiter :
+i.	l'état d'avancement de chaque livrable;
+ii.	identifier les défis imprévus et proposer des options correspondantes pour des stratégies de résolution ou d'atténuation;
+12.	Fournir tous les services (assistance, documentation) en anglais et en français.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Education
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+315 Front Street West, 15TH Floor
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M7A 0B8
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+N/A
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+Yes, Optional
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+May 5, 2026 10:00:00 to 11:00:00 EST (Toronto time)
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+N/A
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Submissions must be made electronically through the Ontario Tenders Portal (“OTP”) eTendering System.
+Bid documents must not be mailed.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Harmit Rishi
+Buyer
+Contact Email Address
+*
+Contact Email Address
+harmit.rishi@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+(000) 000-0000
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19747
+tender_21656 - The Procurement of an Energy Management Solution for Ontario’s Education Sector
+01/06/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Harmit Rishi
+Email
+Harmit.Rishi@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

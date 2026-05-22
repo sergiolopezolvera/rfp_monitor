@@ -1,0 +1,49 @@
+Title: Learning Management Systems (LMS) Host for SmartDriver Training Suite
+
+Solicitation number: NRCan-5000094695
+
+Publication date: 2026-04-09
+
+Closing date: 2026-05-04
+
+Last amendment date: 2026-04-17
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: Canada
+
+Contract duration: 6 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 43230000 Software | 43231512 License management software
+
+Organization: Department of Natural Resources (NRCan)
+
+Contracting authority: Bianca Moore
+
+Email: bianca.moore@nrcan.rncan.gc.ca
+
+Phone: (343) 543-4785
+
+Description:
+The Government of Canada is delivering on its promise to fight climate change and grow the economy, understanding that pollution has a real, tangible cost that puts stress on the health of our communities, our economy, and on Canadians themselves. Reducing emissions from the transportation sector is one of the ways the Government is taking action to reduce pollution. In keeping with the priority that the Government of Canada places on energy efficiency and moving to a cleaner transportation sector, Natural Resources Canada (NRCan) – Fuels Sector is working to enhance energy efficiency in the medium and heavy-duty transportation sector.
+NRCan’s Greening Freight Programs (SmartWay, SmartDriver, and the Green Freight Program) are three programs that provide training, tools, and resources to help Canadian fleets lower their fuel consumption, operating costs and harmful vehicle emissions while increasing on-road safety.
+The SmartDriver suite of learning materials is NRCan’s marquee training program and offers an educational curriculum to teach fuel-efficient driving practices to professional operators of medium and heavy-duty commercial vehicles. In order to meet the trucking industry’s growing demand for safe, fuel-efficient drivers, SmartDriver training has new and redeveloped training offerings requiring hosting from an internet-based delivery platform (i.e. LMS). A key feature of these elements of the SmartDriver materials is its flexibility, thereby, offering participants the choice to start, continue and complete training within timeframes that work with the transportation industry’s demanding schedules while continuing to meet the business needs of their clients.
+The SmartDriver Program requires an Articulate Storyline 360 compliant LMS hosting provider to deploy an online platform and host the English, French and Spanish SmartDriver on-line training modules to an external audience of freight industry professionals across Canada and beyond.
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- RFP NRCan-5000094695.pdf | EN | 2026/04/17
+
+- DDP RNCan-5000094695.pdf | FR | 2026/04/14

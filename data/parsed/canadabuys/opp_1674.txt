@@ -1,0 +1,33 @@
+Title: City of Airdrie - Request for Proposal - Adaptive Traffic Signal Pilot System Solution
+
+Solicitation number: AB-2026-03277
+
+Publication date: 2026-04-24
+
+Closing date: 2026-06-02
+
+Last amendment date: 2026-05-07
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 24 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 32151500 Control indicating and signaling devices | 43000000 Information Technology Broadcasting and Telecommunications | 43220000 Data Voice or Multimedia Network Equipment or Platforms and Accessories | 43222600 Network service equipment | 46160000 Public safety and control | 46161500 Traffic control | 46171600 Surveillance and detection equipment | 46171640 Automatic traffic monitoring system | 81100000 Professional engineering services | 81102200 Transportation engineering | 81102201 Traffic engineering
+
+Organization: City of Airdrie
+
+Contracting authority: Christian De Guzman
+
+Email: christian.deguzman@airdrie.ca
+
+Description:
+The City of Airdrie (the “City”) invites proposals from qualified and experienced vendors to supply, configure, deploy, and support an AI‑based Adaptive Traffic Signal Control Pilot Project along a selected corridor within the City. The purpose of this pilot is to transition from conventional time of day (TOD) signal timing plans to a real time adaptive control strategy that leverages the City’s existing traffic signal infrastructure, including Intelight controllers and video-based detection systems (Econolite and Iteris). The pilot project aims to improve traffic operations, reduce delays, enhance network performance, and evaluate scalability for future city-wide expansion.
+
+Trade agreements:
+Canadian Free Trade Agreement (CFTA)

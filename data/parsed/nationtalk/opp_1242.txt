@@ -1,0 +1,53 @@
+Title: RFSQ_Phase 1_Retail_Call Centre_2026
+Author: pmnationtalk
+Deadline: May 01, 2026
+Name: Canada Post Corporation
+Type: RFSQ
+Region: All of Canada
+Email: tender.control@canadapost.ca
+Sector: Public Sector
+F86268Dd5331918Bd95C0C23Db7F7Eb3: {{unknown}}
+Category: Business Services / Supplies
+
+Description:
+Basic Information
+Reference Number
+0000317978
+Issuing Organization
+Canada Post Corporation
+Solicitation Type
+RFSQ – Request for Supplier Qualifications – Prequalifications (Formal)
+Solicitation Number
+Doc1803075906
+Title
+RFSQ_Phase 1_Retail_Call Centre_2026
+Source ID
+FD.CO.ON.6696.C4345
+Agreement Type
+None
+Details
+Location
+Canada, All of Canada, All of Canada
+Description
+The Corporation has a requirement for Contact Centre requirements. It is anticipated that the resulting Agreement will be for a period of up to 7 years and six months. The Requirement to be performed is outlined in the ARIBA Sourcing Event:
+https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110007942?anId=ANONYMOUS
+Dates
+Publication
+2026/03/19 03:52:31 PM EDT
+Bid Intent
+Not Available
+Question Acceptance Deadline
+2026/04/10 02:00:00 PM EDT
+Questions are submitted online
+No
+Closing Date
+2026/05/01 02:00:00 PM EDT
+Contact Information
+Tender Solicitation Control Officer
+613-804-2431
+tender.control@canadapost.ca
+Priti Muradia
+613-734-3407
+priti.muradia@canadapost.ca
+For more information:
+MERX

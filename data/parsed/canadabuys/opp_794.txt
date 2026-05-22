@@ -1,0 +1,29 @@
+Title: Alberta Investment Management Corporation - Negotiated Request for Proposal - NRFP 26-03-850 Electronic Records Management
+
+Solicitation number: AB-2026-03202
+
+Publication date: 2026-04-23
+
+Closing date: 2026-05-18
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 5 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 80161508 Document destruction services | 80000000 Management and Business Professionals and Administrative Services | 80160000 Business administration services | 80161500 Management support services
+
+Organization: Alberta Investment Management Corporation
+
+Contracting authority: Jacqueline Hofman
+
+Email: jacqueline.hofman@aimco.ca
+
+Description:
+This NRFP is intended to solicit Proposals for the Electronic Records Management Initiative as outlined in this document (the “Project”). Proposals are expected to address the following components:
+AIMCo is undertaking an initiative to modernize records management by leveraging existing Microsoft Purview and M365 capabilities, including SharePoint and Outlook. The objective is to establish a compliant, defensible, and efficient enterprise-wide framework for managing electronic records. We seek qualified Consultants to design and guide the implementation of Microsoft Purview Records Management across our Microsoft 365 environment. The engagement will deliver a defensible, auditable records lifecycle from classification and retention through disposition aligned with AIMCo’s regulatory obligations and internal governance standards. The scope of the engagement includes developing an implementation roadmap for phased deployment of retention labels and an adoption strategy aligned with Government of Alberta records management requirements.

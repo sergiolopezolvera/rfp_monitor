@@ -1,0 +1,48 @@
+Title: Database Administrator (Level 3) Services
+
+Solicitation number: CON26-0006
+
+Publication date: 2026-05-04
+
+Closing date: 2026-05-19
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 81162004 Database management as a service
+
+Organization: Public Service Commission (PSC)
+
+Contracting authority: angela yang
+
+Email: angela.yang@cfp-psc.gc.ca
+
+Description:
+The Public Service Commission (PSC) has a requirement to obtain Database administrator support services for Oracle and MS SQL Server environments at the PSC for in-operations while adhering to the System Development and Life Cycle (SDLC) best practices and Information Technology Infrastructure Library (ITIL) Change Management Process.
+The key objectives are to:
+· Improve the PSC’s ability to meet IT projects completion targets.
+· Enhance the organization’s ability to respond to new challenges by using a contingent workforce.
+· Improve maintenance efficiency.
+· Eliminate deprecated technology; and
+· Prepare PSC’s infrastructure for the upcoming cloud transformation.
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process
+
+Reason for limited tendering:
+Exclusive Rights
+
+Documents:
+
+- CON26-0006_DBA-TBIPS_NPP_Public Service Commission_0.pdf | EN | 2026/05/04
+
+- CON26-0006-DBA-SPICT-APM-CFP.pdf | FR | 2026/05/04

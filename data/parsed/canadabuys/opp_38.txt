@@ -1,0 +1,40 @@
+Title: Saddle Hills County - Negotiated Request for Proposal - Enterprise Resource Planning System
+
+Solicitation number: AB-2026-03024
+
+Publication date: 2026-04-16
+
+Closing date: 2026-06-01
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 20 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43231600 Finance accounting and enterprise resource planning ERP software | 43231601 Accounting software | 43231602 Enterprise resource planning ERP software
+
+Organization: Saddle Hills County
+
+Contracting authority: John Friesen
+
+Email: jfriesen@saddlehills.ab.ca
+
+Description:
+Saddle Hills County is seeking Proposals for a commercial off-the-shelf (COTS), Enterprise Resource Planning System (the “ERP System”). The County is also seeking system implementation services, ongoing ERP System support services and other ancillary services.
+The County is planning to transition to a modern ERP solution. The new system will
+not only ensure long-term support and sustainability but will also be designed around current best practices. It will streamline and improve business processes, enhance user experience, and provide greater accessibility, integration, and data-driven decision-making capabilities.
+At a minimum the replacement system should be able to provide all functionality of the previous system, with several areas of increased functionality, and in some cases entirely new digital capabilities. In addition, the County is looking for a vendor/implementor to assist the County in planning, configuring, implementing and launching the new system.
+Proponents shall submit their Proposal by email, with attachment(s) in PDF format submitted to
+rfpsubmission@saddlehills.ab.ca
+with the subject line “Request for Proposal for ERP System Replacement” on or before 2:00:00 p.m. (Mountain Standard Time) on June 1, 2026. Proponents are encouraged to confirm receipt of their submission with the County following submission. Schedule E, Requirements Worksheet, should be submitted as an Excel document, attached to the same email.
+Any inquiries respecting this NRFP should be directed to:
+John Friesen, Director of Corporate Services
+JFriesen@saddlehills.ab.ca
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process

@@ -1,0 +1,41 @@
+Title: Agriculture and Irrigation - Request for Proposal - Dam Breach Inundation Study - Keho Lake Dam
+
+Solicitation number: AB-2026-03692
+
+Publication date: 2026-05-11
+
+Closing date: 2026-06-15
+
+Last amendment date: 2026-05-15
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 9 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 70171700 Irrigation system maintenance and management services | 70170000 Water resources development and oversight | 81000000 Engineering and Research and Technology Based Services | 81100000 Professional engineering services | 81101500 Civil engineering | 81101505 Structural engineering | 81101507 Dam engineering | 70171701 Canal maintenance or management services
+
+Organization: Agriculture and Irrigation
+
+Contracting authority: Lewis Cheung
+
+Email: dam.safety@gov.ab.ca
+
+Description:
+The Keho Dam Project is located approximately 35 km northwest of Lethbridge, Alberta, and forms part of the Lethbridge Northern Headworks System.
+Site location plan and photographs are shown in Appendix A, and relevant drawings are included in Appendix B of the Terms of Reference.
+The Keho Lake Reservoir is an off-stream irrigation storage reservoir originally constructed in 1921 as the East Dyke and rehabilitated in 1984 by the Government of Alberta. The rehabilitation included raising the dam by 1.8 m, constructing a new low-level outlet (LLO), and adding two upstream earth jetties. Electrical and gate control upgrades to the LLO were completed in 2017. Together with the Turin Branch Canal headworks, the dam marks the downstream end of the Lethbridge Northern Headworks Canal system.
+The dam consists of a homogeneous earth-fill embankment approximately 3,200 m long, with a maximum height of 9.9 m, crest width of 8.5 m, and design crest elevation of 966.55 m. The upstream slope is protected with riprap, the downstream slope is vegetated, and the gravel crest serves as a local access road. The reservoir covers approximately 2,200 ha and stores 95,380 dam³ at a design full supply level of 964.24 m, with a drainage area of 52.5 km².
+The reservoir receives inflows from the Lethbridge Northern Headworks main canal, with a design operating flow of 46.5 m³/s and a maximum canal capacity of 109 m³/s. The LLO has a design discharge capacity of 34 m³/s, while the downstream Turin Branch Canal has a capacity of up to 86 m³/s near the headworks. The LLO is a cast-in-place concrete structure comprising an inlet, dual box conduits, a gatewell with two operating guard gates, and a stilling basin. Keho Lake Dam has no service or emergency spillway. Operationally, the LLO is controlled by the Lethbridge Northern Irrigation District under agreement with Alberta Agriculture and Irrigation to supply irrigation water via the Turin Branch Canal.
+Dam breach inundation studies can become outdated if not periodically reviewed and updated. AGI uses key administrative and physical triggers to prompt updates to inundation studies that include identified gaps in previous studies, improved hydrological and topographical data, advances in modeling and mapping, changes in regulatory requirements, infrastructure upgrades, and new or expanded downstream development.
+In recent years, the operation at Keho Lake Dam has become somewhat complex, particularly in light of evolving operational objectives and the development of a new operations plan with a revised Full Supply Level. Reservoir operations and inflows are strongly influenced by local weather variability and agricultural demand, introducing operational complexities not present at other in-stream reservoirs. Even short-duration or low-intensity rainfall events can result in rapid reservoir level increases, particularly under mid summer conditions characterized by high crop demand, elevated reservoir levels, and full canal inflows. Limited spillway capacity may lead to unanticipated high reservoir levels, increasing overtopping risk and the potential for surcharged piping condition.
+The 2024 Dam Safety Review highlighted several critical gaps in the existing dam breach inundation studies (2005 and 2011), including the lack of updated breach modeling, inadequate assessment of potential cascading impacts on the Picture Butte Reservoir and Dyke, and inundation mapping approaches that may no longer reflect current standards.
+Given the complexity of downstream flow paths, identified gaps in previous studies, and the potential for increased flood risk to the Town of Picture Butte, an updated Dam Breach Inundation Study (DBIS) is required to support informed decision-making, strengthen confidence in the dam’s consequence classification, and ensure alignment with current dam safety practices. The updated DBIS will also provide critical information to update and improve the dam’s emergency preparedness and response planning documents
+
+Trade agreements:
+Canadian Free Trade Agreement (CFTA)

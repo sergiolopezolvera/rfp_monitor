@@ -1,0 +1,272 @@
+Title: MTO Highway 400/9 Patrol Yard, Proposed Material Storage Building and Ancillary Works
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+This is a Request for Bids (RFB) for construction services on MTO Highway 400 and 9 Patrol Yard Garage for a new Material Storage Building, Electrical Upgrade in Existing Garage and the replacement and expansion of existing asphalt at the MTO Highway 400 and 9 Patrol Yard (Highway 9, King, Ontario). Located 0.84 km West of Highway 400 Junction at Highway 9.
+
+The scope of work consists of a new material storage building, all including cast in place concrete foundation. The work includes all applicable mechanical and electrical works, site servicing, site grading, granular and asphalt placement, and drainage improvements.
+
+FULL_TEXT:
+Project: tender_21597 - MTO Highway 400/9 Patrol Yard, Proposed Material Storage Building and Ancillary Works (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21597 - MTO Highway 400/9 Patrol Yard, Proposed Material Storage Building and Ancillary Works
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21597
+Project Title
+MTO Highway 400/9 Patrol Yard, Proposed Material Storage Building and Ancillary Works
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+22101500-Earth moving machinery
+22101900-Building construction machinery and accessories
+25173900-Electrical components
+26121600-Electrical cable and accessories
+30121700-Road and railroad construction materials
+39121700-Electrical hardware and supplies
+39122100-Electrical transmission and distribution equipment
+39122200-Electrical switches and accessories
+72151500-Electrical system services
+72153900-Building site preparation services
+72154000-Specialty building and trades services
+Opportunity Details
+Detailed Description
+This is a Request for Bids (RFB) for construction services on MTO Highway 400 and 9 Patrol Yard Garage for a new Material Storage Building, Electrical Upgrade in Existing Garage and the replacement and expansion of existing asphalt at the MTO Highway 400 and 9 Patrol Yard (Highway 9, King, Ontario). Located 0.84 km West of Highway 400 Junction at Highway 9.
+Scope of Work
+The scope of work consists of a new material storage building, all including cast in place concrete foundation. The work includes all applicable mechanical and electrical works, site servicing, site grading, granular and asphalt placement, and drainage improvements.
+The work also consists of site electrical removals, asphalt removal, site services removal, pipe removals, drainage infrastructure removal, and landscaping.
+The Contract start date approximately is June 2026, until approximately December, 2026.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+15/04/2026 12:00
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+15/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+5
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Cour de patrouille de l'autoroute 400/9 du MTO, bâtiment d'entreposage de matériel proposé et travaux annexes
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Il s'agit d'une demande de soumissions (DS) pour des services de construction au garage du poste de patrouille du MTO situé à l'intersection des autoroutes 400 et 9 (route 9, King, Ontario). Les travaux comprennent la construction d'un nouveau bâtiment d'entreposage de matériel, la mise à niveau du système électrique du garage existant et le remplacement et l'agrandissement de la chaussée asphaltée existante au poste de patrouille du MTO situé à l'intersection des autoroutes 400 et 9 (route 9, King, Ontario).
+Le site se trouve à 0,84 km à l'ouest de l'intersection des autoroutes 400 et 9.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Les travaux consistent en la construction d'un nouveau bâtiment de stockage de matériaux, incluant des fondations en béton coulé sur place. Ils comprennent tous les travaux mécaniques et électriques nécessaires, le raccordement aux réseaux, le nivellement du terrain, la mise en place de granulats et d'asphalte, ainsi que l'amélioration du drainage.
+Les travaux comprennent également la démolition des réseaux électriques, d'asphalte, de canalisations et d'infrastructures de drainage, ainsi que l'aménagement paysager.
+Le contrat débutera approximativement en juin 2026 et se terminera approximativement en décembre 2026
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Transportation
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+159 Sir William Hearst Ave 2nd floor
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M3M 0B2
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+Yes, optional
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Date of site visit: Week of May 4th, 2026
+Site location: Highway 400 and Highway 9 Maintenance Patrol Yard
+17465 Weston Rd, Kettleby, Ontario
+The Ministry will allow each Contractor to have access to the site, for purposes of conducting additional surveying, testing or investigations prior to the RFT Closing.
+To arrange for site visits and access, please contact via e-mail the procurement contact - deepshikha.khatter@ontario.ca latest by April 29, 2026, 4:00pm(Toronto time).
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+All bid submissions to be made via online eTendering portal.
+No manual bid submissions would be accepted by Supply Ontario.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Deepshikha Khatter
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Deepshikha.Khatter@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+416-275-7173
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19784
+MTO Highway 400/9 Patrol Yard, Proposed Material Storage Building and Ancillary Works
+15/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Deepshikha Khatter
+Email
+deepshikha.khatter@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

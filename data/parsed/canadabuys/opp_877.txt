@@ -1,0 +1,29 @@
+Title: Town of Vegreville - Request for Proposal - RFP2026-002 Implementation Services for SylogistGov Enterprise Resource Planning (ERP) System
+
+Solicitation number: AB-2026-03078
+
+Publication date: 2026-04-20
+
+Closing date: 2026-04-30
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 24 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43233700 System management software | 43230000 Software | 43233701 Enterprise system management software | 80000000 Management and Business Professionals and Administrative Services | 80101507 Information technology consultation services | 81160000 Information Technology Service Delivery
+
+Organization: Town of Vegreville
+
+Contracting authority: Meghan Saskiw
+
+Email: msaskiw@vegreville.com
+
+Description:
+The purpose of this RFP is to solicit submissions from qualified vendors for the provision and implementation of specifically, SylogistGov ERP system.
+The Town of Vegreville is a municipality in east-central Alberta, located approximately 100 kilometres east of Edmonton, hosting a population of 5,689 permanent residents (2021 Census), and delivers a range of municipal services. These services include, but are not limited to, water utility services, recreation, infrastructure, and community services. In addition, the Town administers a range of internal financial and administrative functions, including budgeting, taxation, utility billing, payroll, financial reporting, accounts payable, and accounts receivable. To support the delivery of these services, the town currently operates on a Microsoft Dynamics GP ERP platform, which is approaching end-of-life and requires replacement.

@@ -1,0 +1,31 @@
+Title: Primary and Preventative Health Services - Request for Proposal - RFP 26-2054 - Alberta Vaccine Inventory Management System (VIMS) Replacement
+
+Solicitation number: AB-2026-03287
+
+Publication date: 2026-04-24
+
+Closing date: 2026-05-25
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 37 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43212200 Computer data storage management systems | 42000000 Medical Equipment and Accessories and Supplies | 43230000 Software | 43231500 Business function specific software | 43231508 Inventory management software | 85000000 Healthcare Services | 85101700 Health administration services | 85101701 Health policy | 85121700 Healthcare provider specialist services | 85121800 Medical laboratories
+
+Organization: Primary and Preventative Health Services
+
+Contracting authority: Phoun Khamsaysouk
+
+Email: PPHS.Procurement@gov.ab.ca
+
+Description:
+The Ministry of Primary and Preventative Health Services (PPHS) is seeking to procure a Software-as-a-Service (SaaS) to replace the existing Alberta Vaccine Inventory Management System (VIMS) to manage Alberta's publicly funded vaccine and biologics inventory, valued at approximately $150 million annually. The existing solution, implemented in 2019 is reaching its end term with no remaining extensions available. The new solution will support vaccine ordering, distribution, storage, tracking, and reporting, providing real-time visibility and accountability across the provincial supply chain.
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)

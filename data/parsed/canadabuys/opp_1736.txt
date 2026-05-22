@@ -1,0 +1,40 @@
+Title: City of Calgary - Request for Proposal - RFP 26-1531 Blockchain Tracing Software Solution
+
+Solicitation number: AB-2026-03527
+
+Publication date: 2026-05-04
+
+Closing date: 2026-06-03
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 146 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43231500 Business function specific software
+
+Organization: City of Calgary
+
+Contracting authority: Gurjit Parmar
+
+Email: gurjit.parmar2@calgary.ca
+
+Description:
+Please download RFP documents from SAP Ariba link:
+https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110012064?anId=ANONYMOUS
+The City of Calgary (the City), on behalf of the Calgary Police Service (CPS), is seeking proposals for a commercial, off‑the‑shelf, cloud‑based Blockchain Tracing Software Solution to support law enforcement investigations involving cryptocurrency and digital assets. The proposed solutions must enable enhanced tracing, analysis, and visualization of blockchain transactions to support criminal investigations, intelligence development, and evidentiary analysis as outlined in the below schedules:
+• Schedule A – Investigation Services provision of a blockchain tracing software solution used to conduct cryptocurrency and digital asset investigations.
+• Schedule B – Validation Services: A separate Proponent will be selected to provide an independent blockchain tracing software solution used to validate, corroborate, and independently review the investigative results produced under Schedule A.
+The scope of work for each Schedule will be delivered across the following three (3) phases:
+• Phase 1 – Proof of Concept
+• Phase 2 – Implementation of the Proposed Software Solution
+• Phase 3 – Ongoing Maintenance and Support
+Where applicable, The City may also purchase associated software upgrades, modules, or features that integrate seamlessly with the proposed solution. It is The City’s expectation that the awarded Proponents will collaborate with CPS and, where appropriate, with each other to ensure operational effectiveness, transparency, and the integrity of investigative and validation outcomes. The City aims to establish clear communication and coordinated support to ensure that any issues impacting CPS operations are addressed efficiently and without disruption.
+
+Trade agreements:
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)

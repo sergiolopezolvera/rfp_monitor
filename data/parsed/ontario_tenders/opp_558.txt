@@ -1,0 +1,231 @@
+Title: HMMS04667 - Enterprise Human Capital Management (HCM) System for Multi-Entity Healthcare Organizations
+
+Project reference: HMMS04667 - Enterprise Human Capital Management (HCM) System for Multi-Entity
+
+Buyer organization: Healthcare Materials Management Services (HMMS)
+
+Procurement route: Open
+
+Work category: IT
+
+Contact name: Editable By
+
+Contact email: Victoria.McKillop@hmms.on.ca
+
+Description:
+HMMS on behalf of Alexandra Marine and General Hospital (AMGH) and the South Huron Hospital (SHH), is looking to establish a long-term partnership with a preferred Proponent for the supply of a Human Capital Management solution. We require a solution including, as applicable, training, hosting, licensing, implementation and ongoing maintenance and support services.
+HMMS on behalf of Alexandra Marine and General Hospital (AMGH) and the South Huron Hospital (SHH), is looking to establish a long-term partnership with a preferred Proponent for the supply of a Human Capital Management solution. We require a solution including, as applicable, training, hosting, licensing, implementation and ongoing maintenance and support services.
+
+FULL_TEXT:
+Project: tender_21646 - HMMS04667 - Enterprise Human Capital Management (HCM) System for Multi-Entity Healthcare Organizations (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21646 - HMMS04667 - Enterprise Human Capital Management (HCM) System for Multi-Entity Healthcare Organizations
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+HMMS04667 - Enterprise Human Capital Management (HCM) System for Multi-Entity
+Project Details
+Project Code
+tender_21646
+Project Title
+HMMS04667 - Enterprise Human Capital Management (HCM) System for Multi-Entity Healthcare Organizations
+Project Reference
+HMMS04667 - Enterprise Human Capital Management (HCM) System for Multi-Entity
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+43231600-Finance accounting and enterprise resource planning ERP software
+Opportunity Details
+Detailed Description
+HMMS on behalf of Alexandra Marine and General Hospital (AMGH) and the South Huron Hospital (SHH), is looking to establish a long-term partnership with a preferred Proponent for the supply of a Human Capital Management solution. We require a solution including, as applicable, training, hosting, licensing, implementation and ongoing maintenance and support services.
+One Human Capital Management solution must support both organizations’ time entry, scheduling, payroll, and human resources information and processes. This Human Capital Management system will need to seamlessly integrate into our existing Financial and Procurement software systems and processes.
+Scope of Work
+HMMS on behalf of Alexandra Marine and General Hospital (AMGH) and the South Huron Hospital (SHH), is looking to establish a long-term partnership with a preferred Proponent for the supply of a Human Capital Management solution. We require a solution including, as applicable, training, hosting, licensing, implementation and ongoing maintenance and support services.
+One Human Capital Management solution must support both organizations’ time entry, scheduling, payroll, and human resources information and processes. This Human Capital Management system will need to seamlessly integrate into our existing Financial and Procurement software systems and processes.
+Work Category
+IT
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+20/03/2026 16:13
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+01/05/2026 12:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+60
+Buyer
+Additional Information
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Système de gestion du capital humain (GCH) d'entreprise pour les organisations de soins de santé multi-entités
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+HMMS, au nom de l'hôpital Alexandra Marine and General (AMGH) et de l'hôpital South Huron (SHH), souhaite établir un partenariat à long terme avec un fournisseur privilégié pour la mise en place d'une solution de gestion du capital humain. Cette solution doit inclure, le cas échéant, la formation, l'hébergement, les licences, la mise en œuvre, ainsi que la maintenance et le support continus.
+La solution de gestion du capital humain doit prendre en charge la saisie des temps, la planification, la paie et les processus RH des deux établissements. Ce système devra s'intégrer parfaitement à nos systèmes et processus logiciels financiers et d'approvisionnement existants.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Buyer
+Agreement Type
+Agreement Type
+Services
+Buyer
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Region of Delivery
+*
+Region of Delivery
+Ontario
+Buyer
+Region of Opportunity
+Region of Opportunity
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+120 Napier St
+24 Huron St W
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Goderich
+Exeter
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+N7A 1W5
+N0M 1S2
+Buyer
+Information Session/Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Clinical/Technical Product Evaluation Required
+Clinical/Technical Product Evaluation Required
+Buyer
+Form of Submission
+*
+Form of Submission
+Electronic Only
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19745
+HMMS04667 - Enterprise Human Capital Management (HCM) System for Multi-Entity Healthcare Organizations
+01/05/2026 12:00
+Buyer Details
+Buyer Organization
+Healthcare Materials Management Services (HMMS)
+Contact
+Victoria McKillop
+Email
+Victoria.McKillop@hmms.on.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

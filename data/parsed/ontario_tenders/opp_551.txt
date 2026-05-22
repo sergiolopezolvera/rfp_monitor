@@ -1,0 +1,284 @@
+Title: Production Print Equipment Consolidation and Refresh
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Ministry of Public and Business Service Delivery and Procurement is seeking to conduct an open-competitive procurement for high-speed production cut sheet print equipment and associated software and maintenance and support services for the Toronto, Guelph and Kingston locations. This procurement would allow for maintaining internal, highly secured and confidential printing, ensuring seamless and reliable services for OPS clients and Ontarians.
+The Ministry requires the installation, maintenance and support services for high-speed cut sheet print equipment and associated software to deliver time critical, high-volume and high-profile print and mail production that runs on behalf of various Ministry programs. The categories being procured are:
+
+FULL_TEXT:
+Project: tender_21008 - Production Print Equipment Consolidation and Refresh (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21008 - Production Print Equipment Consolidation and Refresh
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21008
+Project Title
+Production Print Equipment Consolidation and Refresh
+Project Reference
+Multi Lot Project
+Yes
+Project Type
+Goods
+Project Categories
+14111500-Printing and writing paper
+43212100-Computer printers
+44101600-Paper processing machines and accessories
+44101700-Printer and photocopier and facsimile accessories
+45101500-Printing machinery and equipment
+45101600-Printing machinery accessories
+45101700-Printing accessories
+45101800-Book binding and sewing equipment and accessories
+45101900-Printing laboratory equipment and accessories
+73151900-Industrial printing services
+78142100-Logistics operation management
+82121500-Printing
+82121700-Photocopying
+82121800-Publishing
+82121900-Bookbinding
+Opportunity Details
+Detailed Description
+Ministry of Public and Business Service Delivery and Procurement is seeking to conduct an open-competitive procurement for high-speed production cut sheet print equipment and associated software and maintenance and support services for the Toronto, Guelph and Kingston locations. This procurement would allow for maintaining internal, highly secured and confidential printing, ensuring seamless and reliable services for OPS clients and Ontarians.
+The procurement opportunity will be a multi-lot Request for Bid (RFB) including different print production equipment categories. Bidders will be able to compete for one, multiple or all categories. The outcome of this procurement opportunity will be separate agreements per each category with a single or multiple vendors.
+Scope of Work
+The Ministry requires the installation, maintenance and support services for high-speed cut sheet print equipment and associated software to deliver time critical, high-volume and high-profile print and mail production that runs on behalf of various Ministry programs. The categories being procured are:
+A.	Cut-Sheet Cheque Printers, Maintenance and Support Services – Minimum speed 130ppm
+B.	Black and White Cut-Sheet Production Printers, Maintenance and Support Services – Minimum speed 130ppm
+C.	Colour Cut-Sheet Production Printers, Maintenance and Support Services – Minimum speed 65ppm
+This procurement opportunity is to refresh current equipment with high-speed commercial-grade printers with various professional finishing features, including cheque printing.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+09/03/2026 08:46
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+30/04/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+60
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Consolidation et renouvellement des équipements d'impression de production
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Le ministère des Services au public et aux entreprises et de l'Approvisionnement cherche à lancer un processus d'approvisionnement concurrentiel ouvert pour des équipements d'impression numérique de production à grande vitesse, ainsi que les logiciels, services de maintenance et de soutien connexes, pour les sites de Toronto, Guelph et Kingston. Cet approvisionnement permettrait de maintenir une impression interne hautement sécurisée et confidentielle, garantissant ainsi des services fiables et sans interruption pour les clients de la FPO et les Ontariens.
+L'occasion d’appprovisionnement prendra la forme d’une demande de soumissions à volets multiples (RFS) comprenant différentes categories d’équipements d’impression de production. Les soumissionnaires pourront participer à une ou plusieurs catégories, voires à toutes. Le résultat de cette démarche d’approvisionnement sera la conclusion d’ententes distinctes pour chaque catégorie, avec un ou plusieurs fournisseurs.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Le Ministère requiert des services d'installation, de maintenance et de soutien pour des équipements d'impression numérique à grande vitesse et les logiciels associés afin de réaliser des impressions et du courrier urgents, volumineux et de grande qualité pour le compte de divers programmes du Ministère. Les catégories de services concernées sont les suivantes :
+a)	Imprimantes numérique de chèques, services de maintenance et d'assistance – Vitesse minimale de 130 ppm
+b)	Imprimantes numérique de production noir et blanc, services de maintenance et d'assistance – Vitesse minimale de 130 ppm
+c)	Imprimantes numérique de production couleur, services de maintenance et d'assistance – Vitesse minimale de 65 ppm
+Cette opportunité d'approvisionnement vise à renouvellé l'équipement actuel avec des imprimantes commerciales à grande vitesse dotées de diverses fonctionnalités de finition professionnelles, notamment l'impression de chèques.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Public and Business Service Delivery and Procurement
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+222 Jarvis Street, Toronto
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M7A 0B6
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+Yes, optional
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+March 18, 2026, at 10:00am (Toronto time).
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Omer Mohammed
+Buyer
+Contact Email Address
+*
+Contact Email Address
+omer.mohammed@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+437-553-7188
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19378
+CATEGORY B: BLACK AND WHITE CUT-SHEET PRODUCTION PRINTERS, MAINTENANCE AND SUPPORT SERVICES – MINIMUM SPEED 130PPM
+30/04/2026 11:00
+2
+RFx
+rfx_19545
+CATEGORY A: CUT-SHEET CHEQUE PRINTERS - Production Print Equipment Consolidation and Refresh
+30/04/2026 11:00
+3
+RFx
+rfx_19634
+CATEGORY C: COLOUR CUT-SHEET PRODUCTION PRINTERS, MAINTENANCE AND SUPPORT SERVICES – MINIMUM SPEED 65PPM
+30/04/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Omer Mohammed
+Email
+Omer.Mohammed@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

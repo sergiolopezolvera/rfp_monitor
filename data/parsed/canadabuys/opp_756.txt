@@ -1,0 +1,47 @@
+Title: Case and Client Relationship Management Solution
+
+Solicitation number: WS4585755327
+
+Publication date: 2026-03-03
+
+Closing date: 2026-04-29
+
+Last amendment date: 2026-04-24
+
+Notice type: Request for Information
+
+Language(s): English, French
+
+Region(s) of delivery: Canada
+
+Procurement method: Competitive – Open Bidding
+
+Selection criteria: Not applicable
+
+Commodity: 81111500 Software or hardware engineering
+
+Organization: Department of Public Works and Government Services (PSPC)
+
+Buying organization(s): Department of Public Works and Government Services (PSPC)
+
+Contracting authority: Martyniuk, David (SPAC/PSPC)
+
+Email: david.martyniuk@tpsgc-pwgsc.gc.ca
+
+Description:
+AMENDMENT TO CLOSING TIME: Please disregard the SAP Business Network posting response closing time and CanadaBuys posting closing time. Unless specified otherwise in the tender opportunity, all required supporting documentation and responses must be submitted by April 29, 2026 at of 14:00 EDT. All responses submitted after 14:00 EDT will result in the submission being declared non-responsive. Participation in this bid solicitation is limited to Qualified Supplier Partnerships (QSPs) that remain qualified under ITQ#E60ZM-241989 and the bid solicitation documents will only be shared with these QSPs. This bid solicitation is being issued to satisfy the requirement of Public Works and Government Services Canada (PWGSC), on behalf of PWGSC’s Human Capital Management Solution Branch, for a Case and Client Relationship Management (CCRM) Solution. PWGSC is seeking to award up to two separate Contracts; one Contract to a CTV who will provide, operate and maintain a secure Service and one Contract to a SI to configure and implement the CMP into production.
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process
+
+Related notices:
+
+- Notice to Industry – CCRM Solution ITQ - Results of the ITQ | WS4585755327 | 2025/06/17 | 2026/06/16
+
+- CCRM Solution – Proactive Disclosure Notice to Industry | WS4585755327 | 2025/04/11 | 2026/04/30
+
+- CCRM - Summary of Feedback and Outcomes Report | WS4585755327 | 2025/02/17 | 2026/04/30
+
+- CCRM Solution Invitation to Qualify | WS4585755327 | 2025/03/07 | 2025/05/02
+
+- Request for Information for a Client Case Relationship Management Solution | WS4585755327 | 2024/05/21 | 2024/07/24

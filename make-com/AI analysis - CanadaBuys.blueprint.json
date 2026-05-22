@@ -1,0 +1,887 @@
+{
+    "name": "AI analysis - CanadaBuys",
+    "flow": [
+        {
+            "id": 14,
+            "module": "google-sheets:watchRows",
+            "version": 2,
+            "parameters": {
+                "from": "drive",
+                "mode": "select",
+                "limit": 20,
+                "sheetId": "Extraction",
+                "__IMTCONN__": 2272778,
+                "spreadsheetId": "/1Q4e5Knq3_v85Jht12OMDqgVo_jlU1KNB/1ipuW-GjksWIJK1fQK4N6YFUYuAWPwKBSpaKB2PPD9IE",
+                "tableFirstRow": "A1:G1",
+                "includesHeaders": true,
+                "valueRenderOption": "FORMATTED_VALUE",
+                "dateTimeRenderOption": "FORMATTED_STRING"
+            },
+            "mapper": {},
+            "metadata": {
+                "designer": {
+                    "x": 21,
+                    "y": 104
+                },
+                "restore": {
+                    "parameters": {
+                        "from": {
+                            "label": "My Drive"
+                        },
+                        "mode": {
+                            "label": "Search by path"
+                        },
+                        "sheetId": {
+                            "label": "Extraction"
+                        },
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google"
+                            },
+                            "label": "Make Academy (lopezolverasergio@gmail.com)"
+                        },
+                        "spreadsheetId": {
+                            "path": [
+                                "ICE opportunities outlook",
+                                "CanadaBuys"
+                            ]
+                        },
+                        "includesHeaders": {
+                            "label": "Yes"
+                        },
+                        "valueRenderOption": {
+                            "mode": "chose",
+                            "label": "Formatted value"
+                        },
+                        "dateTimeRenderOption": {
+                            "mode": "chose",
+                            "label": "Formatted string"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:google",
+                        "label": "Connection",
+                        "required": true
+                    },
+                    {
+                        "name": "mode",
+                        "type": "select",
+                        "label": "Search Method",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "select",
+                                "fromAll",
+                                "map"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "includesHeaders",
+                        "type": "select",
+                        "label": "Table contains headers",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                true,
+                                false
+                            ]
+                        }
+                    },
+                    {
+                        "name": "limit",
+                        "type": "uinteger",
+                        "label": "Limit",
+                        "required": true
+                    },
+                    {
+                        "name": "valueRenderOption",
+                        "type": "select",
+                        "label": "Value render option",
+                        "validate": {
+                            "enum": [
+                                "FORMATTED_VALUE",
+                                "UNFORMATTED_VALUE",
+                                "FORMULA"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "dateTimeRenderOption",
+                        "type": "select",
+                        "label": "Date and time render option",
+                        "validate": {
+                            "enum": [
+                                "SERIAL_NUMBER",
+                                "FORMATTED_STRING"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "from",
+                        "type": "select",
+                        "label": "Drive",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share",
+                                "team"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "spreadsheetId",
+                        "type": "file",
+                        "label": "Spreadsheet ID",
+                        "required": true
+                    },
+                    {
+                        "name": "sheetId",
+                        "type": "select",
+                        "label": "Sheet Name",
+                        "required": true
+                    },
+                    {
+                        "name": "tableFirstRow",
+                        "type": "text",
+                        "label": "Row with headers",
+                        "required": true
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "__ROW_NUMBER__",
+                        "type": "number",
+                        "label": "Row number"
+                    },
+                    {
+                        "name": "__SPREADSHEET_ID__",
+                        "type": "text",
+                        "label": "Spreadsheet ID"
+                    },
+                    {
+                        "name": "__SHEET__",
+                        "type": "text",
+                        "label": "Sheet"
+                    },
+                    {
+                        "name": "0",
+                        "type": "text",
+                        "label": "Title (A)"
+                    },
+                    {
+                        "name": "1",
+                        "type": "text",
+                        "label": "Publication date (B)"
+                    },
+                    {
+                        "name": "2",
+                        "type": "text",
+                        "label": "Closing date (C)"
+                    },
+                    {
+                        "name": "3",
+                        "type": "text",
+                        "label": "Description (D)"
+                    },
+                    {
+                        "name": "4",
+                        "type": "text",
+                        "label": "Organization (E)"
+                    },
+                    {
+                        "name": "5",
+                        "type": "text",
+                        "label": "URL (F)"
+                    },
+                    {
+                        "name": "6",
+                        "type": "text",
+                        "label": "Timestamp (G)"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "module": "ai-agent:RunAnAIAgent",
+            "version": 0,
+            "parameters": {},
+            "mapper": {
+                "agent": "06e73f88-1ebb-4a4b-ba8c-80c145846537",
+                "timeout": "",
+                "messages": [
+                    "Title:{{14.`0`}}\n\nDescription:{{14.`3`}}\n\nOrganization{{14.`4`}}\n\npublicationDate:{{14.`1`}}\n\nclosingDate:{{14.`2`}}"
+                ],
+                "threadID": "",
+                "outputType": "text",
+                "additionalSystemPrompt": ""
+            },
+            "metadata": {
+                "designer": {
+                    "x": 300,
+                    "y": 150
+                },
+                "restore": {
+                    "expect": {
+                        "agent": {
+                            "label": "ICE opportunities outlook agent"
+                        },
+                        "messages": {
+                            "mode": "chose",
+                            "items": [
+                                null
+                            ]
+                        },
+                        "outputType": {
+                            "label": "Text"
+                        }
+                    }
+                },
+                "expect": [
+                    {
+                        "name": "agent",
+                        "type": "aiagent",
+                        "label": "Agent",
+                        "required": true
+                    },
+                    {
+                        "name": "threadID",
+                        "type": "text",
+                        "label": "Thread ID",
+                        "validate": {
+                            "max": 256
+                        }
+                    },
+                    {
+                        "name": "additionalSystemPrompt",
+                        "type": "text",
+                        "label": "Additional system instructions"
+                    },
+                    {
+                        "name": "messages",
+                        "spec": {
+                            "name": "value",
+                            "type": "text",
+                            "label": "Message"
+                        },
+                        "type": "array",
+                        "label": "Messages"
+                    },
+                    {
+                        "name": "timeout",
+                        "type": "number",
+                        "label": "Timeout",
+                        "validate": {
+                            "max": 600,
+                            "min": 120
+                        }
+                    },
+                    {
+                        "name": "outputType",
+                        "type": "select",
+                        "label": "Output schema",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "text",
+                                "make-schema"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "module": "json:ParseJSON",
+            "version": 1,
+            "parameters": {
+                "type": ""
+            },
+            "filter": {
+                "name": "Only accesible items",
+                "conditions": [
+                    [
+                        {
+                            "a": "{{14.`5`}}",
+                            "o": "exist"
+                        }
+                    ]
+                ]
+            },
+            "mapper": {
+                "json": "{{13.response}}"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 600,
+                    "y": 150
+                },
+                "restore": {
+                    "parameters": {
+                        "type": {
+                            "label": "Choose a data structure"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "type",
+                        "type": "udt",
+                        "label": "Data structure"
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "json",
+                        "type": "text",
+                        "label": "JSON string",
+                        "required": true
+                    }
+                ]
+            },
+            "onerror": [
+                {
+                    "id": 7,
+                    "module": "builtin:Ignore",
+                    "version": 1,
+                    "metadata": {
+                        "designer": {
+                            "x": 900,
+                            "y": 300
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "module": "google-sheets:addRow",
+            "version": 2,
+            "parameters": {
+                "__IMTCONN__": 2272778
+            },
+            "filter": {
+                "name": "Only Fits",
+                "conditions": []
+            },
+            "mapper": {
+                "from": "drive",
+                "mode": "select",
+                "values": {
+                    "0": "{{14.`0`}}",
+                    "1": "{{14.`3`}}",
+                    "2": "{{14.`4`}}",
+                    "3": "{{6.publicationDate}}",
+                    "4": "{{6.closingDate}}",
+                    "5": "{{14.`5`}}",
+                    "6": "{{6.isFit}}",
+                    "7": "{{6.fitScore}}",
+                    "8": "{{6.reasoning}}",
+                    "9": "{{6.matchedServices}}",
+                    "10": "{{6.potentialConcerns}}",
+                    "11": "CanadaBuys"
+                },
+                "sheetId": "Sheet1",
+                "spreadsheetId": "/1Q4e5Knq3_v85Jht12OMDqgVo_jlU1KNB/148wp3PI6KmB03NtC0Bp4dNH3tYif5J8G0cHkaGehdZA",
+                "includesHeaders": true,
+                "insertDataOption": "INSERT_ROWS",
+                "useColumnHeaders": false,
+                "valueInputOption": "USER_ENTERED",
+                "insertUnformatted": false
+            },
+            "metadata": {
+                "designer": {
+                    "x": 900,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "from": {
+                            "label": "My Drive"
+                        },
+                        "mode": {
+                            "label": "Search by path"
+                        },
+                        "sheetId": {
+                            "label": "Sheet1"
+                        },
+                        "spreadsheetId": {
+                            "path": [
+                                "ICE opportunities outlook",
+                                "AgentOutput"
+                            ]
+                        },
+                        "includesHeaders": {
+                            "label": "Yes"
+                        },
+                        "insertDataOption": {
+                            "mode": "chose",
+                            "label": "Insert rows"
+                        },
+                        "useColumnHeaders": {
+                            "label": "No",
+                            "nested": [
+                                {
+                                    "name": "values",
+                                    "spec": [
+                                        {
+                                            "name": "0",
+                                            "type": "text",
+                                            "label": "Title (A)"
+                                        },
+                                        {
+                                            "name": "1",
+                                            "type": "text",
+                                            "label": "Description (B)"
+                                        },
+                                        {
+                                            "name": "2",
+                                            "type": "text",
+                                            "label": "Organization (C)"
+                                        },
+                                        {
+                                            "name": "3",
+                                            "type": "text",
+                                            "label": "Published (D)"
+                                        },
+                                        {
+                                            "name": "4",
+                                            "type": "text",
+                                            "label": "Closing (E)"
+                                        },
+                                        {
+                                            "name": "5",
+                                            "type": "text",
+                                            "label": "URL (F)"
+                                        },
+                                        {
+                                            "name": "6",
+                                            "type": "text",
+                                            "label": "IsFit (G)"
+                                        },
+                                        {
+                                            "name": "7",
+                                            "type": "text",
+                                            "label": "Fit Score (H)"
+                                        },
+                                        {
+                                            "name": "8",
+                                            "type": "text",
+                                            "label": "Reasoning (I)"
+                                        },
+                                        {
+                                            "name": "9",
+                                            "type": "text",
+                                            "label": "Matching services (J)"
+                                        },
+                                        {
+                                            "name": "10",
+                                            "type": "text",
+                                            "label": "Potential Concerns (K)"
+                                        },
+                                        {
+                                            "name": "11",
+                                            "type": "text",
+                                            "label": "Source (L)"
+                                        },
+                                        {
+                                            "name": "12",
+                                            "type": "text",
+                                            "label": "Evaluation (M)"
+                                        },
+                                        {
+                                            "name": "13",
+                                            "type": "text",
+                                            "label": "(N)"
+                                        },
+                                        {
+                                            "name": "14",
+                                            "type": "text",
+                                            "label": "(O)"
+                                        },
+                                        {
+                                            "name": "15",
+                                            "type": "text",
+                                            "label": "(P)"
+                                        },
+                                        {
+                                            "name": "16",
+                                            "type": "text",
+                                            "label": "(Q)"
+                                        },
+                                        {
+                                            "name": "17",
+                                            "type": "text",
+                                            "label": "(R)"
+                                        },
+                                        {
+                                            "name": "18",
+                                            "type": "text",
+                                            "label": "(S)"
+                                        },
+                                        {
+                                            "name": "19",
+                                            "type": "text",
+                                            "label": "(T)"
+                                        },
+                                        {
+                                            "name": "20",
+                                            "type": "text",
+                                            "label": "(U)"
+                                        },
+                                        {
+                                            "name": "21",
+                                            "type": "text",
+                                            "label": "(V)"
+                                        },
+                                        {
+                                            "name": "22",
+                                            "type": "text",
+                                            "label": "(W)"
+                                        },
+                                        {
+                                            "name": "23",
+                                            "type": "text",
+                                            "label": "(X)"
+                                        },
+                                        {
+                                            "name": "24",
+                                            "type": "text",
+                                            "label": "(Y)"
+                                        },
+                                        {
+                                            "name": "25",
+                                            "type": "text",
+                                            "label": "(Z)"
+                                        }
+                                    ],
+                                    "type": "collection",
+                                    "label": "Values in columns",
+                                    "metadata": [
+                                        [
+                                            [
+                                                "Title",
+                                                "Description",
+                                                "Organization",
+                                                "Published",
+                                                "Closing",
+                                                "URL",
+                                                "IsFit",
+                                                "Fit Score",
+                                                "Reasoning",
+                                                "Matching services",
+                                                "Potential Concerns",
+                                                "Source",
+                                                "Evaluation"
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            ]
+                        },
+                        "valueInputOption": {
+                            "mode": "chose",
+                            "label": "User entered"
+                        },
+                        "insertUnformatted": {
+                            "mode": "chose"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google"
+                            },
+                            "label": "Make Academy (lopezolverasergio@gmail.com)"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:google",
+                        "label": "Connection",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "mode",
+                        "type": "select",
+                        "label": "Search Method",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "select",
+                                "fromAll",
+                                "map"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "insertUnformatted",
+                        "type": "boolean",
+                        "label": "Unformatted",
+                        "required": true
+                    },
+                    {
+                        "name": "valueInputOption",
+                        "type": "select",
+                        "label": "Value input option",
+                        "validate": {
+                            "enum": [
+                                "USER_ENTERED",
+                                "RAW"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "insertDataOption",
+                        "type": "select",
+                        "label": "Insert data option",
+                        "validate": {
+                            "enum": [
+                                "INSERT_ROWS",
+                                "OVERWRITE"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "from",
+                        "type": "select",
+                        "label": "Drive",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share",
+                                "team"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "spreadsheetId",
+                        "type": "file",
+                        "label": "Spreadsheet Name",
+                        "required": true
+                    },
+                    {
+                        "name": "sheetId",
+                        "type": "select",
+                        "label": "Sheet Name",
+                        "required": true
+                    },
+                    {
+                        "name": "includesHeaders",
+                        "type": "select",
+                        "label": "Table contains headers",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                true,
+                                false
+                            ]
+                        }
+                    },
+                    {
+                        "name": "useColumnHeaders",
+                        "type": "select",
+                        "label": "Use column headers as IDs of the columns",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                true,
+                                false
+                            ]
+                        }
+                    },
+                    {
+                        "name": "values",
+                        "spec": [
+                            {
+                                "name": "0",
+                                "type": "text",
+                                "label": "Title (A)"
+                            },
+                            {
+                                "name": "1",
+                                "type": "text",
+                                "label": "Description (B)"
+                            },
+                            {
+                                "name": "2",
+                                "type": "text",
+                                "label": "Organization (C)"
+                            },
+                            {
+                                "name": "3",
+                                "type": "text",
+                                "label": "Published (D)"
+                            },
+                            {
+                                "name": "4",
+                                "type": "text",
+                                "label": "Closing (E)"
+                            },
+                            {
+                                "name": "5",
+                                "type": "text",
+                                "label": "URL (F)"
+                            },
+                            {
+                                "name": "6",
+                                "type": "text",
+                                "label": "IsFit (G)"
+                            },
+                            {
+                                "name": "7",
+                                "type": "text",
+                                "label": "Fit Score (H)"
+                            },
+                            {
+                                "name": "8",
+                                "type": "text",
+                                "label": "Reasoning (I)"
+                            },
+                            {
+                                "name": "9",
+                                "type": "text",
+                                "label": "Matching services (J)"
+                            },
+                            {
+                                "name": "10",
+                                "type": "text",
+                                "label": "Potential Concerns (K)"
+                            },
+                            {
+                                "name": "11",
+                                "type": "text",
+                                "label": "Source (L)"
+                            },
+                            {
+                                "name": "12",
+                                "type": "text",
+                                "label": "Evaluation (M)"
+                            },
+                            {
+                                "name": "13",
+                                "type": "text",
+                                "label": "(N)"
+                            },
+                            {
+                                "name": "14",
+                                "type": "text",
+                                "label": "(O)"
+                            },
+                            {
+                                "name": "15",
+                                "type": "text",
+                                "label": "(P)"
+                            },
+                            {
+                                "name": "16",
+                                "type": "text",
+                                "label": "(Q)"
+                            },
+                            {
+                                "name": "17",
+                                "type": "text",
+                                "label": "(R)"
+                            },
+                            {
+                                "name": "18",
+                                "type": "text",
+                                "label": "(S)"
+                            },
+                            {
+                                "name": "19",
+                                "type": "text",
+                                "label": "(T)"
+                            },
+                            {
+                                "name": "20",
+                                "type": "text",
+                                "label": "(U)"
+                            },
+                            {
+                                "name": "21",
+                                "type": "text",
+                                "label": "(V)"
+                            },
+                            {
+                                "name": "22",
+                                "type": "text",
+                                "label": "(W)"
+                            },
+                            {
+                                "name": "23",
+                                "type": "text",
+                                "label": "(X)"
+                            },
+                            {
+                                "name": "24",
+                                "type": "text",
+                                "label": "(Y)"
+                            },
+                            {
+                                "name": "25",
+                                "type": "text",
+                                "label": "(Z)"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "Values in columns",
+                        "metadata": [
+                            [
+                                [
+                                    "Title",
+                                    "Description",
+                                    "Organization",
+                                    "Published",
+                                    "Closing",
+                                    "URL",
+                                    "IsFit",
+                                    "Fit Score",
+                                    "Reasoning",
+                                    "Matching services",
+                                    "Potential Concerns",
+                                    "Source",
+                                    "Evaluation"
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "instant": false,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "zone": "us2.make.com",
+        "notes": []
+    }
+}

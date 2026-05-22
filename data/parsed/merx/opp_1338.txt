@@ -1,0 +1,97 @@
+Title: W7714-248676/012 - True North Precision - Low Cost Drones With Laser Ranging
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-829-18951400
+
+Solicitation Number: W7714-248676/012
+
+Issuing Organization: Department of Public Works and Government Services (PSPC)
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: Canada
+
+Publication date: 2026-04-29
+
+Closing date: 2026-06-10
+
+Contact name: PWGSC IDEaS Team / L'équipe IDEeS de TPSGC
+
+Contact email: tpsgc.paidees-apideas.pwgsc@tpsgc-pwgsc.gc.ca
+
+Description:
+This Challenge notice is issued under the Innovation for Defence Excellence and Security (IDEaS) Program Call for Proposals (CFP) Call 006 (W7714-248676/A).
+Solicitation Documents reference: See “Bidding details” section.
+*For additional general information on the IDEaS Program, visit: https://www.canada.ca/en/department-national-defence/programs/defence-ideas.html
+_____________
+This challenge is open to receive proposals for Component 1a, Component 1b and Component 2. Proposed solutions that fall within technology readiness levels (TRL) 1-9 can be submitted to this challenge.
+Steps to apply:
+Step 1: read this challenge
+Step 2: read the Call for Proposals : See “Bidding details” section
+Step 3: propose your solution here : https://defence-innovation-portal.my.site.com/
+_____________
+Maximum Funding and Performance Period
+Multiple contracts could result from this Challenge.
+The individual maximum contract funding available under Component 1a (TRL 1 to 3) is up to $250,000 CAD (excluding applicable taxes) for a maximum performance period of up to 6 months.
+The maximum individual contract funding available under Component 1b (TRL 4 and 5) is up to $1,500,000 CAD (excluding applicable taxes) for a maximum performance period of 12 months.
+The maximum individual contract funding available under Component 2 (TRL 6 to 9) is up to $5,000,000 CAD (excluding applicable taxes). The period of performance will be determined at the time of contract negotiation.
+The maximum individual contractual funding and the maximum performance period offered under Component 3 will be determined by Canada at the time of contract negotiation.
+This disclosure is made in good faith and does not commit Canada to contract for the total approximate funding.
+_____________
+Challenge Details
+Challenge Title: W7714-248676/012 - True north precision: Low cost drones with laser ranging
+The Department of National Defence (DND) and the Canadian Armed Forces (CAF) are seeking innovative solutions for cost-effective uncrewed aerial systems (UAS) to provide accurate range and target cueing information to support indirect fire missions and battlefield awareness. Current systems either lack the precision and resilience required for use in contested electromagnetic environments or are prohibitively expensive for widespread deployment.
+This challenge is being supported by the Bureau of Research, Engineering and Advanced Leadership in Innovation and Science (BOREALIS).
+Background and Operational Context
+Modern battlefield environments present significant challenges for tactical Intelligence, Surveillance, and Reconnaissance (ISR) operations, particularly at the platoon and company levels. While advanced ISR platforms offer exceptional performance, their high cost, export restrictions, and sustainment complexity limit their scalability and accessibility for frontline units. Conversely, small commercial drones, though affordable and widely available, lack the geolocation precision required to support sensor-to-shooter integration and effective fire mission coordination.
+Canadian and allied forces currently rely on a polarized mix of ISR capabilities: low-cost quadcopters for short-range reconnaissance and high-end Class 2 systems for more complex missions. This polarization has created a capability gap in the mid-tier range, specifically, the absence of affordable, durable ISR drones that can deliver precise rangefinding and target cueing under contested electromagnetic conditions.
+To address this gap, there is a need for compact, low-power, and ruggedized rangefinding or target-designation payloads that can be integrated into small ISR drones.
+The initial operational focus is on supporting mortar and artillery observers by providing accurate range and geolocation data to improve calls for fire, enabling observers to operate from protected positions. Once validated, the system could be scaled to support mounted reconnaissance teams, partner force augmentation, and networked fires coordination across combined arms teams.
+Validation, Refinement, and User Engagement Activities
+As part of this Challenge, structured user engagement and iterative capability development activities will be integrated into the contract period to support solution maturation and ensure alignment with CAF operational needs.
+A mid point Capability Validation and Refinement Activity is expected to be scheduled approximately three to four months after contract award. This activity will be conducted over several consecutive days and will bring together all participating innovators to assess progress achieved to that point through hands on testing.
+The Capability Validation and Refinement Activity is intended to enable iterative, collaborative engagement between innovators and CAF end users. During this period, innovators will have the opportunity to test and present their evolving solutions, receive direct operational feedback, and make adjustments or refinements in response. Follow on testing and exchanges during the same activity window will allow innovators to validate refinements and engage in further technical and operational discussions, helping to inform priorities for the next development sprint.
+At the conclusion of the contract period, a Final Capability Assessment Activity will be conducted and DND/CAF will provide feedback. This activity will assess the overall maturity, performance, and operational relevance of proposed solutions against the Challenge outcomes.
+The timing, location, and detailed format of all activities will be communicated at a later date.
+As there are a variety of strategies and methods that could be proposed for meeting this challenge, DND/CAF is providing some guidance to innovators based on the current state of this capability domain and experiences with similar projects: (Typical Budgets are Approximate)
+Examples of Proposal Activities:
+Integration of Technologies onto Existing UAS Platforms $100,000.00
+Mid-Point Capability Validation $20,000.00
+Development and Refinement of UAS Technologies $160,000.00
+Assessment Activity of Capabilities $20,000.00
+Total for all Proposal Activities $300,000.00
+Essential Outcomes
+Proposed solutions must demonstrate the following:
+• EO1- Precision Rangefinding : ±2 m range accuracy at 1 km to a vehicle-sized target (10 figure Military Grid Reference System (MGRS)). Continuous range updates for targets moving up to 10 m/s with = 1 s latency and = 2 m positional error at 1 km.
+• EO2- Platform Performance: Must fall within operational radius of 3 - 4 km (Line of Sight (LOS) or Beyond Visual Line of Sight (BVLOS) with waiver); = 30 minutes endurance under standard conditions.
+• EO3- Resilience & Navigation: Maintain rangefinding/geolocation capability during Global Navigation Satellite System (GNSS) degradation; provide a fallback navigation (e.g., visual odometry, inertial fusion, Real-Time Kinematic correction).
+• EO4- Environmental & Operational Robustness: Operable at 0oC and above. Maintain functionality in sustained/gusting winds up to 10 m/s. Demonstrate performance of target acquisition in presence of dust/smoke/obscurants (e.g. MIL-STD-810 Method 510.5 compliance).
+• EO5- Data Handling & Safety: Class 1 eye-safe laser operation for rangefinder and information handling compliant with ITSP.10.171 .
+• EO6- Size: Integrated system including drone and sensor payload must not weigh more than 25kg
+• EO7- Operational Testing : A prototype of the innovative solution will be ready for a final capability assessment activity to be held in May 2027
+Desired Outcomes
+Proposed solutions should include capabilities and considerations such as, but not limited to, the following:
+• DO1- Target Designation: STANAG 3733 compliant; up to Class 4 laser designation capability.
+• DO2- Advanced Rangefinding: ±1 m accuracy at 1 km on human-sized targets. Continuous range updates for targets moving up to 10 m/s with = 1 s latency and = 2 m positional error at 1 km.
+• DO3- Environmental & Operational Robustness: Operable at -20 °C and above. Maintain functionality in sustained/gusting winds up to 15 m/s. Demonstrate performance in dust/smoke/obscurants – MIL-STD-810 Method 510.5. Operate in precipitation of 4mm/m2/hr.
+• DO4- Sensor-to-Shooter Integration: Real-time telemetry and integration with ATAK based ground control systems. STANAG 4586 for independent control of payload and 4609 for Full Motion Video (FMV) data. Impact adjustment feature for fires.
+• DO5- High-Speed Target Tracking: Track targets moving up to 20 m/s with predictive smoothing and automatic track handoff to ground C2 systems.
+• DO6- Modular Payload Design: The platform is designed with a modular payload bay to allow replacement of sensors or batteries without structural modification.
+• DO7- Autonomous Navigation: Autonomous or semi-autonomous (e.g. waypoint navigation) operation in GNSS-denied environments using multiple alternative navigation methods (e.g., visual odometry, inertial fusion). Front facing automated obstacle avoidance.
+• DO8- Origin: The countries of origin for critical systems, including data transmission devices, flight controllers, software and onboard computers are clearly identified.
+• DO9- EM Resilience: Fibre optic wire or alternate non-Electromagnetic (EM) spectrum means of control and data transfer from Ground Control Station (GCS) to air vehicle. Remote extension of GCS transmitter from operator.
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

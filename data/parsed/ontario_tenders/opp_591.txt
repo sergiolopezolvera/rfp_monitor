@@ -1,0 +1,258 @@
+Title: Corporate Cards and Additional Services - CCARD
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Supply Ontario aims to deliver a comprehensive range of Corporate Card and additional services to Ontario Public Service (OPS) and Non-OPS entities. To accomplish this, Supply Ontario is soliciting the expertise of Corporate Card issuers and financial institutions.
+
+The successful Vendor will be responsible for providing comprehensive Corporate Card and Additional services to the OPS and Non-OPS, including but not limited to issuing, renewing, and replacing Procurement Cards, Travel Cards, One Card (Single Card) solutions, Discreet cards and Department Cards as required. The Vendor will manage all processes related to lost, stolen, or compromised cards, and will provide an online service portal that enables Clients and cardholders to manage profiles, access statements, and perform required account functions. The Vendor will oversee billing and payment processes in alignment with Client requirements and will assign a dedicated account manager, along with an alternate, to serve as the primary point of contact for all matters. The Vendor will also be responsible for delivering comprehensive reporting to support oversight and financial management. In addition, the Vendor must provide full implementation and transition services to support the rollout of the Corporate Card Program and all related services, with the requirement that the program will be fully implemented by April 1, 2027.
+
+FULL_TEXT:
+Project: tender_21601 - Corporate Cards and Additional Services - CCARD (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21601 - Corporate Cards and Additional Services - CCARD
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21601
+Project Title
+Corporate Cards and Additional Services - CCARD
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+64101800-Card based revolving credit products
+64101900-Account based credit products
+84111700-Corporate finance
+84121500-Banking institutions
+Opportunity Details
+Detailed Description
+Supply Ontario aims to deliver a comprehensive range of Corporate Card and additional  services to Ontario Public Service (OPS) and Non-OPS entities. To accomplish this, Supply Ontario is soliciting the expertise of Corporate Card issuers and financial institutions.
+Scope of Work
+The successful Vendor will be responsible for providing comprehensive Corporate Card and Additional services to the OPS and Non-OPS, including but not limited to issuing, renewing, and replacing Procurement Cards, Travel Cards,  One Card (Single Card) solutions, Discreet cards and Department Cards as required. The Vendor will manage all processes related to lost, stolen, or compromised cards, and will provide an online service portal that enables Clients and cardholders to manage profiles, access statements, and perform required account functions. The Vendor will oversee billing and payment processes in alignment with Client requirements and will assign a dedicated account manager, along with an alternate, to serve as the primary point of contact for all matters. The Vendor will also be responsible for delivering comprehensive reporting to support oversight and financial management. In addition, the Vendor must provide full implementation and transition services to support the rollout of the Corporate Card Program and all related services, with the requirement that the program will be fully implemented by April 1, 2027.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+17/04/2026 08:56
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+21/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+96
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Entente de fournisseurs attitrés à l’échelle de l’entreprise pour les cartes d’entreprise
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+ApprovisiOntario vise à offrir une gamme complète de services de cartes d’entreprise aux entités de la fonction publique de l’Ontario (FPO) et aux autres entités. Pour y parvenir, ApprovisiOntario sollicite l’expertise des émetteurs de cartes d’entreprise et des institutions financières.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Le fournisseur retenu sera responsable de fournir des services complets de cartes d’entreprise à la FPO et aux autres entités, y compris, mais sans s’y limiter, délivrer, renouveler et remplacer les cartes d’approvisionnement, les cartes de voyage, les solutions de carte unique, les cartes discrètes et les cartes de ministère, selon les besoins. Le fournisseur gérera tous les processus liés aux cartes perdues, volées ou compromises, et offrira un portail de service en ligne permettant aux clients et aux titulaires de carte de gérer les profils, d’accéder aux relevés et d’effectuer les fonctions requises du compte. Le fournisseur supervisera les processus de facturation et de paiement conformément aux besoins du client et assignera un gestionnaire de compte dédié, ainsi qu’un suppléant, pour servir de point de contact principal pour toutes les affaires. Le fournisseur sera également responsable de fournir des rapports complets pour soutenir la supervision et la gestion financière. De plus, le fournisseur doit fournir des services complets de mise en œuvre et de transition pour soutenir le déploiement du programme de carte d’entreprise et de tous les services connexes, en attendant que le programme soit entièrement mis en œuvre d’ici le 1er avril 2027.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Supply Ontario
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+200 Front Street West, Suite 2800
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M5V 3L1
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+Yes, Optional
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+29/04/2026 (10:00 AM) Toronto time
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/281283443343440?p=JkR6IGv7Ic2swm4ZBI
+Meeting ID: 281 283 443 343 440
+Passcode: nz6V9fw6
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Japjot Lail, Senior Procurement Consultant
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Please send all questions to the VOR Contact through the Ontario Tenders Portal (“OTP”) eTendering System online messaging function.
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+111-111-1111
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19709
+CCARD
+21/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Japjot Lail
+Email
+Japjot.Lail@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

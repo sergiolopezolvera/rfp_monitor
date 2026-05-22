@@ -1,0 +1,50 @@
+Title: Development and Validation of Parametric IM/IT Cost Analysis
+
+Solicitation number: 100029379-A
+
+Publication date: 2026-04-13
+
+Closing date: 2026-05-27
+
+Last amendment date: 2026-04-27
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: Canada
+
+Contract duration: 12 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 81162000 Cloud-based software as a service
+
+Organization: Department of Employment and Social Development (ESDC)
+
+Contracting authority: Megan Souaid
+
+Email: NC-SOLICITATIONS-GD@hrsdc-rhdcc.gc.ca
+
+Phone: (999) 999-9999
+
+Description:
+Benefits Delivery Modernization (BDM) requires a parametric costing tool that must perform validation estimated to Complex IM/IT Initiatives, such as, develop estimates of labor hours, cost, and schedule for these initiatives. This will be done using proprietary databases that must include data on historical software development projects in addition to built-in parametric equations. The duration of the contract is for a total of 4-years, 1 initial year and 3 optional periods
+
+Trade agreements:
+Canada-Korea Free Trade Agreement (CKFTA)
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- 100029379-A-RFP.pdf | EN | 2026/04/13
+
+- 100029379-A-RFP FR.pdf | FR | 2026/04/13
+
+- 100029379-A-APM.pdf | FR | 2026/04/13
+
+- 100029379-A-NPP.pdf | EN | 2026/04/13

@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+
+{% block title %}Opportunities | RFP Monitor{% endblock %}
+
+{% block content %}
+  <section class="panel">
+    <h2>Opportunity Review Queue</h2>
+    <form method="get" action="/opportunities" class="toolbar">
+      <select name="source">
+        <option value="">All sources</option>
+        {% for source_name in filters.sources %}
+          <option value="{{ source_name }}" {% if current_filters.source == source_name %}selected{% endif %}>{{ source_name }}</option>
+        {% endfor %}
+      </select>
+
+      <select name="status">
+        <option value="">All statuses</option>
+        {% for status in filters.statuses %}
+          <option value="{{ status }}" {% if current_filters.status == status %}selected{% endif %}>{{ status }}</option>
+        {% endfor %}
+      </select>
+
+      <select name="fit_result">
+        <option value="">All fit results</option>
+        <option value="fit" {% if current_filters.fit_result == "fit" %}selected{% endif %}>Fit</option>
+        <option value="not_fit" {% if current_filters.fit_result == "not_fit" %}selected{% endif %}>Not fit</option>
+        <option value="unanalyzed" {% if current_filters.fit_result == "unanalyzed" %}selected{% endif %}>Unanalyzed</option>
+      </select>
+
+      <input type="date" name="closing_from" value="{{ current_filters.closing_from }}" />
+      <input type="date" name="closing_to" value="{{ current_filters.closing_to }}" />
+      <button type="submit">Apply filters</button>
+      <a href="/opportunities" class="badge">Reset</a>
+    </form>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Source</th>
+            <th>Title</th>
+            <th>Organization</th>
+            <th>Publication date</th>
+            <th>Closing date</th>
+            <th>Status</th>
+            <th>Fit score</th>
+            <th>Analysis status</th>
+            <th>Detail</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in page_data.items %}
+            <tr>
+              <td>{{ row.opportunity.id }}</td>
+              <td>{{ row.source.name }}</td>
+              <td>{{ row.opportunity.title or "Untitled opportunity" }}</td>
+              <td>{{ row.opportunity.organization or "n/a" }}</td>
+              <td>{{ row.opportunity.publication_date.isoformat() if row.opportunity.publication_date else "n/a" }}</td>
+              <td>{{ row.opportunity.closing_date.isoformat() if row.opportunity.closing_date else "n/a" }}</td>
+              <td><span class="badge">{{ row.opportunity.status }}</span></td>
+              <td>
+                {% if row.latest_analysis and row.latest_analysis.fit_score == 3 %}High
+                {% elif row.latest_analysis and row.latest_analysis.fit_score == 2 %}Medium
+                {% elif row.latest_analysis and row.latest_analysis.fit_score == 1 %}Low
+                {% else %}n/a{% endif %}
+              </td>
+              <td>
+                {% if row.latest_analysis %}
+                  <span class="badge success">Analyzed</span>
+                {% else %}
+                  <span class="badge warn">Pending</span>
+                {% endif %}
+              </td>
+              <td><a href="/opportunities/{{ row.opportunity.id }}">Open</a></td>
+            </tr>
+          {% else %}
+            <tr>
+              <td colspan="10" class="subtle">No opportunities matched the current filters.</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="pagination">
+      <div class="subtle">
+        Page {{ page_data.page }} of {{ page_data.total_pages }} · {{ page_data.total_items }} total opportunities
+      </div>
+      <div class="action-bar">
+        {% if page_data.page > 1 %}
+          <a
+            class="badge"
+            href="?page={{ page_data.page - 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&closing_from={{ current_filters.closing_from }}&closing_to={{ current_filters.closing_to }}"
+          >
+            Previous
+          </a>
+        {% endif %}
+        {% if page_data.page < page_data.total_pages %}
+          <a
+            class="badge"
+            href="?page={{ page_data.page + 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&closing_from={{ current_filters.closing_from }}&closing_to={{ current_filters.closing_to }}"
+          >
+            Next
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+{% endblock %}

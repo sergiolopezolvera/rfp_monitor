@@ -1,0 +1,271 @@
+Title: Security Equipment
+
+Project reference: PR_5022
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Supply and delivery of security equipment
+
+Bidders are invited to submit Bids for the provision of security equipment for use by the Ministry of the Solicitor General and the Ministry of Children, Community and Social Services (MCCSS), on an as-and-when required basis to be supplied and delivered to Ministry Facilities by security equipment vendors for specific brands in Canada.
+
+FULL_TEXT:
+Project: tender_21540 - Security Equipment (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21540 - Security Equipment
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+PR_5022
+Project Details
+Project Code
+tender_21540
+Project Title
+Security Equipment
+Project Reference
+PR_5022
+Multi Lot Project
+Yes
+Project Type
+Goods
+Project Categories
+46151500-Crowd control equipment
+46151600-Security and control equipment
+46182500-Personal safety devices or weapons
+46201000-Public safety training equipment
+Opportunity Details
+Detailed Description
+Supply and delivery of security equipment
+Scope of Work
+Bidders are invited to submit Bids for the provision of security equipment for use by the Ministry of the Solicitor General and the Ministry of Children, Community and Social Services (MCCSS), on an as-and-when required basis to be supplied and delivered to Ministry Facilities by security equipment vendors for specific brands in Canada.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+10/04/2026 08:10
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+13/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+24
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Equipement de sécurité
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Fourniture et livraison d’équipement de sécurité
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Les soumissionnaires sont invités à présenter des soumissions pour la fourniture, au fur et à mesure des besoins, d’équipement de sécurité destiné au ministère du Solliciteur général et au ministère des Services à l’enfance et des Services sociaux et communautaires, lequel sera fourni et livré à leurs installations par des fournisseurs autorisés de marques précises au Canada.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Solicitor General
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+Floor 16, George Drew Building
+25 Grosvenor Street
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M7A 1Y6
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+Yes, Optional
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Manvir Gakhal
+Buyer
+Contact Email Address
+*
+Contact Email Address
+manvir.gakhal@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+416-508-3019
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+Qualification Only RFx
+rfx_19690
+Security Equipment
+13/05/2026 11:00
+2
+RFx
+rfx_19691
+Category A
+13/05/2026 11:00
+3
+RFx
+rfx_19692
+Category B
+13/05/2026 11:00
+4
+RFx
+rfx_19693
+Category C
+13/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Manvir Gakhal
+Email
+Manvir.Gakhal@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

@@ -1,0 +1,57 @@
+Title: AC040726 - Tier 3 IT Services and Leadership Development
+
+Status: This solicitation is OPEN
+
+Reference Number: 00004987931
+
+Solicitation Number: AC040726
+
+Issuing Organization: Municipality of The County of Annapolis
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: Nova Scotia
+
+Purchase Type: Not Stated
+
+Publication date: 2026-04-08
+
+Closing date: 2026-04-30
+
+Contact name: Sarah Kucharski
+
+Contact email: skucharski@annapoliscounty.ca
+
+AI Overview:
+RFP for experienced IT professional with minimum 10 years experience to provide Tier 3 IT services and IT leadership development for junior to mid-level staff.
+
+Description:
+This Request for Proposals (“RFP”) is an invitation by the Municipality of the County of Annapolis for the submission of qualified bids related to Tier 3 IT services and IT Leadership Development.
+This requirement is for an experienced IT professional with a minimum of ten (10) years of experience in Tier 3 IT services, delivering IT projects, and developing junior to mid-level IT staff.
+Tier 3 Services:
+• Guidance on future infrastructure needs and procurement strategies
+• Support the move away from on-premises server infrastructure for active directory to Azure
+• Support network infrastructure upgrades
+• Support laptop Intune migration
+• Migrating staff to OneDrive
+• Phishing simulation configuration assistance
+• Upgrade to building security software
+• Upgrade monitoring on-site and cloud backups
+• Server configuration and management guidance
+• Guidance on critical or emergency situations
+Leadership Development:
+• Identify technical knowledge gaps and develop a plan for resolution. Work with Deputy CAO to develop ongoing performance metrics. Develop and support plan for IT leadership development.
+• Provide opportunities for knowledge transfer, skills building, and long-term leader readiness.
+• Identify strategic opportunities for the department.
+• Support staff in developing policies and procedures.
+Project Management:
+Work may include carrying out project initiation (production of project charters and stakeholder registers), planning (production of project management plans), executing (ensuring work is issued and being acted upon), monitoring & controlling (keeping the project on track and making plan adjustments and change requests as required) and closing (orderly shutdown of contracts, recording of lessons learned, possibly reviewing related future phases).
+See more
+
+Disclaimer:
+Disclaimer
+All details to the associated notice, including documents, plans and specifications (where applicable), are issued on
+Nova Scotia Tenders
+. MERX asks that you refer to the
+Nova Scotia Tenders
+notice for these details. MERX stipulates that potential bidders may also be required to register with the buying authority as a bidder/plan taker. The contact information can be found within the notice abstract. For full details, please check with the original source of the content.

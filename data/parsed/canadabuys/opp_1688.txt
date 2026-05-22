@@ -1,0 +1,146 @@
+Title: Elevator Services – Parrtown CCC & Jamieson CCC
+
+Solicitation number: 21207-26-5312893
+
+Publication date: 2026-05-06
+
+Closing date: 2026-06-05
+
+Notice type: Request for Standing Offer
+
+Language(s): English
+
+Region(s) of delivery: Canada , New Brunswick , Saint John , Nova Scotia , Halifax
+
+Contract duration: 59 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Selection criteria: Lowest Price
+
+Commodity: 24101601 Elevators
+
+Organization: Correctional Service of Canada (CSC)
+
+Contracting authority: Jolaine Amos
+
+Email: jolaine.amos@csc-scc.gc.ca
+
+Phone: (506) 269-3787
+
+Description:
+Elevating Device Inspection and Maintenance Services
+This requirement is for: The Correctional Service of Canada, Atlantic Region, at the following locations:
+ Parrtown Community Correctional Center (CCC)
+23 Carleton Street, Saint John, New Brunswick, E2L 2Z3
+ Jamieson Community Correctional Center (CCC)
+19 Morris Drive, Dartmouth, Nova Scotia, B3B 0M3
+Trade agreement:
+Canadian Free Trade Agreement (CFTA)
+Canada free trade agreements with Chile/Colombia/Honduras/Panama,
+Canada-Peru Free Trade Agreement
+Policy on Reciprocal Procurement:
+This solicitation is open only to Canadian suppliers and to Suppliers of an applicable trading partner.
+Competitive Procurement Strategy:
+Lowest priced compliant bid.
+Set-aside under the Procurement Strategy for Indigenous Business:
+This procurement is not subject to any set-asides for Indigenous Suppliers.
+Comprehensive Land Claim Agreement:
+This procurement is not subject to a Comprehensive Land Claims Agreement.
+Security Requirements:
+This standing offer does not include security requirements.
+Nature of Requirements:
+The following is a summary of the statement of work for this requirement.
+The Correctional Service of Canada has a requirement to inspect, service and repair elevators in their Community Correctional Centers (CCC) facilities. The work will involve the following:
+1.1 Background
+To maintain the elevators in the community correctional centers.
+1.2 Objectives:
+The work the Contractor must perform under this Standing Offer Agreement includes but is not limited to the provision of all labour, materials, tools, supervision and equipment necessary for inspection, testing, maintenance, repair and upgrade of elevating devices.
+1.3 Tasks:
+Contractor’s Responsibilities:
+The Contractor must regularly and systematically maintain all equipment at the frequency specified in the Equipment table.
+The Contractor must provide the Departmental Representative with a telephone number at which they or their representative can be contacted 24 Hours a day, 7 days a week.
+The Contractor must respond to service call 24 Hr/day, 7 days a week. For calls outside CSC’s regular working hours, from 7:30 to 17:00, the Contractor must contact the Departmental Representative on the first working day following the service call to obtain a work order number.
+The Contractor must report to the site with a service vehicle which is stocked with sufficient quantities of replacement parts to carry out repairs without unnecessary delays or downtimes for the Contractor to order parts for repairs on the system in use in these facilities.
+The Contractor must remove and dispose of debris, used and obsolete material used for maintenance and repairs on a daily basis.
+The Contractors must co-ordinate with and assist the inspection authority during equipment inspection and testing when requested by the Department Representative.
+Upon arrival to the site facility, the Contractor’s technicians must present identification and sign into the institutional Visitor’s Register at the Principal Entrance.
+The Contractor must submit a complete tool list upon arrival on-site. The Contractor must report any missing or lost tools to the Correctional Managers desk.
+The Contractor must provide to the Department Representative, after each visit, a service report containing details of all work performed and record all interventions into the logbook the Contractor supplies for each elevating device.
+When applicable, the Contractor must provide a list of defects or deficiencies, or both, discovered during the visit with recommended corrective actions and an estimate of associated costs. The Contractor must provide all maintenance activities report to the following email:
+GEN-ATLRHQTechServ@csc-scc.gc.ca
+. The Contractor must submit all documents within the report in Adobe Acrobat PDF format.
+Replacement Parts:
+The Contractor must repair or replace worn or defective parts of the system(s) using only genuine manufacturer’s replacement parts.
+The Contractor must obtain the Departmental Representative’s written permission before using substitute replacement parts from other manufacturers.
+The Contractor must maintain sufficient supply of replacement parts to prevent extended downtime.
+The Contractor must replace defective parts within twenty-four (24) hours starting from the time the Contractor determined that the parts needed replacement or within another timeframe approved by the Departmental Representative.
+Logbooks:
+The Contractor must supply a Maintenance Control Program logbook approved by the provincial Chief Elevator Inspector for each of the elevator(s) or lift(s).
+The Contractor must keep the logbooks on site in the equipment room. The Contractor must notify the Technical Authority of missing logbooks immediately. The log must include at a minimum the following information:
+ the date on which the Contractor carried out an inspection, testing and maintenance exercise.
+ the name(s) of the Contractor’s personnel who performed the inspection, testing and maintenance.
+ List of replacement parts the Contractor used for repairs.
+ notes on any unsatisfactory conditions the Contractor observed or discovered and the steps taken to correct such conditions
+1.4 Deliverables:
+The Contractor must provide services on all elevating devices and all associated auxiliary equipment at one or both of the following locations:
+ Parrtown Community Correctional Center (CCC) - 23 Carleton Street, Saint John, New Brunswick, E2L 2Z3
+ Jamieson Community Correctional Center (CCC) – 19 Morris Drive, Dartmouth, Nova Scotia, B3B 0M3
+Bidder may submit a bid for one location only or for both locations.
+The Contractor must regularly and systematically maintain all equipment at the frequency specified in the Equipment table.
+The Contractor must maintain a permanent “Elevating Device Maintenance Log” or ‘’Lift for the Disabled Log” of the inspection, testing and maintenance of each elevating devices in accordance with the manufacturer’s manual of operating and maintenance instructions.
+Equipment table: Jamiesson Community Correction Center (CCC) – Dartmouth, NS
+- #: A000019
+- Manufacturer: Global Tardif
+- Model: JRT/TPM 1-2525-HV-8mm
+- Description: Passenger Elevator
+- Storey: 3
+- Capacity: 1134 Kg (2500 lbs)
+- Speed: 150 ft/min
+- Inspection frequency: 4 times/year
+Equipment table: Parrtown Community Correction Center (CCC) – Saint John, NB
+- #: A000009
+- Manufacturer: Dover
+- Model: Ep59525
+- Description: Passenger Elevator
+- Storey: 3
+- Capacity: 1134 Kg (2500 lbs)
+- Speed: 100 ft/min
+- Inspection frequency: 4 times/year
+Any conditions for participation of suppliers not specified in solicitation documentation: none.
+Estimated quantity of commodity: see solicitation document statement of work and basis of payment.
+Duration of Standing Offer and Time Frame for Delivery:
+Period of the Standing Offer: The Work is to be performed during the period from the Standing Offer award to May 31st, 2027, with the option to renew for four (4) additional one-year periods.
+File Number: 21207-26-5312893
+Contracting Authority: Jolaine Amos
+Telephone number: 506-269-3787
+E-mail:
+Jolaine.Amos@csc-scc.gc.ca
+NOTE TO BIDDERS: Bidders can obtain the complete statement of work and evaluation criteria by downloading the solicitation document and associated documents from the Canada buys / tender opportunities website.
+The Crown reserves the right to negotiate with suppliers on any procurement.
+Documents may be submitted in either official language of Canada (English or French).
+After contract award, bidders may request a debriefing on the results of the bid solicitation process. Bidders should make the request to the Contracting Authority within fifteen (15) working days of receipt of the results of the bid solicitation process. The debriefing may be in writing, by telephone or in person.
+Procurement Assistance Canada (PAC) offers seminars to businesses interested in learning how to sell goods and services to the Government of Canada. The seminars are FREE.
+Topics include:
+ Understand the federal procurement process;
+ Learn about searching for opportunities;
+ Find out how to bid on opportunities;
+ Discover how to prepare to sell to the government.
+The full schedule of seminars can be found on the Procurement Assistance Canada website, under find an event (Procurement Assistance Canada: Find an event - Canada.ca).
+
+Trade agreements:
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canadian Free Trade Agreement (CFTA)
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- RFSO - 21207-26-5312893 - Elevator Inspection, Partown & Jamieson (ENG).pdf | EN | 2026/05/06
+
+- DOC - 21207-26-5312893 - Inspection élevateurs (FRA).pdf | FR | 2026/05/06

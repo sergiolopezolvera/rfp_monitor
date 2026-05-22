@@ -1,0 +1,270 @@
+Title: Preventative Maintenance and Emergency Repairs for Essential Equipment Groups at the MECP Laboratory at 125 Resources Rd.
+
+Project reference: tender_21669
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+The purpose of this RFB, is for the Ministry to acquire the services of one (1) supplier for the provision of labour, materials, and equipment required to ensure proper performance of six groups of essential systems equipment, for the Ministry’s laboratory complex at 125 Resources Rd, Etobicoke, Ontario, by conducting regular planned / preventative maintenance routines, and providing emergency repair services.
+The qualified vendor will be required to perform preventative maintenance routines at varying intervals (monthly, quarterly, etc.), and provide emergency repairs as needed, on the essential equipment groups, at the MECP laboratory at 125 Resources Rd.
+
+FULL_TEXT:
+Project: tender_21669 - Preventative Maintenance and Emergency Repairs for Essential Equipment Groups at the MECP Laboratory at 125 Resources Rd. (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21669 - Preventative Maintenance and Emergency Repairs for Essential Equipment Groups at the MECP Laboratory at 125 Resources Rd.
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+tender_21669
+Project Details
+Project Code
+tender_21669
+Project Title
+Preventative Maintenance and Emergency Repairs for Essential Equipment Groups at the MECP Laboratory at 125 Resources Rd.
+Project Reference
+tender_21669
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+40101500-Ventilation
+40101900-Humidity control
+40151500-Pumps
+40151600-Compressors
+41103400-Laboratory environmental conditioning equipment
+72101500-Building maintenance and repair services
+72102900-Facility maintenance and repair services
+72154300-Motive and electrical power generation equipment maintenance and repair services
+Opportunity Details
+Detailed Description
+The purpose of this RFB, is for the Ministry to acquire the services of one (1) supplier for the provision of labour, materials, and equipment required to ensure proper performance of six groups of essential systems equipment, for the Ministry’s laboratory complex at 125 Resources Rd, Etobicoke, Ontario, by conducting regular planned / preventative maintenance routines, and providing emergency repair services.
+The following equipment types, and their associated peripherals will be serviced: compressors, vacuum pumps, air handling units, cooling towers, walk-in freezers and refrigerators, chillers, fume / vent hoods, exhaust fans, and heat pumps.
+Scope of Work
+The qualified vendor will be required to perform preventative maintenance routines at varying intervals (monthly, quarterly, etc.), and provide emergency repairs as needed, on the essential equipment groups, at the MECP laboratory at 125 Resources Rd.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+04/05/2026 09:32
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+01/06/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/09/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+24
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Entretien préventive et réparations d'urgence pour les groupes d'équipements essentiels aux laboratoires du ministère de l’Environnement, de la Protection de la nature et des Parcs, situés au 125 Resources Road.
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Cette demande de soumissions vise à trouver un (1) fournisseur qui devra fournir la main-d’œuvre, les matériaux et l’équipement nécessaires pour contrôler le rendement de six groupes d’équipement de systèmes, au complexe de laboratoires du ministère, situé au 125 Resources Road, à Etobicoke (Ontario). Le contrôle se fera par des entretiens de routines préventifs, réguliers et planifiés, ainsi que des services de réparation d’urgence.
+Les services visent les types d’équipement suivants et les périphériques associés : compresseurs, pompes à vide, unités de traitement d’air, tours de refroidissement, réfrigérateurs/congélateurs de type chambre froide, refroidisseurs, hottes de ventilation, ventilateurs extracteurs et pompes à chaleur.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Le fournisseur retenu devra assurer un entretien préventif de routine des groupes d’équipement essentiel à divers intervalles (chaque mois, chaque trimestre, etc.) et faire les réparations d’urgence nécessaires, aux laboratoires du ministère de l’Environnement, de la Protection de la nature et des Parcs, situés au 125 Resources Road.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Environment, Conservation and Parks
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+125 Resources Road
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Etobicoke
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M9P 3V6
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+Yes, Mandatory
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+To be combined with site meeting. Please send a message in the online tenders portal by 10 May 2026 to register your intention to attend.
+11 May 2026, 11:00am - 1:00pm (Toronto Time)
+125 Resources Road , Etobicoke, Ontario
+Site Contact: Asir Shaffeal
+Buyer
+Site Meeting
+*
+Site Meeting
+Yes, Mandatory
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Please send a message in the online tenders portal by 10 May 2026 to register your intention to attend.
+11 May 2026, 11:00am  - 1:00pm (Toronto Time)
+125 Resources Road , Etobicoke, Ontario
+Site Contact: Asir Shaffeal
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Ngozi Kalu
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Ngozi.Kalu@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+Please send all communication through the online tenders portal
+Buyer
+Contact Fax Number
+Contact Fax Number
+Please send all communication through the online tenders portal
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19848
+Preventative Maintenance and Emergency Repair Services Contract for Essential Mechanical Equipment at 125 Resources Road, Etobicoke, Ontario
+01/06/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Ngozi Kalu
+Email
+Ngozi.Kalu@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

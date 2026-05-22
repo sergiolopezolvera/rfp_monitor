@@ -1,0 +1,64 @@
+Title: Web Scraping Services for Statistics Canada
+
+Solicitation number: J091024/A
+
+Publication date: 2026-04-20
+
+Closing date: 2026-05-15
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 18 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 81112000 Data services
+
+Organization: Statistics Canada (StatCan)
+
+Contracting authority: Shuo Chen
+
+Email: statcan.macsbids-smcsoumissions.statcan@statcan.gc.ca
+
+Phone: (343) 992-1674
+
+Description:
+DESCRIPTION OF REQUIREMENT
+This Request for Proposal (RFP) is being issued to obtain web scraped data from Canadian websites for use by Statistics Canada for statistical and research purposes. Statistics Canada is only interested in acquiring data, and not in purchasing software or a license to use an established software as a service (SAAS) solution.
+QUALIFICATION
+This solicitation of offers is subject to the Policy on Reciprocal Procurement. This means that only Canadian Suppliers and Suppliers of an Applicable Trading Partner, as defined in the Annex Solicitation of Offers Definitions, are eligible for this solicitation of offers. Offers submitted by Suppliers of a Non-Trading Partner will be rejected.
+EVALUATION PROCESS AND SELECTION METHODOLOGY
+Highest Combined Rating of Technical Merit (70%) and Price (30%)
+SECURITY REQUIREMENTS
+N/A
+DURATION OF CONTRACT
+It is intended to result in the award of one (1) contract, from the date of contract award to 18 months later, plus four (4) irrevocable option one-year periods allowing Canada to extend the term of the Contract.
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- RFP - J091024-A (En).pdf | EN | 2026/04/20
+
+- DDO - J091024-A (Fr).pdf | FR | 2026/04/20

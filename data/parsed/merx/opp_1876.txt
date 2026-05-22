@@ -1,0 +1,38 @@
+Title: 229268 - Microsoft Teams Calling implementation
+
+Status: This solicitation is OPEN
+
+Reference Number: 00005044416
+
+Solicitation Number: 229268
+
+Issuing Organization: Squamish-Lillooet Regional District-BCBID
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: British Columbia
+
+Purchase Type: Not Stated
+
+Publication date: 2026-05-15
+
+Closing date: 2026-06-05
+
+Contact name: Rowena Tansley
+
+Contact email: rtansley@slrd.bc.ca
+
+AI Overview:
+The SLRD is seeking proposals from qualified vendors to plan, configure, migrate, and support a transition from existing phone system and Shaw/Webex services to Microsoft Teams Calling.
+
+Description:
+The SLRD is seeking proposals from qualified vendors to plan, configure, migrate, and support a transition from SLRD’s existing phone system and Shaw/Webex services to Microsoft Teams Calling. The selected vendor will provide professional services, technical design, configuration, number porting support, user training, administrator knowledge transfer, documentation, and post migration support.
+See more
+
+Disclaimer:
+Disclaimer
+All amendments to the associated notice, including amended documents, plans and specifications (where applicable), are issued on
+bcbid.gov.bc.ca
+. MERX asks that you refer to new
+bcbid.gov.bc.ca
+notice for these amendments. MERX stipulates that potential bidders may also be required to register with the buying authority as a bidder/plan taker. The contact information can be found within the notice abstract

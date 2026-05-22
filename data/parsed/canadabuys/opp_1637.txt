@@ -1,0 +1,31 @@
+Title: Alberta Social Housing Corporation - Request for Proposal - REQUEST FOR PROPOSAL (RFP) for FULL STACK DEVELOPER CONSULTANT SERVICES (2026-ASHC-006)
+
+Solicitation number: AB-2026-03626
+
+Publication date: 2026-05-08
+
+Closing date: 2026-06-02
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43231500 Business function specific software | 43000000 Information Technology Broadcasting and Telecommunications | 43230000 Software | 43231600 Finance accounting and enterprise resource planning ERP software | 43231602 Enterprise resource planning ERP software | 43231604 Financial analysis software | 43232200 Content management software | 43232201 Content workflow software | 43232202 Document management software | 43232300 Data management and query software | 43232301 Categorization or classification software | 43232304 Data base management system software | 43232305 Data base reporting software | 43232306 Data base user interface and query software | 43232314 Business intelligence and data analysis software | 43232403 Enterprise application integration software | 43232407 Requirements analysis and system architecture software | 43232701 Application server software
+
+Organization: Alberta Social Housing Corporation
+
+Contracting authority: Asim Razzaq
+
+Email: ALSS.procurement.contracts@gov.ab.ca
+
+Description:
+REQUEST FOR PROPOSAL (RFP) for FULL STACK DEVELOPER CONSULTANT SERVICES (2026-ASHC-006)
+
+Trade agreements:
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)

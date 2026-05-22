@@ -1,0 +1,29 @@
+Title: City of Grande Prairie - Request for Proposal - RFP-2026-09 Workforce Management Software for the Grande Prairie Police Service
+
+Solicitation number: AB-2026-03088
+
+Publication date: 2026-04-20
+
+Closing date: 2026-05-08
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43231503 Procurement software | 43231505 Human resources software | 43231601 Accounting software | 43231605 Time accounting software | 43232201 Content workflow software | 43232202 Document management software | 43232304 Data base management system software | 43232305 Data base reporting software | 43232700 Network applications software | 43232701 Application server software | 43232702 Desktop communications software | 43232901 Access software | 43233200 Security and protection software | 43233513 Cloud-based data access and sharing software
+
+Organization: City of Grande Prairie
+
+Contracting authority: Becky Scott
+
+Description:
+The City of Grande Prairie (the “City”) is requesting detailed submissions from qualified and experienced Proponents (the “Proponent”) to provide, implement, and support a fully integrated cloud-based Workforce Management Software solution for the Grande Prairie Police Service (GPPS), both for sworn and civilian employees.
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process

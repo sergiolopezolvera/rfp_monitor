@@ -1,0 +1,62 @@
+Title: MS DYNAMICS 365 – APPLICATION DEVELOPMENT RESOURCES DIGITAL PLATFORM FOR THE GRANTS AND CONTRIBUTIONS INFORMATION MANAGEMENT SYSTEM (GCIMS)
+
+Solicitation number: HICC2026/27-PS6197
+
+Publication date: 2026-04-08
+
+Closing date: 2026-04-29
+
+Last amendment date: 2026-04-21
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 12 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Lowest Price
+
+Commodity: 81111504 Application programming services
+
+Organization: Office of Infrastructure of Canada (INFC)
+
+Contracting authority: Xiumei Situ
+
+Email: procurement-approvisionnement@infc.gc.ca
+
+Description:
+Housing, Infrastructure and Communities Canada (HICC) has a requirement for services related to Microsoft Dynamics 365 and Microsoft PowerPlatform, that are essential for designing, developing, testing and deploying a Grants and Contributions Information Management System (GCIMS).
+Requirements may include, but are not limited to:
+a. Implementation of approved business processes for HICC’s Grants and Contributions Information Management System (GCIMS).
+b. Advice and guidance on functional design recommendations, coding standards and emerging technologies.
+c. Translation of approved functional and business requirements into technical requirements and design specifications.
+d. Migration of legacy data and functionality to GCIMS.
+The Contractor’s resources, with experience implementing and supporting Microsoft Dynamics and Microsoft Power Platform solutions and associated business processes, will be required to support various requirements as identified in the applicable Task Authorization (TA).
+
+Trade agreements:
+North American Free Trade Agreement (NAFTA)
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- HICC2026-27-6197 MS Dynamics TBIPS_NPP.pdf | EN | 2026/04/08
+
+- HICC-2026-27 MS Dynamics - APM_SPICT.pdf | FR | 2026/04/08

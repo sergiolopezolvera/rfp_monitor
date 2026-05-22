@@ -1,0 +1,226 @@
+Title: Window Cleaning Services
+
+Project reference: CHSS2682
+
+Buyer organization: Champlain Health Supply Services
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: Editable By
+
+Contact email: rfp-chss@chss-sasc.ca
+
+Description:
+This RFQ is issued for the purpose of obtaining Quotations for the provision of Window Cleaning Services. Specific requirements are outlined under Appendix A- Services Schedule. The Proponent is to review this RFQ document, including the Services Schedule to fully understand the Scope of Work required by the Purchasers.
+required by the Purchasers.
+
+FULL_TEXT:
+Project: tender_21758 - Window Cleaning Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21758 - Window Cleaning Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+CHSS2682
+Project Details
+Project Code
+tender_21758
+Project Title
+Window Cleaning Services
+Project Reference
+CHSS2682
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+72153500-Structural exterior cleaning services
+76111500-General building and office cleaning and maintenance services
+Opportunity Details
+Detailed Description
+This RFQ is issued for the purpose of obtaining Quotations for the provision of Window Cleaning Services. Specific requirements are outlined under Appendix A- Services Schedule. The Proponent is to review this RFQ document, including the Services Schedule to fully understand the Scope of Work required by the Purchasers.
+Scope of Work
+Default Additional Notes
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+13/05/2026 15:16
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+23/06/2026 14:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/08/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+36
+Buyer
+Additional Information
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Buyer
+Agreement Type
+Agreement Type
+Buyer
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Region of Delivery
+*
+Region of Delivery
+Ontario
+Buyer
+Region of Opportunity
+Region of Opportunity
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+Champlain Health Supply Services
+3045 Baseline Rd.
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Ottawa
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+K2H 8P4
+Buyer
+Information Session/Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+Yes, Mandatory
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+See RFQ document for dates and times
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Clinical/Technical Product Evaluation Required
+Clinical/Technical Product Evaluation Required
+Buyer
+Form of Submission
+*
+Form of Submission
+Electronic Only
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19860
+Window Cleaning Services
+23/06/2026 14:00
+Buyer Details
+Buyer Organization
+Champlain Health Supply Services
+Contact
+Leeza Sharma
+Email
+rfp-chss@chss-sasc.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

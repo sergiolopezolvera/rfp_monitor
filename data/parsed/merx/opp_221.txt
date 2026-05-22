@@ -1,0 +1,53 @@
+Title: Credit Check - Commercial Credit Reporting Services
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-757-58572415
+
+Solicitation Number: Credit Check
+
+Issuing Organization: Federal Economic Development Agency for Southern Ontario (FedDev Ontario)
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: Canada
+
+Publication date: 2026-04-09
+
+Closing date: 2026-04-23
+
+Contact name: Zachary St-Louis
+
+Contact email: (613) 288-1352
+
+Contact phone: zachary.st-louis@feddevontario.gc.ca
+
+Description:
+The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) intends to procure commercial credit reporting services to support credit verification and financial risk assessment activities in the delivery of its programs and operations.
+The Contractor will be required to provide secure, online, on demand access to Canadian business credit reports for a minimum of fifteen (15) FedDev Ontario users. The solution must allow users to search and retrieve up to approximately 1,200 complete Canadian Business Credit Reports over the duration of the contract.
+The credit reporting solution must, at a minimum, provide comprehensive business credit information, including:
+• Business identifiers;
+• Credit index and score summaries and histories;
+• Summaries of accounts, collections, liens, judgments, and past due amounts;
+• Financial trade details; and
+• Credit utilization information.
+The Contractor must also provide:
+• User manuals, training materials, and/or training sessions in both official languages (English and French);
+• Technical and administrative support during normal business hours (Monday to Friday, 08:00 to 16:00 EST, excluding holidays);
+• Ongoing system access throughout the contract period; and
+• Quarterly usage reports submitted to FedDev Ontario at three month intervals.
+Security Requirement: There are no security requirement.
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

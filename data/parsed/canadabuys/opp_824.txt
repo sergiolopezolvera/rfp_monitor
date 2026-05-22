@@ -1,0 +1,29 @@
+Title: Workers' Compensation Board of Alberta - Request for Proposal - 2608MM Request for Privacy Breach Reporting Software Solution
+
+Solicitation number: AB-2026-02807
+
+Publication date: 2026-04-07
+
+Closing date: 2026-05-07
+
+Last amendment date: 2026-04-22
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 60 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43231500 Business function specific software | 43000000 Information Technology Broadcasting and Telecommunications | 43230000 Software | 43233200 Security and protection software | 43233206 Cloud-based protection or security software | 43233500 Information exchange software | 80101510 Risk management consultation service | 81160000 Information Technology Service Delivery | 81162300 Cloud-based business process as a service | 81162305 Risk management process as a service
+
+Organization: Workers' Compensation Board of Alberta
+
+Contracting authority: Megan MacKay
+
+Description:
+The intent of this RFP is to find a successful Supplier capable of providing a Privacy Breach Software Solution. This solution will support WCB’s compliance with privacy legislation by enabling efficient and accurate reporting of privacy breach incidents.
+Suppliers are invited to propose solutions that demonstrate proven capabilities with privacy breach management software or service solutions.

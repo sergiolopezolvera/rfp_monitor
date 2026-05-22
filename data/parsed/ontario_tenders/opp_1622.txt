@@ -1,0 +1,292 @@
+Title: Emergency Management and Preparedness Services EVOR - EMPS Refresh 1
+
+Project reference: tender_21762
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Emergency Management and Preparedness Services Vendor of Record Arrangement is to support the Province of Ontario in the eventuality of emergency services as required in Ontario. Selected Vendor(s) to provide planning and support services to implement Evacuation contingency models for hosting Evacuees in the event of an Incident requiring an Evacuation in a Host Community.
+Planning and organizing services in a safe manner in event of an emergency for Evacuees such as accommodations, food, transportation, security, cleaning, clothing, laundry, child care and activities, personal care, pet care to meet the needs of the Evacuees. Selected Vendor(s) shall be prepared to provide these services, in any location in Ontario (remote, rural or urban locations).
+
+FULL_TEXT:
+Project: tender_21762 - Emergency Management and Preparedness Services EVOR - EMPS Refresh 1  (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21762 - Emergency Management and Preparedness Services EVOR - EMPS Refresh 1
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+tender_21762
+Project Details
+Project Code
+tender_21762
+Project Title
+Emergency Management and Preparedness Services EVOR - EMPS Refresh 1
+Project Reference
+tender_21762
+Multi Lot Project
+Yes
+Project Type
+Services
+Project Categories
+24102100-Warehousing equipment and supplies
+42301500-Aids for medical training
+46201000-Public safety training equipment
+46211500-Workplace safety training aids and materials
+57020100-Humanitarian operational services
+57050300-Food emergency kits
+57060200-Shelter emergency kits
+57070100-Logistics emergency kits
+76111500-General building and office cleaning and maintenance services
+78131800-Specialized warehousing and storage
+78142100-Logistics operation management
+90101600-Banquet and catering services
+90101700-Cafeteria services
+90111500-Hotels and motels and inns
+90111700-Camping and wilderness facilities
+90111800-Hotel rooms
+90111900-Specialized accommodation services
+90121800-Emergency travel assistance services
+91111500-Laundering services
+91111900-Personal care services
+92101900-Rescue services
+92121500-Guard services
+93131800-Disaster preparedness and relief
+93142200-Accommodation services for those in need
+94131500-Non governmental organizations
+95122100-Accommodation buildings and structures
+95141800-Prefabricated emergency relief buildings and structures
+Opportunity Details
+Detailed Description
+Emergency Management and Preparedness Services Vendor of Record Arrangement is to support the Province of Ontario in the eventuality of emergency services as required in Ontario. Selected Vendor(s) to provide planning and support services to implement Evacuation contingency models for hosting Evacuees in the event of an Incident requiring an Evacuation in a Host Community.
+Scope of Work
+Planning and organizing services in a safe manner in event of an emergency for Evacuees such as accommodations, food, transportation, security, cleaning, clothing, laundry, child care and activities, personal care, pet care to meet the needs of the Evacuees. Selected Vendor(s) shall be prepared to provide these services, in any location in Ontario (remote, rural or urban locations).
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+08/05/2026 10:25
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+09/06/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/07/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+52
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+tender_21762 Contrats relatifs auxfournisseurs attitrés responsables desservices de préparation aux urgences etde gestion de celles-ci rafaichir 1
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Les contrats relatifs aux fournisseursattitrés responsables des services depréparation aux urgences et de gestionde celles-ci visent à aider la province del’Ontario dans l’éventualité où desservices d’urgence y seraient requis. Lesfournisseur(s) sélectionné(s) fournirontdes services de planifi cation et desoutien afi n de mettre en oeuvre desmodèles de services d’urgence pourl'accueil des personnes.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Il convient de planifi er et d'organiser lesservices de manière sécuritaire en casd’urgence pour répondre aux besoinsdes personnes évacuées. Parmi lesservices offerts, on peut compterl’hébergement, la nourriture, le transport,la sécurité, le nettoyage, les vêtements,la lessive, la garde d’enfants et lesactivités, les soins personnels et lessoins aux animaux. Les fournisseurssélectionnés doivent être prêts à fournirces services, n'importe où en Ontario.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Supply Ontario
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+200 Front Street West,
+28th Floor
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M5V 3K2
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+N/A
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+N/A
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+N/A
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Andrew R. Singh
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Andrew.R.Singh@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+111.111.1111
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+Qualification Only RFx
+rfx_19872
+EMPS Qualification Lot
+09/06/2026 11:00
+2
+RFx
+rfx_19874
+CSC1 - Up to 499
+09/06/2026 11:00
+3
+RFx
+rfx_19875
+CSC2 - 500 or More
+09/06/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Andrew R. Singh
+Email
+andrew.r.singh@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

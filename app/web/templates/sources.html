@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+
+{% block title %}Sources | RFP Monitor{% endblock %}
+
+{% block content %}
+  <section class="panel">
+    <h2>Registered Sources</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Base URL</th>
+            <th>Active</th>
+            <th>Opportunities</th>
+            <th>Analyzed</th>
+            <th>Status breakdown</th>
+            <th>Last scrape</th>
+            <th>Last fetch</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for source in sources %}
+            {% set source_config = action_configs.get(source.name) %}
+            <tr>
+              <td>{{ source.name }}</td>
+              <td>
+                {% if source.base_url %}
+                  <a href="{{ source.base_url }}" target="_blank" rel="noreferrer">{{ source.base_url }}</a>
+                {% else %}
+                  <span class="subtle">n/a</span>
+                {% endif %}
+              </td>
+              <td>
+                {% if source.is_active %}
+                  <span class="badge success">Active</span>
+                {% else %}
+                  <span class="badge">Inactive</span>
+                {% endif %}
+              </td>
+              <td>{{ source.opportunity_count }}</td>
+              <td>{{ source.analyzed_count }}</td>
+              <td>
+                <div class="action-bar">
+                  {% for status, count in source.status_counts %}
+                    <span class="badge {% if status == 'detail_blocked' or status == 'detail_error' %}danger{% elif status == 'detail_fetched' %}success{% elif status == 'discovered' %}warn{% endif %}">
+                      {{ status }}: {{ count }}
+                    </span>
+                  {% else %}
+                    <span class="subtle">No opportunities yet</span>
+                  {% endfor %}
+                </div>
+              </td>
+              <td>
+                {% if source.last_scrape_run %}
+                  <div>{{ source.last_scrape_run.run_at|datetime_local }}</div>
+                  <div class="subtle">
+                    {{ source.last_scrape_run.requested_value }} {{ source.last_scrape_run.requested_unit or "items" }}
+                    · found {{ source.last_scrape_run.items_found }}
+                  </div>
+                  <div class="subtle">
+                    new {{ source.last_scrape_run.items_inserted }}, existing {{ source.last_scrape_run.items_updated }}, failed {{ source.last_scrape_run.items_failed }}
+                  </div>
+                {% else %}
+                  <span class="subtle">No scrape run logged</span>
+                {% endif %}
+              </td>
+              <td>
+                {% if source.last_fetch_run %}
+                  <div>{{ source.last_fetch_run.run_at|datetime_local }}</div>
+                  <div class="subtle">
+                    {{ source.last_fetch_run.requested_value }} {{ source.last_fetch_run.requested_unit or "items" }}
+                    · targeted {{ source.last_fetch_run.items_found }}
+                  </div>
+                  <div class="subtle">
+                    updated {{ source.last_fetch_run.items_updated }}, failed {{ source.last_fetch_run.items_failed }}
+                  </div>
+                {% else %}
+                  <span class="subtle">No fetch run logged</span>
+                {% endif %}
+              </td>
+              <td>
+                <div class="action-bar">
+                  <form method="post" action="/sources/{{ source.name }}/actions/ingest_feed" class="action-form">
+                    <label>
+                      {{ source_config.ingest_field.label if source_config else "Items" }}
+                      <input
+                        type="number"
+                        name="{{ source_config.ingest_field.name if source_config else 'limit' }}"
+                        value="{{ source_config.ingest_field.default if source_config else 25 }}"
+                        min="{{ source_config.ingest_field.min_value if source_config else 1 }}"
+                        max="{{ source_config.ingest_field.max_value if source_config else 200 }}"
+                      />
+                    </label>
+                    <button type="submit">Scrape feed</button>
+                  </form>
+                  <form method="post" action="/sources/{{ source.name }}/actions/fetch_details" class="action-form">
+                    <label>
+                      {{ source_config.fetch_field.label if source_config else "Items" }}
+                      <input
+                        type="number"
+                        name="{{ source_config.fetch_field.name if source_config else 'limit' }}"
+                        value="{{ source_config.fetch_field.default if source_config else 10 }}"
+                        min="{{ source_config.fetch_field.min_value if source_config else 1 }}"
+                        max="{{ source_config.fetch_field.max_value if source_config else 200 }}"
+                      />
+                    </label>
+                    <button type="submit" class="secondary">Fetch details</button>
+                  </form>
+                  <form method="post" action="/sources/{{ source.name }}/actions/analyze" class="action-form">
+                    <label>
+                      {{ source_config.analyze_field.label if source_config else "Items" }}
+                      <input
+                        type="number"
+                        name="{{ source_config.analyze_field.name if source_config else 'limit' }}"
+                        value="{{ source_config.analyze_field.default if source_config else 10 }}"
+                        min="{{ source_config.analyze_field.min_value if source_config else 1 }}"
+                        max="{{ source_config.analyze_field.max_value if source_config else 200 }}"
+                      />
+                    </label>
+                    <button type="submit" class="ghost">Analyze opportunities</button>
+                  </form>
+                </div>
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+{% endblock %}

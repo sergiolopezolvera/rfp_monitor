@@ -1,0 +1,285 @@
+Title: Contract Administration Services for the Hawkesbury Waterfront Landfill Site Final Cover Construction Project
+
+Project reference: tender_21726
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+As described in greater detail within the RFB, the Ministry is now proceeding with final closure of the Hawkesbury Waterfront Landfill Site which is located on the Ottawa River within the Town of Hawkesbury. The MNR is separately procuring construction services (tender_00000) to hire a Construction Contractor to perform the Work required under the construction contract. This procurement is to obtain contract administration services for that construction contract.
+As described in further detail in the RFB, the scope of work generally includes providing contract administration services for the separately procured construction contract to perform the final capping at the Hawkesbury Waterfront Landfill Site.
+
+FULL_TEXT:
+Project: tender_21726 - Contract Administration Services for the Hawkesbury Waterfront Landfill Site Final Cover Construction Project (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21726 - Contract Administration Services for the Hawkesbury Waterfront Landfill Site Final Cover Construction Project
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+tender_21726
+Project Details
+Project Code
+tender_21726
+Project Title
+Contract Administration Services for the Hawkesbury Waterfront Landfill Site Final Cover Construction Project
+Project Reference
+tender_21726
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+22101500-Earth moving machinery
+22101700-Heavy equipment components
+22102000-Building demolition machinery and equipment
+23241500-Metal cutting machines
+23291500-Industrial drilling tools
+24101500-Industrial trucks
+25101600-Product and material transport vehicles
+25172700-Environmental control systems
+26101400-Motor or generator components
+26101500-Engines
+26111600-Power generators
+26121500-Electrical wire
+26131800-Power generation control equipment
+40171500-Commercial pipe and piping
+40171600-Industrial pipe and piping
+40171700-Pipe adapters
+72141000-Highway and road construction services
+77102000-Environmental reporting services
+77111500-Environmental safety services
+77111600-Environmental rehabilitation
+77121600-Soil pollution
+77121700-Water pollution
+78101800-Road cargo transport
+78102100-Pipeline services
+78121600-Material handling services
+78181700-Transport fueling and vehicle storage and support services
+80101600-Project management
+80111600-Temporary personnel services
+81102500-Permitting services
+81102600-Sampling services
+81102700-Instrumented control systems design and engineering services
+81141500-Quality control
+81151700-Geology
+Opportunity Details
+Detailed Description
+As described in greater detail within the RFB, the Ministry is now proceeding with final closure of the Hawkesbury Waterfront Landfill Site which is located on the Ottawa River within the Town of Hawkesbury. The MNR is separately procuring construction services (tender_00000) to hire a Construction Contractor to perform the Work required under the construction contract.   This procurement is to obtain contract administration services for that construction contract.
+Scope of Work
+As described in further detail in the RFB, the scope of work generally includes providing contract administration services for the separately procured construction contract to perform the final capping at the Hawkesbury Waterfront Landfill Site.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+30/04/2026 14:50
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+05/06/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/08/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+18
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Services d'administration des contrats pour le projet de construction visant à procéder au recouvrement final du site d'enfouissement riverain de Hawkesbury
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Comme il est décrit plus en détail dans l’appel d'offres, le ministère procède maintenant à la fermeture définitive du site d'enfouissement riverain de Hawkesbury, situé sur la rivière des Outaouais dans la Ville de Hawkesbury. Le ministère des Richesses naturelles (MRN) lance un appel d'offres distinct (appel d'offres_00000) pour l'acquisition de services de construction afin d’embaucher un entrepreneur en construction chargé d’exécuter les travaux requis dans le cadre du contrat de construction. Cette procédure d'acquisition vise à obtenir des services d'administration des contrats pour ce contrat de construction.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Comme il est décrit plus en détail dans l'appel d'offres, l’étendue des travaux comprend généralement la fourniture de services d'administration des contrats pour le contrat de construction obtenu séparément qui prévoit le recouvrement final du site d'enfouissement riverain de Hawkesbury.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Natural Resources
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+435 James Street South
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Thunder Bay
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+P7E 6S7
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+Yes, optional
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+May 20, 2026 at 11:00 am (local time)
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Monruthai Sukthavorn
+Buyer
+Contact Email Address
+*
+Contact Email Address
+monruthai.sukthavorn@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+monruthai.sukthavorn@supplyontario.ca
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19868
+Contract Administration Services for the Hawkesbury Waterfront Landfill Site Final Cover Construction Project
+05/06/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Monruthai Sukthavorn
+Email
+monruthai.sukthavorn@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

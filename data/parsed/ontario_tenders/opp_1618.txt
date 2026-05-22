@@ -1,0 +1,257 @@
+Title: tender_21681 HVAC Preventative Maintenance Services
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: IT
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+The Ministry is seeking a Vendor for the provision of Heating, Ventilation and Air Conditioning (“HVAC”) preventative maintenance services.
+All work performed must be in compliance with the standards, terms, conditions and specifications recommended by the Equipment’s Original Equipment Manufacturer (“OEM”), and any regulatory bodies having jurisdiction over the preventative maintenance of HVAC systems in Ontario.
+
+FULL_TEXT:
+Project: tender_21681 - tender_21681 HVAC Preventative Maintenance Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21681 - tender_21681 HVAC Preventative Maintenance Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21681
+Project Title
+tender_21681 HVAC Preventative Maintenance Services
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+72101500-Building maintenance and repair services
+72102900-Facility maintenance and repair services
+72103300-Infrastructure maintenance and repair services
+72151200-Heating and cooling and air conditioning HVAC construction and maintenance services
+Opportunity Details
+Detailed Description
+The Ministry is seeking a Vendor for the provision of Heating, Ventilation and Air Conditioning (“HVAC”) preventative maintenance services.
+The Vendor shall provide comprehensive preventative maintenance services for the Ministry’s HVAC Systems as outlined in the Request For Bids (RFB) documents.
+Scope of Work
+All work performed must be in compliance with the standards, terms, conditions and specifications recommended by the Equipment’s Original Equipment Manufacturer (“OEM”), and any regulatory bodies having jurisdiction over the preventative maintenance of HVAC systems in Ontario.
+Work Category
+IT
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+08/05/2026 16:16
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+08/06/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+24/07/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+24
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Services d’entretien préventif des systèmes de chauffage, de ventilation et de climatisation
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Le Ministère recherche un fournisseur pour la prestation de services d’entretien préventif des systèmes de chauffage, de ventilation et de climatisation (« CVC »).
+Le fournisseur doit fournir des services complets d’entretien préventif pour les systèmes de CVC du Ministère, comme indiqué dans les documents de l’appel d’offres.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Tous les travaux effectués doivent être conformes aux normes, modalités, conditions et spécifications recommandées par le fabricant d’équipement d’origine (« FEO ») de l’équipement et par tout organisme de réglementation ayant compétence en matière d’entretien préventif des systèmes de CVC en Ontario.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Public and Business Service Delivery and Procurement
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+222 Jarvis St.
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M7A 0B6
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Submissions must be made electronically through the Ontario Tenders Portal (“OTP”) eTendering System.
+Bid documents must not be mailed.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Noha Tawfik
+Buyer
+Contact Email Address
+*
+Contact Email Address
+noha.tawfik@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+289 937 0425
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19906
+tender_21681 HVAC Preventative Maintenance Services
+08/06/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Noha Tawfik
+Email
+noha.tawfik@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

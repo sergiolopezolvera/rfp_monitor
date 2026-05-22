@@ -1,0 +1,121 @@
+Title: Power Platform Professional Services for the Grants and Contributions Digital Platform (GCDP)
+
+Solicitation number: CSC-2627-0007
+
+Publication date: 2026-05-14
+
+Closing date: 2026-06-03
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English
+
+Region(s) of delivery: Canada
+
+Contract duration: 24 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 43232407 Requirements analysis and system architecture software | 81111600 Computer programmers
+
+Organization: Department of Agriculture and Agri-Food (AAFC)
+
+Contracting authority: Julie Mercier
+
+Email: julie.mercier@agr.gc.ca
+
+Description:
+NOTICE OF PROPOSED PROCUREMENT (NPP)
+for
+TASK BASED INFORMATICS PROFESSIONAL SERVICES (TBIPS)
+This requirement is for: AGRICULTURE AND AGRI-FOOD CANADA (AAFC)
+This requirement is open only to those TBIPS Supply Arrangement Holders under EN578-170432 who qualified under Tier 1, under the NCR, level of expertise and for the following category(ies):
+A.1 - Application/Software Architect - Senior
+A.6 - Programmer/Software Developer - Senior
+The requirement is intended to result in the award of one (1) contract
+The following SA Holders have been invited to submit a proposal:
+•
+Adastra Corporation
+•
+Alika Internet Technologies Inc.
+•
+Alithya Canada Inc.
+•
+CGI Information Systems and Management Consultants Inc.
+•
+Deloitte Inc.
+•
+Ernst & Young LLP
+•
+Green Light consulting Solutions Inc.
+•
+IFanthom Corporation
+•
+KPMG LLP
+•
+Like 10 Inc. SoftMosis Inc In Joint Venture
+•
+MaxSys Staffing & Consulting Inc.
+•
+Michael Wager Consulting Inc
+•
+MNP LLP
+•
+Oxaro Inc.
+•
+Quarry Consulting Inc.
+Description of the Requirement:
+AAFC seeks a single contractor to provide resources in the categories herein that are qualified to provide support in developing and implementing applications within Microsoft’s Power Platform for the Grants and Contributions Digital Platform (GCDP).
+AAFC requires resources provided by the contractor to meet the requirements of the TA, and the TA evaluation criteria provided at TA issue.
+Security:
+There are security requirements associated with this requirement. Please note that SA Holders do not need to have the required clearance to submit a bid. For additional information, consult Part 6 - Security, Financial and Other Requirements, and Part 7 – Resulting Contract Clauses. For more information on personnel and organization security screening or security clauses, Bidders should refer to the Contract Security Program of Public Works and Government Services Canada (
+http://www.tpsgc-pwgsc.gc.ca/esc-src/introduction-eng.html
+) website.
+Level of Security Requirement:
+Minimum Corporate Security Required: SECRET clearance
+Minimum Resource Security Required: SECRET clearance
+Document Safeguarding Security Level Required: N/A
+Applicable Trade Agreements:
+- Canadian Free Trade Agreement (CFTA)
+- Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+- Canada-United Kingdom Trade Continuity Agreement (Canada-UK TCA)
+- World Trade Organizations -Agreement on Government Procurement (WTO-AGP)
+- Comprehensive and Progressive Agreement for the Trans-Pacific Partnership (CPTPP)
+- Bilateral Trade Agreements with Chile, Colombia, Hondruas, Korea, Panama, Peru, and Ukraine
+Proposed period of contract:
+The proposed period of contract shall be from the award of the contract to 2 years later
+Contracting Authority Information:
+File Number: CSC-2627-0007
+Contracting Authority: Julie Mercier
+E-Mail:
+julie.mercier@agr.gc.ca
+Inquiries:
+Inquiries regarding this Request for Proposal (RFP) requirement must be submitted to the Contracting Authority named above. RFP documents will be e-mailed directly by the Contracting Authority to the Qualified Supply Arrangement Holders who are being invited to bid on this requirement. BIDDERS ARE ADVISED THAT “CANADABUYS.CANADA.CA” ” IS NOT RESPONSIBLE FOR THE DISTRIBUTION OF SOLICITATION DOCUMENTS. The Crown retains the right to negotiate with any supplier on any procurement. Documents may be submitted in either official language.
+Debriefings:
+Bidders may request a debriefing on the results of the bid solicitation process. Bidders should make the request to the Contracting Authority within 15 working days from receipt of the results of the bid solicitation process. The debriefing may be in writing, by telephone or in person.
+NOTE: Task‐Based Informatics Professional Services (TBIPS) Method of Supply is refreshed on a quarterly basis. If you wish to find out how you can be a “Qualified SA Holder”, please contact
+parcnmdai.apncrimos@tpsgc-pwgsc.gc.ca
+
+Trade agreements:
+North American Free Trade Agreement (NAFTA)
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- CSC-2627-0007 -NPP.pdf | EN | 2026/05/14
+
+- CSC-2627-0007-APM.pdf | FR | 2026/05/14

@@ -1,0 +1,270 @@
+Title: tender_21547 - Storage, handling and distribution of publicly funded Immunization Agents in Ontario
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+This Request for Bids is for the provision of supply chain management services including the distribution of publicly funded Immunization Agents to community pharmacies across Ontario for the Ministry of Health, and associated services (e.g., Quality Assurance (QA), inventory tracking, destruction, etc.).
+The Vendor will provide specialized cold chain warehousing and distribution services for publicly funded Immunization Agents to community pharmacies located across Ontario. This includes associated services, including but not limited to inventory management, QA, and destruction. It is anticipated that there will be approximately 4,000 pharmacies to receive Immunizing Agents. A list of participating community pharmacies will be provided to the Vendor.
+
+FULL_TEXT:
+Project: tender_21547 - tender_21547 - Storage, handling and distribution of publicly funded Immunization Agents in Ontario (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21547 - tender_21547 - Storage, handling and distribution of publicly funded Immunization Agents in Ontario
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21547
+Project Title
+tender_21547 - Storage, handling and distribution of publicly funded Immunization Agents in Ontario
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+24102100-Warehousing equipment and supplies
+24131500-Industrial refrigerators
+25101500-Passenger motor vehicles
+41112800-Transportation related equipment and instruments
+41112900-Navigational equipment and instruments
+73151500-Assembly services
+73151600-Packaging services
+78101800-Road cargo transport
+78101900-Intermodal cargo transport
+78102200-Postal and small parcel and courier services
+78131800-Specialized warehousing and storage
+78141500-Transport arranging services
+78181700-Transport fueling and vehicle storage and support services
+80141700-Distribution
+Opportunity Details
+Detailed Description
+This Request for Bids is for the provision of supply chain management services including the distribution of publicly funded Immunization Agents to community pharmacies across Ontario for the Ministry of Health, and associated services (e.g., Quality Assurance (QA), inventory tracking, destruction, etc.).
+Scope of Work
+The Vendor will provide specialized cold chain warehousing and distribution services for publicly funded Immunization Agents to community pharmacies located across Ontario. This includes associated services, including but not limited to inventory management, QA, and destruction. It is anticipated that there will be approximately 4,000 pharmacies to receive Immunizing Agents. A list of participating community pharmacies will be provided to the Vendor.
+The Vendor will provide an order management and inventory tracking system and may be required to utilize a Ministry provided provincial immunization information system (once available). As there is no cost to the community pharmacies for ordering or receiving publicly funded immunization products, there will be no fees payable by the pharmacies to the vendor for receiving the immunization products.
+Immunization product distribution providers must use either refrigerated trucks or qualified cold chain pack-outs with temperature monitoring devices to maintain cold-chain temperature control per specific requirements of the products.
+The Vendor is required to have appropriate licensing for the storage, distribution, and transport of immunization products in compliance with Health Canada.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+14/05/2026 14:02
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+15/06/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+24
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Entreposage, manutention et distribution de produits de vaccination financés par le secteur public en Ontario à l'intention des pharmacies communautaires.
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Le présent appel d'offres porte sur la prestation de services de gestion de la chaîne d'approvisionnement, y compris la distribution d'agents immunisants financés par le secteur public aux pharmacies communautaires de l'Ontario pour le ministère de la Santé, ainsi que les services connexes (p. ex. assurance qualité (AQ), suivi des stocks, destruction, etc.).
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Le fournisseur assurera la prestation de services spécialisés d’entreposage et de distribution sous chaîne du froid pour les agents immunisants financés par le secteur public aux pharmacies communautaires de l’Ontario. Cela comprend les services connexes, y compris, mais sans s’y limiter, la gestion des stocks, l’assurance qualité et l’élimination. Environ 4 000 pharmacies devraient recevoir des agents immunisants. Une liste des pharmacies communautaires participantes sera fournie au fournisseur.
+Le fournisseur mettra en place un système de gestion des commandes et de suivi des stocks et pourra être amené à utiliser un système provincial d’information sur la vaccination fourni par le Ministère (dès qu’il sera disponible). Étant donné que la commande ou la réception de produits immunisants financés par le secteur public n’entraîne aucun coût pour les pharmacies communautaires, celles-ci n’auront aucun frais à payer au fournisseur pour la réception des produits de vaccination.
+Les fournisseurs chargés de la distribution des produits de vaccination doivent utiliser soit des camions frigorifiques, soit des emballages adaptés à la chaîne du froid équipés de dispositifs de surveillance de la température, afin de maintenir le contrôle de la température de la chaîne du froid conformément aux exigences spécifiques des produits.
+Le fournisseur doit être titulaire des autorisations nécessaires pour l’entreposage, la distribution et le transport des produits de vaccination, conformément aux exigences de Santé Canada.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Ontario Health
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+Box 12
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M7A 1N3
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+Yes, Optional
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Submissions must be made electronically through the Ontario Tenders Portal (“OTP”) eTendering System.
+Bid documents must not be mailed.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Pamela Clarke
+Buyer
+Contact Email Address
+*
+Contact Email Address
+pamela.clarke@supplyontrio.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+647-983-5147
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19903
+Storage, handling, and distribution of publicly funded Immunization Products in Ontario for Community Pharmacies 2025-001.
+15/06/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Pamela Clarke
+Email
+pamela.clarke@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

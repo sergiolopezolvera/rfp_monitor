@@ -1,0 +1,263 @@
+Title: Construction Services for Campground Expansion at Point Farms Provincial Park
+
+Project reference: PR_4963
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+This Request for Bids (RFB) is for construction services, including the supply of all materials, labour and necessary equipment to complete the campground expansion within Point Farms Provincial Park.
+
+The invitation is for perspective proponents to submit bids for construction services, including the supply of all materials, labour and equipment necessary to complete the expansion of new campsites within Point Farms Provincial Park;
+
+FULL_TEXT:
+Project: tender_21427 - Construction Services for Campground Expansion at Point Farms Provincial Park (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21427 - Construction Services for Campground Expansion at Point Farms Provincial Park
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+PR_4963
+Project Details
+Project Code
+tender_21427
+Project Title
+Construction Services for Campground Expansion at Point Farms Provincial Park
+Project Reference
+PR_4963
+Multi Lot Project
+No
+Project Type
+Construction
+Project Categories
+30121700-Road and railroad construction materials
+Opportunity Details
+Detailed Description
+This Request for Bids (RFB) is for construction services, including the supply of all materials, labour and necessary equipment to complete the campground expansion within Point Farms Provincial Park.
+Scope of Work
+The invitation is for perspective proponents to submit bids for construction services, including the supply of all materials, labour and equipment necessary to complete the expansion of new campsites within Point Farms Provincial Park;
+The successful proponent will be required to meet all design specifications that will be provided by the Ministry within the RFB document.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+11/03/2026 12:23
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+21/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/05/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+12
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Services de construction pour l’agrandissement du terrain de camping du parc provincial Presqu’ile
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Appel d’offres pour des services de construction, y compris l’approvisionnement de tous les matériaux, de la main-d’œuvre et de l’équipement nécessaires pour compléter l’agrandissement du terrain de camping du parc provincial Point Farms.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+L’appel d’offres s’adresse aux promoteurs potentiels qui souhaitent soumettre des offres pour des services de construction, y compris l’approvisionnement de tous les matériaux, de la main-d’œuvre et de l’équipement nécessaires pour compléter l’agrandissement du terrain de camping du parc provincial Point Farms;
+Le promoteur retenu devra respecter toutes les spécifications de conception qui seront fournies par le ministère dans le document de l’appel d'offres.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Environment, Conservation and Parks
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+300 Water St
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Peterborough
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+K9J 3C7
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+N/A
+Buyer
+Site Meeting
+*
+Site Meeting
+Yes, optional
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+March 25, 2026 at 11:00 a.m.
+Location:
+Point Farms Provincial Park
+82491 Bluewater Highway
+Goderich, Ontario, N27 3X9
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Submissions must be made electronically through the Ontario Tenders Portal (“OTP”) eTendering System.
+Bid documents must not be mailed.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Slavica Smajic
+Buyer
+Contact Email Address
+*
+Contact Email Address
+slavica.smajic@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+647 982 6972
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19687
+Tender_21427 Construction Services Campground Expansion at Point Farms
+21/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Slavica Smajic
+Email
+slavica.smajic@ontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

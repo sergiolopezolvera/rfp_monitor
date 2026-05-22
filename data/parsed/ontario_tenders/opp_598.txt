@@ -1,0 +1,249 @@
+Title: Notice to Suppliers
+
+Project reference: Project Details
+
+Buyer organization: Mohawk Medbuy Corporation (formerly Plexxus)
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: Editable By
+
+Contact email: sholman@mohawkmedbuy.ca;customersupport@jaggaer.com
+
+Description:
+Notice to suppliers updated
+
+Default Additional Notes
+
+FULL_TEXT:
+Project: tender_20076 - Notice to Suppliers (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_20076 - Notice to Suppliers
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_20076
+Project Title
+Notice to Suppliers
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+85101500-Healthcare centers
+Opportunity Details
+Detailed Description
+Notice to suppliers updated
+Scope of Work
+Default Additional Notes
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+30/08/2024 12:38
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+30/08/2026 00:00
+Estimated Contract Start Date (dd/mm/yyyy)
+30/08/2024
+Estimated Value of Contract
+Opportunity Additional Information List
+Award Details
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Award Date
+*
+This Opportunity was awarded on:
+30/08/2024
+Buyer
+Award Value
+*
+The Total Award Value is:
+0
+Buyer
+Awarded Supplier(s) and Address(es)
+*
+Awarded Supplier(s) and Address(es)
+N/A
+Buyer
+Contract Start Date (dd/mm/yyyy)
+*
+Contract Start Date
+30/08/2024
+Buyer
+Contract End Date (dd/mm/yyyy)
+*
+Contract End Date
+30/09/2026
+Buyer
+Contract End Date Including all possible extensions (dd/mm/yyyy)
+*
+Contract End Date Including all possible extensions
+31/08/2026
+Buyer
+Contract Details
+Contract Details
+Buyer
+Additional Information
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Notice to Suppliers
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Notice to Suppliers
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Buyer
+Agreement Type
+Agreement Type
+Buyer
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Region of Delivery
+*
+Region of Delivery
+Ontario
+GTA
+Buyer
+Region of Opportunity
+Region of Opportunity
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+N/A
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+N/A
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+N/A
+Buyer
+Information Session/Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+N/A
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Buyer Details
+Buyer Organization
+Mohawk Medbuy Corporation (formerly Plexxus)
+Contact
+Sean Holman
+Email
+sholman@mohawkmedbuy.ca;customersupport@jaggaer.com
+Opportunity Attachments
+Upload method:
+Row Number
+Name
+Description
+Comments
+Last Modification Date
+1
+Notice on OTP - August 2024.docx
+(311 KB)
+Notice to Suppliers
+30/08/2024 12:34
+Attachments:
+1
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+Close
+Download
+...Task in progress...
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

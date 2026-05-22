@@ -1,0 +1,94 @@
+Title: RFP - TBIPS SA - Systems and Applications IM/IT Resources
+
+Solicitation number: ATSSC – 26TBIPSSA03
+
+Publication date: 2026-04-17
+
+Closing date: 2026-05-08
+
+Status: Open
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 24 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 80101507 Information technology consultation services
+
+Organization: Administrative Tribunals Support Service of Canada (ATSSC)
+
+Contracting authority: Veronica Ross
+
+Email: veronica.ross@tribunal.gc.ca
+
+Phone: (343) 991-3797
+
+Description:
+Description of Work:
+The Administrative Tribunals Support Service of Canada (ATSSC) provides support services to twelve federal administrative tribunals through a single, integrated organization. By offering specialized services, the ATSSC supports each tribunal's mandate and aims to improve access to justice for Canadians. ATSSC requires support for the development, implementation, and maintenance of custom applications, case management modules, and secure, accessible web properties. There is also a growing need to explore and integrate emerging technologies such as chatbot solutions and AI-powered translation tools to better serve both internal users and external stakeholders. The Information Services & Solutions Team (ISST) is responsible for information management and technology and requires the services of IM/IT professional resources on an “as and when requested” basis to assist with the creation, support and maintenance of new and existing websites and Case Management Systems.
+Requirement Details
+This requirement is open only to those TBIPS Supply Arrangement Holders who qualified under Tier 1 for services in the National Capital Region for the following categories:
+TBIPS ID RESOURCE CATEGORY
+A.6 Programmer/Software Developer
+A.14 Web Developer
+P.9 Project Manager
+I.4 Database Modeller / Information Management Modeller
+A.1 Application/Software Architect
+A.6 Programmer/Software Developer
+A.7 Programmer/Analyst
+A.11 Tester
+A.12 Web Architect
+A.13 Web Designer
+A.14 Web Developer
+B.1 Business Analyst
+P.5 Project Executive
+The following SA Holders have been invited to submit a proposal:
+Adirondack Information Management Inc.
+Adirondack Information Management Inc., Entrust Limited, Artemp Personnel Services Inc., The AIM Group Inc., in JOINT VENTURE
+ADRM Technology Consulting Group Corp.
+ADRM Technology Consulting Group Corp. and Randstad Interim Inc
+Alika Internet Technologies Inc.
+Alika Internet Technologies Inc., LNine Consulting Inc. in Joint Venture
+Le Groupe Conseil Bronson Consulting Group
+MAKWA Resourcing Inc.
+Makwa Resourcing Inc., TPG Technology Consulting Ltd. in JOINT VENTURE
+Malarsoft Technology Corporation
+S.I. SYSTEMS ULC
+SYLOGIX CONSULTING INC.
+Systemscope Inc.
+Thomas&Schmidt Inc.
+Yoush Inc.
+Contracting Authority:
+Name: Veronica Ross
+Phone Number: 343-991-3797
+Email Address:
+Veronica.Ross@tribunal.gc.ca
+Inquiries
+Inquiries regarding this RFP requirement must be submitted to the Contracting Authority named above. Request for Proposal (RFP) documents will be e-mailed directly from the Contracting Authority to the Qualified Supply Arrangement Holders who are being invited to bid on this requirement. The Crown retains the right to negotiate with any supplier on any procurement. Documents may be submitted in either official language.
+NOTE: Task‐Based Informatics Professional Services (TBIPS) Method of Supply is refreshed three (3) times per year. If you wish to find out how you can be a “Qualified SA Holder”, please contact
+parcnmdai.apncrimos@tpsgc-pwgsc.gc.ca
+.
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+
+Reason for limited tendering:
+None

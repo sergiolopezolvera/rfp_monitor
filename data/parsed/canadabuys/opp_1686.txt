@@ -1,0 +1,51 @@
+Title: Re-tender - Managed Infrastructure as a Service – High Resilience Environment
+
+Solicitation number: 5000090899R
+
+Publication date: 2026-05-06
+
+Closing date: 2026-05-20
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English, French
+
+Region(s) of delivery: Canada , National Capital Region (NCR)
+
+Contract duration: 37 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Variations or combinations of the above methods
+
+Commodity: 81161500 Access management services | 81161800 Data voice or multimedia network equipment or platform rental or leasing services
+
+Organization: Department of the Environment (ECCC )
+
+Contracting authority: Samantha Hatzinikou
+
+Email: samantha.hatzinikou@ec.gc.ca
+
+Phone: (873) 500-0150
+
+Description:
+This is a re-tender.
+This requirement is open only to those SBIPS Supply Arrangement Holders under EN537-05IT01 who qualified under Tier 1 under the region NCR metropolitan area, for the following stream(s): Manages Services
+Environment and Climate Change Canada requires the support of a qualified Contractor to provide Managed services to, and in support of, the Government of Canada’s High Resilience Environment. This domain includes end-to-end, ongoing operational support delivered through a defined service model.
+This Statement of Work (SOW) falls under the SBIPS Domain: Managed Services. This domain includes end to end, ongoing operational support delivered through a defined service model.
+Security:
+There are security requirements associated with this requirement. Please note that SA Holders do not need to have the required clearance to submit a bid. For additional information, consult Part 6 - Security, Financial and Other Requirements, and Part 7 – Resulting Contract Clauses. For more information on personnel and organization security screening or security clauses, Bidders should refer to the Contract Security Program of Public Works and Government Services Canada (
+http://www.tpsgc-pwgsc.gc.ca/esc-src/introduction-eng.html
+) website.
+
+Trade agreements:
+Please refer to tender description or tender documents
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- NPP_SBIPS_5000090899R.pdf | EN | 2026/05/06
+
+- APM_SPICS_5000090899R.pdf | FR | 2026/05/06

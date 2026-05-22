@@ -1,0 +1,50 @@
+Title: 26-0127 - Voice over Internet Protocol (VoIP) Telephony Services
+
+Solicitation number: 26-0127
+
+Publication date: 2026-04-16
+
+Closing date: 2026-04-24
+
+Last amendment date: 2026-04-17
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 11 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Selection criteria: Lowest Price
+
+Commodity: 81161700 Telecommunication Services | 81161708 Telephone Support Service | 81161712 Network voice service
+
+Organization: Canadian Radio-Television and Telecommunications Commission (CRTC)
+
+Contracting authority: Lyna Champagne
+
+Email: Approvisionnements-Procurements@crtc.gc.ca
+
+Description:
+Description of the Requirements:
+The CRTC requires Voice over Internet Protocol (VoIP) telephony services to support its Teletypewriter (TTY) and Facsimile (FAX) to email solution and its Direct Inward Dialing (DID) numbers starting on May 4, 2026 and to be fully operational by August 5, 2026 when the services with the current contractor cease.
+Level of Security Requirement:
+The contractor must, at all times during the performance of the contract hold a valid designated organization screening (DOS) with approved document safeguarding at the level of protected B, issued by the Contract Security Program (CSP) of Public Works and Government Services Canada (PSGWC).
+The contractor personnel requiring access to protected information, assets, work site(s) must each hold a valid reliability status, granted or approved by the CSP.
+Contract Period Details:
+The proposed period of contract must be for a fixed-term of 12 months from Contract Award starting on May 4, 2026 with four 12-month optional extensions.
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- 26-0127 - VoIP Services - NPP_Eng.pdf | EN | 2026/04/16
+
+- 26-0127 - VoIP Services - NPP_Fre.pdf | FR | 2026/04/16

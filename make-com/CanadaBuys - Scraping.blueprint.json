@@ -1,0 +1,2009 @@
+{
+    "name": "CanadaBuys - Scraping",
+    "flow": [
+        {
+            "id": 20,
+            "module": "rss:TriggerNewArticle",
+            "version": 4,
+            "parameters": {
+                "url": "https://canadabuys.canada.ca/en/search-feed?q=a%3a9%3a%7bs%3a13%3a%22search_filter%22%3ba%3a1%3a%7bi%3a0%3bs%3a0%3a%22%22%3b%7ds%3a8%3a%22category%22%3ba%3a1%3a%7bi%3a0%3bs%3a3%3a%22154%22%3b%7ds%3a11%3a%22notice_type%22%3ba%3a4%3a%7bi%3a0%3bs%3a4%3a%221681%22%3bi%3a1%3bs%3a4%3a%221682%22%3bi%3a2%3bs%3a4%3a%221684%22%3bi%3a3%3bs%3a4%3a%221685%22%3b%7ds%3a6%3a%22status%22%3ba%3a1%3a%7bi%3a0%3bs%3a2%3a%2287%22%3b%7ds%3a8%3a%22location%22%3ba%3a1%3a%7bi%3a0%3bs%3a4%3a%221218%22%3b%7ds%3a13%3a%22apply_filters%22%3ba%3a1%3a%7bi%3a0%3bs%3a13%3a%22apply%20filters%22%3b%7ds%3a15%3a%22record_per_page%22%3ba%3a1%3a%7bi%3a0%3bs%3a2%3a%2250%22%3b%7ds%3a11%3a%22current_tab%22%3ba%3a1%3a%7bi%3a0%3bs%3a1%3a%22t%22%3b%7ds%3a5%3a%22words%22%3bs%3a0%3a%22%22%3b%7d&sid=36968",
+                "gzip": true,
+                "include": [],
+                "password": "",
+                "username": "",
+                "maxResults": 50
+            },
+            "mapper": {},
+            "metadata": {
+                "designer": {
+                    "x": 0,
+                    "y": 0
+                },
+                "restore": {},
+                "parameters": [
+                    {
+                        "name": "url",
+                        "type": "url",
+                        "label": "URL",
+                        "required": true
+                    },
+                    {
+                        "name": "maxResults",
+                        "type": "number",
+                        "label": "Maximum number of returned items",
+                        "required": true
+                    },
+                    {
+                        "name": "username",
+                        "type": "text",
+                        "label": "User name"
+                    },
+                    {
+                        "name": "password",
+                        "type": "text",
+                        "label": "Password"
+                    },
+                    {
+                        "name": "include",
+                        "type": "select",
+                        "label": "Process RSS fields",
+                        "multiple": true,
+                        "validate": {
+                            "enum": [
+                                "google-merchant-center",
+                                "itunes"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "gzip",
+                        "type": "boolean",
+                        "label": "Request compressed content",
+                        "required": true
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "title",
+                        "type": "text",
+                        "label": "Title"
+                    },
+                    {
+                        "name": "description",
+                        "type": "text",
+                        "label": "Description"
+                    },
+                    {
+                        "name": "summary",
+                        "type": "text",
+                        "label": "Summary"
+                    },
+                    {
+                        "name": "author",
+                        "type": "text",
+                        "label": "Author"
+                    },
+                    {
+                        "name": "url",
+                        "type": "url",
+                        "label": "URL"
+                    },
+                    {
+                        "name": "dateUpdated",
+                        "type": "date",
+                        "label": "Date updated"
+                    },
+                    {
+                        "name": "dateCreated",
+                        "type": "date",
+                        "label": "Date created"
+                    },
+                    {
+                        "name": "comments",
+                        "type": "url",
+                        "label": "Comments"
+                    },
+                    {
+                        "name": "image",
+                        "spec": [
+                            {
+                                "name": "title",
+                                "type": "text",
+                                "label": "Name"
+                            },
+                            {
+                                "name": "url",
+                                "type": "url",
+                                "label": "URL"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "Image"
+                    },
+                    {
+                        "name": "categories",
+                        "spec": {
+                            "type": "text"
+                        },
+                        "type": "array",
+                        "label": "Categories"
+                    },
+                    {
+                        "name": "source",
+                        "spec": [
+                            {
+                                "name": "title",
+                                "type": "text",
+                                "label": "Name"
+                            },
+                            {
+                                "name": "url",
+                                "type": "url",
+                                "label": "URL"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "Source"
+                    },
+                    {
+                        "name": "enclosures",
+                        "spec": [
+                            {
+                                "name": "url",
+                                "type": "url",
+                                "label": "URL"
+                            },
+                            {
+                                "name": "type",
+                                "type": "text",
+                                "label": "Type"
+                            },
+                            {
+                                "name": "length",
+                                "type": "number",
+                                "label": "Length"
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Enclosures"
+                    },
+                    {
+                        "help": "Other RSS fields. All values are in text format.",
+                        "name": "rssFields",
+                        "spec": [
+                            {
+                                "name": "title",
+                                "type": "text",
+                                "label": "title"
+                            },
+                            {
+                                "name": "link",
+                                "type": "text",
+                                "label": "link"
+                            },
+                            {
+                                "name": "guid",
+                                "type": "text",
+                                "label": "guid"
+                            },
+                            {
+                                "name": "description",
+                                "type": "text",
+                                "label": "description"
+                            },
+                            {
+                                "name": "pubdate",
+                                "type": "text",
+                                "label": "pubdate"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "RSS fields"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "module": "builtin:BasicFeeder",
+            "version": 1,
+            "parameters": {},
+            "mapper": {
+                "array": "{{`20`}}"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 300,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "array": {
+                            "mode": "edit"
+                        }
+                    }
+                },
+                "expect": [
+                    {
+                        "mode": "edit",
+                        "name": "array",
+                        "spec": [],
+                        "type": "array",
+                        "label": "Array"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "module": "google-sheets:filterRows",
+            "version": 2,
+            "parameters": {
+                "__IMTCONN__": 2272778
+            },
+            "mapper": {
+                "from": "drive",
+                "filter": [
+                    [
+                        {
+                            "a": "A",
+                            "b": "{{20.url}}",
+                            "o": "text:equal"
+                        }
+                    ]
+                ],
+                "sheetId": "IsItNew",
+                "sortOrder": "asc",
+                "spreadsheetId": "1ipuW-GjksWIJK1fQK4N6YFUYuAWPwKBSpaKB2PPD9IE",
+                "tableFirstRow": "A1:Z1",
+                "includesHeaders": true,
+                "valueRenderOption": "FORMATTED_VALUE",
+                "dateTimeRenderOption": "FORMATTED_STRING"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 600,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "from": {
+                            "label": "Select from My Drive"
+                        },
+                        "orderBy": {
+                            "mode": "chose"
+                        },
+                        "sheetId": {
+                            "mode": "chose",
+                            "label": "IsItNew"
+                        },
+                        "sortOrder": {
+                            "mode": "chose",
+                            "label": "Ascending"
+                        },
+                        "spreadsheetId": {
+                            "mode": "chose",
+                            "label": "CanadaBuys"
+                        },
+                        "tableFirstRow": {
+                            "label": "A-Z"
+                        },
+                        "includesHeaders": {
+                            "mode": "chose",
+                            "label": "Yes"
+                        },
+                        "valueRenderOption": {
+                            "mode": "chose",
+                            "label": "Formatted value"
+                        },
+                        "dateTimeRenderOption": {
+                            "mode": "chose",
+                            "label": "Formatted string"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google"
+                            },
+                            "label": "Make Academy (lopezolverasergio@gmail.com)"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:google",
+                        "label": "Connection",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "from",
+                        "type": "select",
+                        "label": "Search Method",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "valueRenderOption",
+                        "type": "select",
+                        "label": "Value render option",
+                        "validate": {
+                            "enum": [
+                                "FORMATTED_VALUE",
+                                "UNFORMATTED_VALUE",
+                                "FORMULA"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "dateTimeRenderOption",
+                        "type": "select",
+                        "label": "Date and time render option",
+                        "validate": {
+                            "enum": [
+                                "SERIAL_NUMBER",
+                                "FORMATTED_STRING"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "limit",
+                        "type": "uinteger",
+                        "label": "Limit"
+                    },
+                    {
+                        "name": "spreadsheetId",
+                        "type": "select",
+                        "label": "Spreadsheet ID",
+                        "required": true
+                    },
+                    {
+                        "name": "sheetId",
+                        "type": "select",
+                        "label": "Sheet Name",
+                        "required": true
+                    },
+                    {
+                        "name": "includesHeaders",
+                        "type": "select",
+                        "label": "Table contains headers",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                true,
+                                false
+                            ]
+                        }
+                    },
+                    {
+                        "name": "tableFirstRow",
+                        "type": "select",
+                        "label": "Column range",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "A1:Z1",
+                                "A1:BZ1",
+                                "A1:CZ1",
+                                "A1:DZ1",
+                                "A1:MZ1",
+                                "A1:ZZ1",
+                                "A1:AZZ1",
+                                "A1:BZZ1",
+                                "A1:CZZ1",
+                                "A1:DZZ1",
+                                "A1:MZZ1",
+                                "A1:ZZZ1"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "filter",
+                        "type": "filter",
+                        "label": "Filter",
+                        "options": "rpc://google-sheets/2/rpcGetFilterKeys?includesHeaders=true"
+                    },
+                    {
+                        "name": "orderBy",
+                        "type": "select",
+                        "label": "Order by"
+                    },
+                    {
+                        "name": "sortOrder",
+                        "type": "select",
+                        "label": "Sort order",
+                        "validate": {
+                            "enum": [
+                                "asc",
+                                "desc"
+                            ]
+                        }
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "__IMTLENGTH__",
+                        "type": "uinteger",
+                        "label": "Total number of bundles"
+                    },
+                    {
+                        "name": "__IMTINDEX__",
+                        "type": "uinteger",
+                        "label": "Bundle order position"
+                    },
+                    {
+                        "name": "__ROW_NUMBER__",
+                        "type": "number",
+                        "label": "Row number"
+                    },
+                    {
+                        "name": "__SPREADSHEET_ID__",
+                        "type": "text",
+                        "label": "Spreadsheet ID"
+                    },
+                    {
+                        "name": "__SHEET__",
+                        "type": "text",
+                        "label": "Sheet"
+                    },
+                    {
+                        "name": "0",
+                        "type": "text",
+                        "label": "URL (A)"
+                    },
+                    {
+                        "name": "1",
+                        "type": "text",
+                        "label": "(B)"
+                    },
+                    {
+                        "name": "2",
+                        "type": "text",
+                        "label": "(C)"
+                    },
+                    {
+                        "name": "3",
+                        "type": "text",
+                        "label": "(D)"
+                    },
+                    {
+                        "name": "4",
+                        "type": "text",
+                        "label": "(E)"
+                    },
+                    {
+                        "name": "5",
+                        "type": "text",
+                        "label": "(F)"
+                    },
+                    {
+                        "name": "6",
+                        "type": "text",
+                        "label": "(G)"
+                    },
+                    {
+                        "name": "7",
+                        "type": "text",
+                        "label": "(H)"
+                    },
+                    {
+                        "name": "8",
+                        "type": "text",
+                        "label": "(I)"
+                    },
+                    {
+                        "name": "9",
+                        "type": "text",
+                        "label": "(J)"
+                    },
+                    {
+                        "name": "10",
+                        "type": "text",
+                        "label": "(K)"
+                    },
+                    {
+                        "name": "11",
+                        "type": "text",
+                        "label": "(L)"
+                    },
+                    {
+                        "name": "12",
+                        "type": "text",
+                        "label": "(M)"
+                    },
+                    {
+                        "name": "13",
+                        "type": "text",
+                        "label": "(N)"
+                    },
+                    {
+                        "name": "14",
+                        "type": "text",
+                        "label": "(O)"
+                    },
+                    {
+                        "name": "15",
+                        "type": "text",
+                        "label": "(P)"
+                    },
+                    {
+                        "name": "16",
+                        "type": "text",
+                        "label": "(Q)"
+                    },
+                    {
+                        "name": "17",
+                        "type": "text",
+                        "label": "(R)"
+                    },
+                    {
+                        "name": "18",
+                        "type": "text",
+                        "label": "(S)"
+                    },
+                    {
+                        "name": "19",
+                        "type": "text",
+                        "label": "(T)"
+                    },
+                    {
+                        "name": "20",
+                        "type": "text",
+                        "label": "(U)"
+                    },
+                    {
+                        "name": "21",
+                        "type": "text",
+                        "label": "(V)"
+                    },
+                    {
+                        "name": "22",
+                        "type": "text",
+                        "label": "(W)"
+                    },
+                    {
+                        "name": "23",
+                        "type": "text",
+                        "label": "(X)"
+                    },
+                    {
+                        "name": "24",
+                        "type": "text",
+                        "label": "(Y)"
+                    },
+                    {
+                        "name": "25",
+                        "type": "text",
+                        "label": "(Z)"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "module": "google-sheets:addRow",
+            "version": 2,
+            "parameters": {
+                "__IMTCONN__": 2272778
+            },
+            "filter": {
+                "name": "Only new URLs",
+                "conditions": [
+                    [
+                        {
+                            "a": "{{21.`__IMTLENGTH__`}}",
+                            "b": "0",
+                            "o": "number:equal"
+                        }
+                    ]
+                ]
+            },
+            "mapper": {
+                "from": "drive",
+                "mode": "select",
+                "values": {
+                    "0": "{{20.url}}",
+                    "1": "{{now}}"
+                },
+                "sheetId": "IsItNew",
+                "spreadsheetId": "/1Q4e5Knq3_v85Jht12OMDqgVo_jlU1KNB/1ipuW-GjksWIJK1fQK4N6YFUYuAWPwKBSpaKB2PPD9IE",
+                "includesHeaders": true,
+                "insertDataOption": "INSERT_ROWS",
+                "useColumnHeaders": false,
+                "valueInputOption": "USER_ENTERED",
+                "insertUnformatted": false
+            },
+            "metadata": {
+                "designer": {
+                    "x": 900,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "from": {
+                            "label": "My Drive"
+                        },
+                        "mode": {
+                            "label": "Search by path"
+                        },
+                        "sheetId": {
+                            "label": "IsItNew"
+                        },
+                        "spreadsheetId": {
+                            "path": [
+                                "ICE opportunities outlook",
+                                "CanadaBuys"
+                            ]
+                        },
+                        "includesHeaders": {
+                            "label": "Yes"
+                        },
+                        "insertDataOption": {
+                            "mode": "chose",
+                            "label": "Insert rows"
+                        },
+                        "useColumnHeaders": {
+                            "label": "No",
+                            "nested": [
+                                {
+                                    "name": "values",
+                                    "spec": [
+                                        {
+                                            "name": "0",
+                                            "type": "text",
+                                            "label": "URL (A)"
+                                        },
+                                        {
+                                            "name": "1",
+                                            "type": "text",
+                                            "label": "Timestamp (B)"
+                                        },
+                                        {
+                                            "name": "2",
+                                            "type": "text",
+                                            "label": "(C)"
+                                        },
+                                        {
+                                            "name": "3",
+                                            "type": "text",
+                                            "label": "(D)"
+                                        },
+                                        {
+                                            "name": "4",
+                                            "type": "text",
+                                            "label": "(E)"
+                                        },
+                                        {
+                                            "name": "5",
+                                            "type": "text",
+                                            "label": "(F)"
+                                        },
+                                        {
+                                            "name": "6",
+                                            "type": "text",
+                                            "label": "(G)"
+                                        },
+                                        {
+                                            "name": "7",
+                                            "type": "text",
+                                            "label": "(H)"
+                                        },
+                                        {
+                                            "name": "8",
+                                            "type": "text",
+                                            "label": "(I)"
+                                        },
+                                        {
+                                            "name": "9",
+                                            "type": "text",
+                                            "label": "(J)"
+                                        },
+                                        {
+                                            "name": "10",
+                                            "type": "text",
+                                            "label": "(K)"
+                                        },
+                                        {
+                                            "name": "11",
+                                            "type": "text",
+                                            "label": "(L)"
+                                        },
+                                        {
+                                            "name": "12",
+                                            "type": "text",
+                                            "label": "(M)"
+                                        },
+                                        {
+                                            "name": "13",
+                                            "type": "text",
+                                            "label": "(N)"
+                                        },
+                                        {
+                                            "name": "14",
+                                            "type": "text",
+                                            "label": "(O)"
+                                        },
+                                        {
+                                            "name": "15",
+                                            "type": "text",
+                                            "label": "(P)"
+                                        },
+                                        {
+                                            "name": "16",
+                                            "type": "text",
+                                            "label": "(Q)"
+                                        },
+                                        {
+                                            "name": "17",
+                                            "type": "text",
+                                            "label": "(R)"
+                                        },
+                                        {
+                                            "name": "18",
+                                            "type": "text",
+                                            "label": "(S)"
+                                        },
+                                        {
+                                            "name": "19",
+                                            "type": "text",
+                                            "label": "(T)"
+                                        },
+                                        {
+                                            "name": "20",
+                                            "type": "text",
+                                            "label": "(U)"
+                                        },
+                                        {
+                                            "name": "21",
+                                            "type": "text",
+                                            "label": "(V)"
+                                        },
+                                        {
+                                            "name": "22",
+                                            "type": "text",
+                                            "label": "(W)"
+                                        },
+                                        {
+                                            "name": "23",
+                                            "type": "text",
+                                            "label": "(X)"
+                                        },
+                                        {
+                                            "name": "24",
+                                            "type": "text",
+                                            "label": "(Y)"
+                                        },
+                                        {
+                                            "name": "25",
+                                            "type": "text",
+                                            "label": "(Z)"
+                                        }
+                                    ],
+                                    "type": "collection",
+                                    "label": "Values in columns",
+                                    "metadata": [
+                                        [
+                                            [
+                                                "URL",
+                                                "Timestamp"
+                                            ]
+                                        ]
+                                    ]
+                                }
+                            ]
+                        },
+                        "valueInputOption": {
+                            "mode": "chose",
+                            "label": "User entered"
+                        },
+                        "insertUnformatted": {
+                            "mode": "chose"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google"
+                            },
+                            "label": "Make Academy (lopezolverasergio@gmail.com)"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:google",
+                        "label": "Connection",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "mode",
+                        "type": "select",
+                        "label": "Search Method",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "select",
+                                "fromAll",
+                                "map"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "insertUnformatted",
+                        "type": "boolean",
+                        "label": "Unformatted",
+                        "required": true
+                    },
+                    {
+                        "name": "valueInputOption",
+                        "type": "select",
+                        "label": "Value input option",
+                        "validate": {
+                            "enum": [
+                                "USER_ENTERED",
+                                "RAW"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "insertDataOption",
+                        "type": "select",
+                        "label": "Insert data option",
+                        "validate": {
+                            "enum": [
+                                "INSERT_ROWS",
+                                "OVERWRITE"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "from",
+                        "type": "select",
+                        "label": "Drive",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share",
+                                "team"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "spreadsheetId",
+                        "type": "file",
+                        "label": "Spreadsheet Name",
+                        "required": true
+                    },
+                    {
+                        "name": "sheetId",
+                        "type": "select",
+                        "label": "Sheet Name",
+                        "required": true
+                    },
+                    {
+                        "name": "includesHeaders",
+                        "type": "select",
+                        "label": "Table contains headers",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                true,
+                                false
+                            ]
+                        }
+                    },
+                    {
+                        "name": "useColumnHeaders",
+                        "type": "select",
+                        "label": "Use column headers as IDs of the columns",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                true,
+                                false
+                            ]
+                        }
+                    },
+                    {
+                        "name": "values",
+                        "spec": [
+                            {
+                                "name": "0",
+                                "type": "text",
+                                "label": "URL (A)"
+                            },
+                            {
+                                "name": "1",
+                                "type": "text",
+                                "label": "Timestamp (B)"
+                            },
+                            {
+                                "name": "2",
+                                "type": "text",
+                                "label": "(C)"
+                            },
+                            {
+                                "name": "3",
+                                "type": "text",
+                                "label": "(D)"
+                            },
+                            {
+                                "name": "4",
+                                "type": "text",
+                                "label": "(E)"
+                            },
+                            {
+                                "name": "5",
+                                "type": "text",
+                                "label": "(F)"
+                            },
+                            {
+                                "name": "6",
+                                "type": "text",
+                                "label": "(G)"
+                            },
+                            {
+                                "name": "7",
+                                "type": "text",
+                                "label": "(H)"
+                            },
+                            {
+                                "name": "8",
+                                "type": "text",
+                                "label": "(I)"
+                            },
+                            {
+                                "name": "9",
+                                "type": "text",
+                                "label": "(J)"
+                            },
+                            {
+                                "name": "10",
+                                "type": "text",
+                                "label": "(K)"
+                            },
+                            {
+                                "name": "11",
+                                "type": "text",
+                                "label": "(L)"
+                            },
+                            {
+                                "name": "12",
+                                "type": "text",
+                                "label": "(M)"
+                            },
+                            {
+                                "name": "13",
+                                "type": "text",
+                                "label": "(N)"
+                            },
+                            {
+                                "name": "14",
+                                "type": "text",
+                                "label": "(O)"
+                            },
+                            {
+                                "name": "15",
+                                "type": "text",
+                                "label": "(P)"
+                            },
+                            {
+                                "name": "16",
+                                "type": "text",
+                                "label": "(Q)"
+                            },
+                            {
+                                "name": "17",
+                                "type": "text",
+                                "label": "(R)"
+                            },
+                            {
+                                "name": "18",
+                                "type": "text",
+                                "label": "(S)"
+                            },
+                            {
+                                "name": "19",
+                                "type": "text",
+                                "label": "(T)"
+                            },
+                            {
+                                "name": "20",
+                                "type": "text",
+                                "label": "(U)"
+                            },
+                            {
+                                "name": "21",
+                                "type": "text",
+                                "label": "(V)"
+                            },
+                            {
+                                "name": "22",
+                                "type": "text",
+                                "label": "(W)"
+                            },
+                            {
+                                "name": "23",
+                                "type": "text",
+                                "label": "(X)"
+                            },
+                            {
+                                "name": "24",
+                                "type": "text",
+                                "label": "(Y)"
+                            },
+                            {
+                                "name": "25",
+                                "type": "text",
+                                "label": "(Z)"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "Values in columns",
+                        "metadata": [
+                            [
+                                [
+                                    "URL",
+                                    "Timestamp"
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "module": "http:ActionSendData",
+            "version": 3,
+            "parameters": {
+                "handleErrors": true,
+                "useNewZLibDeCompress": true
+            },
+            "mapper": {
+                "ca": "",
+                "qs": [],
+                "url": "{{20.url}}",
+                "gzip": true,
+                "method": "get",
+                "headers": [],
+                "timeout": "",
+                "useMtls": false,
+                "authPass": "",
+                "authUser": "",
+                "bodyType": "",
+                "serializeUrl": false,
+                "shareCookies": false,
+                "parseResponse": false,
+                "followRedirect": true,
+                "useQuerystring": false,
+                "followAllRedirects": false,
+                "rejectUnauthorized": true
+            },
+            "metadata": {
+                "designer": {
+                    "x": 1200,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "qs": {
+                            "mode": "chose"
+                        },
+                        "method": {
+                            "mode": "chose",
+                            "label": "GET"
+                        },
+                        "headers": {
+                            "mode": "chose"
+                        },
+                        "bodyType": {
+                            "label": "Empty"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "handleErrors",
+                        "type": "boolean",
+                        "label": "Evaluate all states as errors (except for 2xx and 3xx )",
+                        "required": true
+                    },
+                    {
+                        "name": "useNewZLibDeCompress",
+                        "type": "hidden"
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "url",
+                        "type": "url",
+                        "label": "URL",
+                        "required": true
+                    },
+                    {
+                        "name": "serializeUrl",
+                        "type": "boolean",
+                        "label": "Serialize URL",
+                        "required": true
+                    },
+                    {
+                        "name": "method",
+                        "type": "select",
+                        "label": "Method",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "get",
+                                "head",
+                                "post",
+                                "put",
+                                "patch",
+                                "delete",
+                                "options"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "headers",
+                        "spec": [
+                            {
+                                "name": "name",
+                                "type": "text",
+                                "label": "Name",
+                                "required": true
+                            },
+                            {
+                                "name": "value",
+                                "type": "text",
+                                "label": "Value"
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Headers"
+                    },
+                    {
+                        "name": "qs",
+                        "spec": [
+                            {
+                                "name": "name",
+                                "type": "text",
+                                "label": "Name",
+                                "required": true
+                            },
+                            {
+                                "name": "value",
+                                "type": "text",
+                                "label": "Value"
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Query String"
+                    },
+                    {
+                        "name": "bodyType",
+                        "type": "select",
+                        "label": "Body type",
+                        "validate": {
+                            "enum": [
+                                "raw",
+                                "x_www_form_urlencoded",
+                                "multipart_form_data"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "parseResponse",
+                        "type": "boolean",
+                        "label": "Parse response",
+                        "required": true
+                    },
+                    {
+                        "name": "authUser",
+                        "type": "text",
+                        "label": "User name"
+                    },
+                    {
+                        "name": "authPass",
+                        "type": "password",
+                        "label": "Password"
+                    },
+                    {
+                        "name": "timeout",
+                        "type": "uinteger",
+                        "label": "Timeout",
+                        "validate": {
+                            "max": 300,
+                            "min": 1
+                        }
+                    },
+                    {
+                        "name": "shareCookies",
+                        "type": "boolean",
+                        "label": "Share cookies with other HTTP modules",
+                        "required": true
+                    },
+                    {
+                        "name": "ca",
+                        "type": "cert",
+                        "label": "Self-signed certificate"
+                    },
+                    {
+                        "name": "rejectUnauthorized",
+                        "type": "boolean",
+                        "label": "Reject connections that are using unverified (self-signed) certificates",
+                        "required": true
+                    },
+                    {
+                        "name": "followRedirect",
+                        "type": "boolean",
+                        "label": "Follow redirect",
+                        "required": true
+                    },
+                    {
+                        "name": "useQuerystring",
+                        "type": "boolean",
+                        "label": "Disable serialization of multiple same query string keys as arrays",
+                        "required": true
+                    },
+                    {
+                        "name": "gzip",
+                        "type": "boolean",
+                        "label": "Request compressed content",
+                        "required": true
+                    },
+                    {
+                        "name": "useMtls",
+                        "type": "boolean",
+                        "label": "Use Mutual TLS",
+                        "required": true
+                    },
+                    {
+                        "name": "followAllRedirects",
+                        "type": "boolean",
+                        "label": "Follow all redirect",
+                        "required": true
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "headers",
+                        "spec": [
+                            {
+                                "name": "name",
+                                "type": "text",
+                                "label": "Name"
+                            },
+                            {
+                                "name": "value",
+                                "type": "text",
+                                "label": "Value"
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Headers"
+                    },
+                    {
+                        "name": "cookieHeaders",
+                        "type": "array",
+                        "label": "Cookie headers"
+                    },
+                    {
+                        "name": "statusCode",
+                        "type": "number",
+                        "label": "Status code"
+                    },
+                    {
+                        "name": "data",
+                        "type": "any",
+                        "label": "Data"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "module": "regexp:HTMLToText",
+            "version": 1,
+            "parameters": {},
+            "mapper": {
+                "html": "{{13.data}}",
+                "newline": "lf",
+                "uppercaseHeadings": true
+            },
+            "metadata": {
+                "designer": {
+                    "x": 1500,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "newline": {
+                            "label": "LF (\\n) - Unix/Mac OS X"
+                        }
+                    }
+                },
+                "expect": [
+                    {
+                        "name": "html",
+                        "type": "text",
+                        "label": "HTML"
+                    },
+                    {
+                        "name": "newline",
+                        "type": "select",
+                        "label": "Line break",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "lf",
+                                "crlf",
+                                "cr"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "uppercaseHeadings",
+                        "type": "boolean",
+                        "label": "Uppercase headings",
+                        "required": true
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "text",
+                        "type": "text",
+                        "label": "Text"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "module": "util:SetVariables",
+            "version": 1,
+            "parameters": {},
+            "mapper": {
+                "scope": "roundtrip",
+                "variables": [
+                    {
+                        "name": "Tender notice",
+                        "value": "{{trim(get(split(get(split(14.text; \"4.  Tender notice \"); 2); \"Solicitation number\"); 1))}}"
+                    },
+                    {
+                        "name": "Closing date and time",
+                        "value": "{{parseDate(trim(get(split(get(split(14.text; \"Closing date and time \"); 2); newline); 1)); \"YYYY-MM-DD\")}}"
+                    },
+                    {
+                        "name": "Description",
+                        "value": "{{trim(get(split(get(split(14.text; \"Description \"); 2); \"Show more description\"); 1))}}"
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "{{get(split(get(split(get(split(get(split(get(split(14.text; \"CONTRACTING ORGANIZATION\nOrganization \"); 2); \"Address\"); 1); \"Contracting authority\"); 1); \"Email\"); 1); newline); 1)}}"
+                    },
+                    {
+                        "name": "URL",
+                        "value": "{{20.url}}"
+                    },
+                    {
+                        "name": "Publication Date",
+                        "value": "{{parseDate(trim(get(split(get(split(14.text; \"Publication date \"); 2); newline); 1)); \"YYYY-MM-DD\")}}"
+                    },
+                    {
+                        "name": "Timestamp",
+                        "value": "{{now}}"
+                    },
+                    {
+                        "name": "Region(s) of delivery",
+                        "value": "{{substring(split(14.text; \"Region(s) of delivery \"; 2); 0; 20)}}"
+                    }
+                ]
+            },
+            "metadata": {
+                "designer": {
+                    "x": 1800,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "scope": {
+                            "label": "One cycle"
+                        },
+                        "variables": {
+                            "items": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                "expect": [
+                    {
+                        "name": "variables",
+                        "spec": [
+                            {
+                                "name": "name",
+                                "type": "text",
+                                "label": "Variable name",
+                                "required": true
+                            },
+                            {
+                                "name": "value",
+                                "type": "any",
+                                "label": "Variable value"
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Variables"
+                    },
+                    {
+                        "name": "scope",
+                        "type": "select",
+                        "label": "Variable lifetime",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "roundtrip",
+                                "execution"
+                            ]
+                        }
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "Tender notice",
+                        "type": "any",
+                        "label": "Tender notice"
+                    },
+                    {
+                        "name": "Closing date and time",
+                        "type": "any",
+                        "label": "Closing date and time"
+                    },
+                    {
+                        "name": "Description",
+                        "type": "any",
+                        "label": "Description"
+                    },
+                    {
+                        "name": "Organization",
+                        "type": "any",
+                        "label": "Organization"
+                    },
+                    {
+                        "name": "URL",
+                        "type": "any",
+                        "label": "URL"
+                    },
+                    {
+                        "name": "Publication Date",
+                        "type": "any",
+                        "label": "Publication Date"
+                    },
+                    {
+                        "name": "Timestamp",
+                        "type": "any",
+                        "label": "Timestamp"
+                    },
+                    {
+                        "name": "Region(s) of delivery",
+                        "type": "any",
+                        "label": "Region(s) of delivery"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "module": "google-sheets:addRow",
+            "version": 2,
+            "parameters": {
+                "__IMTCONN__": 2272778
+            },
+            "mapper": {
+                "from": "drive",
+                "mode": "select",
+                "values": {
+                    "0": "{{17.`Tender notice`}}",
+                    "1": "{{17.`Publication Date`}}",
+                    "2": "{{17.`Closing date and time`}}",
+                    "3": "{{17.Description}}",
+                    "4": "{{17.Organization}}",
+                    "5": "{{17.URL}}",
+                    "6": "{{now}}"
+                },
+                "sheetId": "Extraction",
+                "spreadsheetId": "/1Q4e5Knq3_v85Jht12OMDqgVo_jlU1KNB/1ipuW-GjksWIJK1fQK4N6YFUYuAWPwKBSpaKB2PPD9IE",
+                "includesHeaders": true,
+                "insertDataOption": "INSERT_ROWS",
+                "valueInputOption": "USER_ENTERED",
+                "insertUnformatted": false
+            },
+            "metadata": {
+                "designer": {
+                    "x": 2100,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "from": {
+                            "label": "My Drive"
+                        },
+                        "mode": {
+                            "label": "Search by path"
+                        },
+                        "sheetId": {
+                            "label": "Extraction"
+                        },
+                        "spreadsheetId": {
+                            "path": [
+                                "ICE opportunities outlook",
+                                "CanadaBuys"
+                            ]
+                        },
+                        "includesHeaders": {
+                            "label": "Yes",
+                            "nested": [
+                                {
+                                    "name": "values",
+                                    "spec": [
+                                        {
+                                            "name": "0",
+                                            "type": "text",
+                                            "label": "Title (A)"
+                                        },
+                                        {
+                                            "name": "1",
+                                            "type": "text",
+                                            "label": "Publication date (B)"
+                                        },
+                                        {
+                                            "name": "2",
+                                            "type": "text",
+                                            "label": "Closing date (C)"
+                                        },
+                                        {
+                                            "name": "3",
+                                            "type": "text",
+                                            "label": "Description (D)"
+                                        },
+                                        {
+                                            "name": "4",
+                                            "type": "text",
+                                            "label": "Organization (E)"
+                                        },
+                                        {
+                                            "name": "5",
+                                            "type": "text",
+                                            "label": "URL (F)"
+                                        },
+                                        {
+                                            "name": "6",
+                                            "type": "text",
+                                            "label": "Timestamp (G)"
+                                        },
+                                        {
+                                            "name": "7",
+                                            "type": "text",
+                                            "label": "(H)"
+                                        },
+                                        {
+                                            "name": "8",
+                                            "type": "text",
+                                            "label": "(I)"
+                                        },
+                                        {
+                                            "name": "9",
+                                            "type": "text",
+                                            "label": "(J)"
+                                        },
+                                        {
+                                            "name": "10",
+                                            "type": "text",
+                                            "label": "(K)"
+                                        },
+                                        {
+                                            "name": "11",
+                                            "type": "text",
+                                            "label": "(L)"
+                                        },
+                                        {
+                                            "name": "12",
+                                            "type": "text",
+                                            "label": "(M)"
+                                        },
+                                        {
+                                            "name": "13",
+                                            "type": "text",
+                                            "label": "(N)"
+                                        },
+                                        {
+                                            "name": "14",
+                                            "type": "text",
+                                            "label": "(O)"
+                                        },
+                                        {
+                                            "name": "15",
+                                            "type": "text",
+                                            "label": "(P)"
+                                        },
+                                        {
+                                            "name": "16",
+                                            "type": "text",
+                                            "label": "(Q)"
+                                        },
+                                        {
+                                            "name": "17",
+                                            "type": "text",
+                                            "label": "(R)"
+                                        },
+                                        {
+                                            "name": "18",
+                                            "type": "text",
+                                            "label": "(S)"
+                                        },
+                                        {
+                                            "name": "19",
+                                            "type": "text",
+                                            "label": "(T)"
+                                        },
+                                        {
+                                            "name": "20",
+                                            "type": "text",
+                                            "label": "(U)"
+                                        },
+                                        {
+                                            "name": "21",
+                                            "type": "text",
+                                            "label": "(V)"
+                                        }
+                                    ],
+                                    "type": "collection",
+                                    "label": "Values"
+                                }
+                            ]
+                        },
+                        "insertDataOption": {
+                            "mode": "chose",
+                            "label": "Insert rows"
+                        },
+                        "valueInputOption": {
+                            "mode": "chose",
+                            "label": "User entered"
+                        },
+                        "insertUnformatted": {
+                            "mode": "chose"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google"
+                            },
+                            "label": "Make Academy (lopezolverasergio@gmail.com)"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:google",
+                        "label": "Connection",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "mode",
+                        "type": "select",
+                        "label": "Search Method",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "select",
+                                "fromAll",
+                                "map"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "insertUnformatted",
+                        "type": "boolean",
+                        "label": "Unformatted",
+                        "required": true
+                    },
+                    {
+                        "name": "valueInputOption",
+                        "type": "select",
+                        "label": "Value input option",
+                        "validate": {
+                            "enum": [
+                                "USER_ENTERED",
+                                "RAW"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "insertDataOption",
+                        "type": "select",
+                        "label": "Insert data option",
+                        "validate": {
+                            "enum": [
+                                "INSERT_ROWS",
+                                "OVERWRITE"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "from",
+                        "type": "select",
+                        "label": "Drive",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share",
+                                "team"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "spreadsheetId",
+                        "type": "file",
+                        "label": "Spreadsheet ID",
+                        "required": true
+                    },
+                    {
+                        "name": "sheetId",
+                        "type": "select",
+                        "label": "Sheet Name",
+                        "required": true
+                    },
+                    {
+                        "name": "includesHeaders",
+                        "type": "select",
+                        "label": "Table contains headers",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                true,
+                                false
+                            ]
+                        }
+                    },
+                    {
+                        "name": "values",
+                        "spec": [
+                            {
+                                "name": "0",
+                                "type": "text",
+                                "label": "Title (A)"
+                            },
+                            {
+                                "name": "1",
+                                "type": "text",
+                                "label": "Publication date (B)"
+                            },
+                            {
+                                "name": "2",
+                                "type": "text",
+                                "label": "Closing date (C)"
+                            },
+                            {
+                                "name": "3",
+                                "type": "text",
+                                "label": "Description (D)"
+                            },
+                            {
+                                "name": "4",
+                                "type": "text",
+                                "label": "Organization (E)"
+                            },
+                            {
+                                "name": "5",
+                                "type": "text",
+                                "label": "URL (F)"
+                            },
+                            {
+                                "name": "6",
+                                "type": "text",
+                                "label": "Timestamp (G)"
+                            },
+                            {
+                                "name": "7",
+                                "type": "text",
+                                "label": "(H)"
+                            },
+                            {
+                                "name": "8",
+                                "type": "text",
+                                "label": "(I)"
+                            },
+                            {
+                                "name": "9",
+                                "type": "text",
+                                "label": "(J)"
+                            },
+                            {
+                                "name": "10",
+                                "type": "text",
+                                "label": "(K)"
+                            },
+                            {
+                                "name": "11",
+                                "type": "text",
+                                "label": "(L)"
+                            },
+                            {
+                                "name": "12",
+                                "type": "text",
+                                "label": "(M)"
+                            },
+                            {
+                                "name": "13",
+                                "type": "text",
+                                "label": "(N)"
+                            },
+                            {
+                                "name": "14",
+                                "type": "text",
+                                "label": "(O)"
+                            },
+                            {
+                                "name": "15",
+                                "type": "text",
+                                "label": "(P)"
+                            },
+                            {
+                                "name": "16",
+                                "type": "text",
+                                "label": "(Q)"
+                            },
+                            {
+                                "name": "17",
+                                "type": "text",
+                                "label": "(R)"
+                            },
+                            {
+                                "name": "18",
+                                "type": "text",
+                                "label": "(S)"
+                            },
+                            {
+                                "name": "19",
+                                "type": "text",
+                                "label": "(T)"
+                            },
+                            {
+                                "name": "20",
+                                "type": "text",
+                                "label": "(U)"
+                            },
+                            {
+                                "name": "21",
+                                "type": "text",
+                                "label": "(V)"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "Values"
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "spreadsheetId",
+                        "type": "text",
+                        "label": "Spreadsheet ID"
+                    },
+                    {
+                        "name": "tableRange",
+                        "type": "text",
+                        "label": "Table Range"
+                    },
+                    {
+                        "name": "updates",
+                        "spec": [
+                            {
+                                "name": "spreadsheetId",
+                                "type": "text",
+                                "label": "Spreadsheet ID"
+                            },
+                            {
+                                "name": "updatedRange",
+                                "type": "text",
+                                "label": "Updated range"
+                            },
+                            {
+                                "name": "updatedRows",
+                                "type": "text",
+                                "label": "Updated rows"
+                            },
+                            {
+                                "name": "updatedColumns",
+                                "type": "text",
+                                "label": "Updated columns"
+                            },
+                            {
+                                "name": "updatedCells",
+                                "type": "text",
+                                "label": "Updated cells"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "Updates"
+                    },
+                    {
+                        "name": "sheetName",
+                        "type": "text",
+                        "label": "Sheet"
+                    },
+                    {
+                        "name": "rowNumber",
+                        "type": "number",
+                        "label": "Row Number"
+                    }
+                ]
+            },
+            "onerror": [
+                {
+                    "id": 24,
+                    "module": "builtin:Ignore",
+                    "version": 1,
+                    "filter": {
+                        "name": "Catch all",
+                        "conditions": []
+                    },
+                    "metadata": {
+                        "designer": {
+                            "x": 2400,
+                            "y": 0
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "instant": false,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "zone": "us2.make.com",
+        "notes": []
+    }
+}

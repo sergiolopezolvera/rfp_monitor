@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}Opportunity {{ opportunity.id }} | RFP Monitor{% endblock %}
+
+{% block content %}
+  <section class="panel">
+    <h2>{{ opportunity.title or "Untitled opportunity" }}</h2>
+    <ul class="detail-list">
+      <li><strong>Source</strong><span>{{ opportunity.source.name if opportunity.source else "n/a" }}</span></li>
+      <li><strong>Organization</strong><span>{{ opportunity.organization or "n/a" }}</span></li>
+      <li><strong>Publication date</strong><span>{{ opportunity.publication_date.isoformat() if opportunity.publication_date else "n/a" }}</span></li>
+      <li><strong>Closing date</strong><span>{{ opportunity.closing_date.isoformat() if opportunity.closing_date else "n/a" }}</span></li>
+      <li><strong>Status</strong><span class="badge">{{ opportunity.status }}</span></li>
+      <li><strong>Original URL</strong><span><a href="{{ opportunity.url }}" target="_blank" rel="noreferrer">{{ opportunity.url }}</a></span></li>
+      <li>
+        <strong>Raw HTML</strong>
+        <span>
+          {% if opportunity.raw_html_path %}
+            <a href="{{ artifact_url(opportunity.raw_html_path) }}">{{ opportunity.raw_html_path }}</a>
+          {% else %}
+            n/a
+          {% endif %}
+        </span>
+      </li>
+      <li>
+        <strong>Raw text</strong>
+        <span>
+          {% if opportunity.raw_text_path %}
+            <a href="{{ artifact_url(opportunity.raw_text_path) }}">{{ opportunity.raw_text_path }}</a>
+          {% else %}
+            n/a
+          {% endif %}
+        </span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="panel">
+    <h3>Description / Parsed Text</h3>
+    <div class="copy">{{ opportunity.description_raw or "No description stored." }}</div>
+  </section>
+
+  <section class="panel">
+    <h3>LLM Analysis</h3>
+    {% if latest_analysis %}
+      <ul class="detail-list">
+        <li><strong>Is fit</strong><span>{{ latest_analysis.is_fit }}</span></li>
+        <li><strong>Fit score</strong><span>{{ latest_analysis.fit_score }}</span></li>
+        <li><strong>Matched services</strong><span>{{ latest_analysis.matched_services or "n/a" }}</span></li>
+        <li><strong>Potential concerns</strong><span>{{ latest_analysis.potential_concerns or "n/a" }}</span></li>
+      </ul>
+      <h3>Reasoning</h3>
+      <div class="copy">{{ latest_analysis.reasoning or "No reasoning stored." }}</div>
+    {% else %}
+      <p class="subtle">No analysis is stored for this opportunity yet.</p>
+    {% endif %}
+  </section>
+{% endblock %}

@@ -1,0 +1,295 @@
+Title: Rehabilitation of the Paudash Lake Dam
+
+Project reference: Tender_21702
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Request for Bids (RFB) for rehabilitation and stabilization of the Paudash Lake Dam. The dam is located in the Township of Faraday, County of Hastings, at the southeast outlet of Paudash Lake approximately 14 kilometers west of Bancroft
+
+The purpose of the project is to preserve the functionality and extend the useful life of the dam. Condition inspection and dam safety studies have identified the need for repairs and improvements.
+
+FULL_TEXT:
+Project: tender_21702 - Rehabilitation of the Paudash Lake Dam (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21702 - Rehabilitation of the Paudash Lake Dam
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Tender_21702
+Project Details
+Project Code
+tender_21702
+Project Title
+Rehabilitation of the Paudash Lake Dam
+Project Reference
+Tender_21702
+Multi Lot Project
+No
+Project Type
+Construction
+Project Categories
+30111500-Concrete and mortars
+31211500-Paints and primers
+31211600-Paint additives
+31211900-Paint applicators and painting accessories
+72103300-Infrastructure maintenance and repair services
+72141100-Infrastructure building and surfacing and paving services
+72141200-Marine construction services
+72152700-Concrete installation and repair services
+Opportunity Details
+Detailed Description
+Request for Bids (RFB) for rehabilitation and stabilization of the Paudash Lake Dam. The dam is located in the Township of Faraday, County of Hastings, at the southeast outlet of Paudash Lake approximately 14 kilometers west of Bancroft
+Scope of Work
+The purpose of the project is to preserve the functionality and extend the useful life of the dam.  Condition inspection and dam safety studies have identified the need for repairs and improvements.
+The Ministry of Natural Resources is seeking a contractor to prepare a laydown area and install cofferdams, rehabilitate the concrete dam and steel gates, and install post-tensioned anchors
+.
+The scope of work generally includes:
+•	Preparing general site access and laydown area.
+•	Installing temporary work platforms and scaffolding.
+•	Installing temporary environmental controls and cofferdams.
+•	Clearing of trees and vegetation in the area of work.
+•	Concrete removals and rehabilitation of the:
+o	Left Overflow Weir;
+o	Right Gravity Wall; and
+o	Operational Deck and Sluiceway Piers.
+•	Installation of post-tension anchors in the Left Overflow Weir.
+•	Installation of a lockable gate.
+•	Recoating of steel gains.
+•	Replacing timber stoplogs.
+The overall geometry and footprint of the dam will remain unchanged.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+14/04/2026 09:41
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+14/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+12
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Réfection du barrage du lac Paudash
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Appel d'offres pour la réfection et la stabilisation du barrage du lac Paudash. Le barrage est situé dans le canton de Faraday, comté de Hastings, à l'embouchure sud-est du lac Paudash, à environ 14 kilomètres à l'ouest de Bancroft.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+L’objectif du projet est de préserver la fonctionnalité et de prolonger la durée de vie utile du barrage. L'inspection de l'état et les études sur la sécurité des barrages ont mis en évidence le besoin de réparations et d'améliorations.
+Le ministère des Richesses naturelles est à la recherche d’un entrepreneur pour préparer une zone d'entreposage et installer des batardeaux, procéder à la réfection du barrage en béton et des renforts d’acier, et installer des ancrages de post-tension.
+L’étendue des travaux comprend généralement :
+•	la préparation de l'accès général au site et de la zone d'entreposage;
+•	l’installation de plateformes de travail temporaires et d'échafaudages;
+•	l’installation de dispositifs de protection environnementale provisoires et de batardeaux;
+•	le déboisement et la dévégétalisation dans la zone de travail;
+•	l’enlèvement de béton et réfection :
+o	du déversoir latéral gauche;
+o	du mur-poids de la rive droite; et
+o	du pont opérationnel et des piles de l'évacuateur;
+•	l’installation d'ancrages de post-tension dans le déversoir latéral gauche;
+•	l’installation d'un portail verrouillable;
+•	le revêtement des renforts d’acier;
+•	le remplacement des poutrelles d'arrêt en bois.
+La géométrie générale et l'emprise du barrage resteront inchangées.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Natural Resources
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+300 Water Street
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Peterborough
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+K9J 8M5
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+N/A
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+N/A
+Buyer
+Site Meeting
+*
+Site Meeting
+Yes, optional
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+April 28, 2026, 10:00 AM  (Toronto Time)
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Submissions must be made electronically through the Ontario Tenders Portal (“OTP”) eTendering System.
+Bid documents must not be mailed.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Vinay Sharma
+Buyer
+Contact Email Address
+*
+Contact Email Address
+vinay.sharma@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+437-225-2853
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19778
+Rehabilitation of the Paudash Lake Dam
+14/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Vinay Sharma
+Email
+Vinay.Sharma@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

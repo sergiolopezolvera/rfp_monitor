@@ -1,0 +1,103 @@
+Title: TBIPS - ORACLE/MS SQL Server Database Administration And Support - PSIB
+
+Solicitation number: 1000261966
+
+Publication date: 2026-05-13
+
+Closing date: 2026-05-28
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English, French
+
+Region(s) of delivery: Canada
+
+Contract duration: 60 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 81111507 ERP or database applications programming services | 81111704 Database design | 81111805 Proprietary or licensed systems maintenance or support | 81111806 Database analysis service | 81111811 Technical support or help desk services | 81112200 Software maintenance and support
+
+Organization: Department of Indigenous Services (ISC)
+
+Contracting authority: Karine Chrétien
+
+Email: karine.chretien@sac-isc.gc.ca
+
+Phone: 343992-3588
+
+Description:
+NOTICE OF PROPOSED PROCUREMENT (NPP)
+for
+TASK BASED INFORMATICS PROFESSIONAL SERVICES (TBIPS)
+This requirement is for: Indigenous Services Canada
+This requirement is open only to those TBIPS Supply Arrangement Holders under EN578-170432 who qualified under Tier 1, under the region / metropolitan area, level of expertise and for the following categories:
+CATEGORY LEVEL OF EXPERTISE
+I.2 Database Administrator Level 2
+I.2 Database Administrator Level 3
+I.3 Database Analyst /Information Management Modeller Level 2
+I.3 Database Analyst /Information Management Modeller Level 3
+I.4 Database Modeller Level 2
+I.4 Database Modeller Level 3
+The requirement is intended to result in the award of one (1) contract.
+The following SA Holders have been invited to submit a proposal:
+- 1511995 Ontario Limited, iPSS inc., Epi-Use Now Inc., in JV
+- Acosys Consulting Services Inc.
+- Adirondack Information Management Inc.
+- Adirondack Information Management Inc., Entrust Limited, Artemp Personnel Services Inc., The AIM Group Inc., in JOINT VENTURE
+- ADRM Technology Consulting Group Corp.
+- DWP Solutions Inc.
+- Factr Limited, ALTIS RECRUITMENT & TECHNOLOGY INC., in Joint Venture
+- MAKWA Resourcing Inc.
+- Malarsoft Technology Corporation
+- MONZ CONSULTING INC., NEWFOUND RECRUITING CORPORATION. in Joint Venture
+- Onaki Création S.E.N.C., IBISKA TELECOM INC., in Joint Venture
+- Symbiotic Group Inc.
+- SYMBIOTIC GROUP INC., Akkodis Canada Inc., IN JOINT VENTURE
+- T.I.7 INC., Quarry Consulting Inc., in joint venture
+- Turtle Technologies Inc.
+Description of the Requirement:
+Indigenous Services Canada has a requirement for ORACLE/MS SQL Server Database Administration And Support Services on an as and when required basis via Task Authorizations (TA) under the TBIPS Supply Arrangement (SA) method of supply. It is intended to result in the award of 1 contract for two (2) years plus three (3) one-year irrevocable options allowing Canada to extend the term of the contract.
+Security:
+There are security requirements associated with this requirement. Please note that SA Holders do not need to have the required clearance to submit a bid. For additional information, consult Part 6 - Security, Financial and Other Requirements, and Part 7 – Resulting Contract Clauses. For more information on personnel and organization security screening or security clauses, Bidders should refer to the Contract Security Program of Public Works and Government Services Canada (
+http://www.tpsgc-pwgsc.gc.ca/esc-src/introduction-eng.html
+) website.
+Level of Security Requirement:
+Security Requirement: PWGSC FILE No. PR-1000261966
+Minimum Corporate Security Required: Facility Security Clearance (FSC) at the level of SECRET
+Minimum Resource Security Required: Personnel security screening at the level of SECRET
+Document Safeguarding Security Level Required: PROTECTED B
+Commentaires particuliers :
+Ce besoin est réservé conformément à la Stratégie d’approvisionnement auprès des entreprises autochtones (SAEA / PSIB). Seules les entreprises autochtones admissibles, répondant aux exigences de propriété et de contrôle établies et inscrites au répertoire des entreprises autochtones de Services aux Autochtones Canada, sont autorisées à présenter une soumission.
+Applicable Trade Agreements:
+ None
+Proposed period of contract:
+The proposed period of contract shall be from contract award to two years later, with three additional (3) one-year option periods to extend the term of the contract.
+Estimated Level of Effort:
+The estimated level of effort of the contract will be for approximately 200 days a year per resource.
+Contracting Authority Information:
+File Number: 1000261966
+Contracting Authority: Karine Chrétien
+Phone Number: 343-992-3588
+E-Mail:
+karine.chretien@sac-isc.gc.ca
+Inquiries:
+Inquiries regarding this Request for Proposal (RFP) requirement must be submitted to the Contracting Authority named above. RFP documents will be e-mailed directly by the Contracting Authority to the Qualified Supply Arrangement Holders who are being invited to bid on this requirement. BIDDERS ARE ADVISED THAT “CANADABUYS.CANADA.CA” ” IS NOT RESPONSIBLE FOR THE DISTRIBUTION OF SOLICITATION DOCUMENTS. The Crown retains the right to negotiate with any supplier on any procurement. Documents may be submitted in either official language.
+Debriefings:
+Bidders may request a debriefing on the results of the bid solicitation process. Bidders should make the request to the Contracting Authority within 15 working days from receipt of the results of the bid solicitation process. The debriefing may be in writing, by telephone or in person.
+NOTE: Task‐Based Informatics Professional Services (TBIPS) Method of Supply is refreshed on a quarterly basis. If you wish to find out how you can be a “Qualified SA Holder”, please contact
+parcnmdai.apncrimos@tpsgc-pwgsc.gc.ca
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- 1000261966_TBIPS_NPP.pdf | EN | 2026/05/13
+
+- 1000261966_APM_SPICT.pdf | FR | 2026/05/13

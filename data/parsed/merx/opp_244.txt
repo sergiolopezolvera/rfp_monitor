@@ -1,0 +1,42 @@
+Title: HICC2026/27-PS6197 - MS DYNAMICS 365 – APPLICATION DEVELOPMENT RESOURCES DIGITAL PLATFORM FOR THE GRANTS AND CONTRIBUTIONS INFORMATION MANAGEMENT SYSTEM (GCIMS)
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-239-36267945
+
+Solicitation Number: HICC2026/27-PS6197
+
+Issuing Organization: Office of Infrastructure of Canada (INFC)
+
+Location: National Capital Region
+
+Publication date: 2026-04-08
+
+Closing date: 2026-04-21
+
+Contact name: Xiumei Situ
+
+Contact email: procurement-approvisionnement@infc.gc.ca
+
+Description:
+Housing, Infrastructure and Communities Canada (HICC) has a requirement for services related to Microsoft Dynamics 365 and Microsoft PowerPlatform, that are essential for designing, developing, testing and deploying a Grants and Contributions Information Management System (GCIMS).
+Requirements may include, but are not limited to:
+a. Implementation of approved business processes for HICC’s Grants and Contributions Information Management System (GCIMS).
+b. Advice and guidance on functional design recommendations, coding standards and emerging technologies.
+c. Translation of approved functional and business requirements into technical requirements and design specifications.
+d. Migration of legacy data and functionality to GCIMS.
+The Contractor’s resources, with experience implementing and supporting Microsoft Dynamics and Microsoft Power Platform solutions and associated business processes, will be required to support various requirements as identified in the applicable Task Authorization (TA).
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

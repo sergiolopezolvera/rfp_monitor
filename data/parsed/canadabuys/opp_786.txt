@@ -1,0 +1,30 @@
+Title: Invest Alberta Corporation - Request for Proposal - MARKET INTELLIGENCE RESEARCH TOOL
+
+Solicitation number: AB-2026-02890
+
+Publication date: 2026-04-10
+
+Closing date: 2026-04-30
+
+Last amendment date: 2026-04-23
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43232303 Customer relationship management CRM software | 43232309 Information retrieval or search software | 43232314 Business intelligence and data analysis software | 43232408 Web platform development software | 80141500 Market research | 81112501 Computer software licensing service | 81120000 Economics
+
+Organization: Invest Alberta Corporation
+
+Contracting authority: Fola Adebisi
+
+Email: fola.adebisi@investalberta.ca
+
+Description:
+IAC is seeking proposals from qualified proponents to provide a commercial off the shelf (COTS) market intelligence and research platform. The proposed solution must support evidence based analysis by delivering timely financial data, global market and sector intelligence, competitor information, and investment flow insights.

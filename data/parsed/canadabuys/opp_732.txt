@@ -1,0 +1,82 @@
+Title: One (1) System Administrator level 3 & One (1) System Administrator level 2
+
+Solicitation number: W6369-26-X049
+
+Publication date: 2026-04-10
+
+Closing date: 2026-05-07
+
+Last amendment date: 2026-04-24
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: Canada
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 81111800 System and system component administration services
+
+Organization: Department of National Defence (DND)
+
+Contracting authority: Rob Best
+
+Email: Robert.Best@forces.gc.ca
+
+Phone: (000) 000-0000
+
+Description:
+This requirement is for the Department of National Defence (DND).
+This requirement is open only to those TBIPS Supply Arrangement Holders under EN578-170432 who qualified under Tier 1, under the National Capital Region, level 2 and level 3 for the following category(ies):
+I.9 System Administrator
+The requirement is intended to result in the award of one (1) contract.
+The following SA Holders have been invited to submit a proposal:
+All qualified vendors for the category above have been invited to bid.
+Description of the Requirement:
+The Department of National Defence (DND) has a requirement for the services of one (1) System Administrator Level 3 and one (1) System Administrator Level 2.) to support all aspects of the operation of the Mapping and Charting Establishment (MCE) network capabilities. These include Data Centre operations, server virtualization, server administration, storage systems administration including installation, configuration, optimization, maintenance, testing and troubleshooting, network configuration and administration.
+Security:
+There are security requirements associated with this requirement. Please note that SA Holders do not need to have the required clearance to submit a bid. For additional information, consult Part 6 - Security, Financial and Other Requirements, and Part 7 – Resulting Contract Clauses. For more information on personnel and organization security screening or security clauses, Bidders should refer to the Contract Security Program of Public Works and Government Services Canada (
+http://www.tpsgc-pwgsc.gc.ca/esc-src/introduction-eng.html
+) website.
+Level of Security Requirement:
+Security Requirement: Yes
+Minimum Corporate Security Required: Secret
+Minimum Resource Security Required: Secret
+Special comments:
+This requirement includes access to Controlled Goods
+Applicable Trade Agreements:
+Canada - European Union Comprehensive Economic and Trade Agreement (CETA);
+World Trade Organization Agreement on Government Procurement (WTO-AGP);
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP);
+Canada - Chile Free Trade Agreement (CCFTA);
+Canada - Colombia Free Trade Agreement;
+Canada - Honduras Free Trade Agreement;
+Canada - Korea Free Trade Agreement;
+Canada - Panama Free Trade Agreement;
+Canada - Peru Free Trade Agreement (CPFTA);
+Canada - Ukraine Free Trade Agreement (CUFTA); and
+Canadian Free Trade Agreement (CFTA)
+Proposed period of contract:
+The proposed period of contract shall be from date of Contract to 31 August 2029 (estimated).
+Estimated Level of Effort:
+The estimated level of effort of the contract will be for 720 days per resource (estimated).
+Contracting Authority Information:
+File Number: W6369-26-X049
+Contracting Authority: Rob Best
+E-Mail:
+Robert.Best@forces.gc.ca
+Inquiries:
+Inquiries regarding this Request for Proposal (RFP) requirement must be submitted to the Contracting Authority named above. RFP documents will be e-mailed directly by the Contracting Authority to the Qualified Supply Arrangement Holders who are being invited to bid on this requirement. BIDDERS ARE ADVISED THAT “CANADABUYS.CANADA.CA” ” IS NOT RESPONSIBLE FOR THE DISTRIBUTION OF SOLICITATION DOCUMENTS. The Crown retains the right to negotiate with any supplier on any procurement. Documents may be submitted in either official language.
+Debriefings:
+Bidders may request a debriefing on the results of the bid solicitation process. Bidders should make the request to the Contracting Authority within 15 working days from receipt of the results of the bid solicitation process. The debriefing may be in writing, by telephone or in person.
+
+Trade agreements:
+Please refer to tender description or tender documents
+
+Reason for limited tendering:
+None

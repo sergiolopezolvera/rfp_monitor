@@ -1,0 +1,51 @@
+Title: 26-0127_v2 - Voice over Internet Protocol (VoIP) Telephony Services
+
+Solicitation number: 26-0127_v2
+
+Publication date: 2026-05-04
+
+Closing date: 2026-05-15
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: Canada
+
+Contract duration: 12 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Selection criteria: Lowest Price
+
+Commodity: 81161700 Telecommunication Services | 81161708 Telephone Support Service | 81161712 Network voice service
+
+Organization: Canadian Radio-Television and Telecommunications Commission (CRTC)
+
+Contracting authority: Lyna Champagne
+
+Email: Approvisionnements-Procurements@crtc.gc.ca
+
+Description:
+Request For Quotation - Tender Opportunity
+General Description of the Requirements
+The Canadian Radio-television and Telecommunications Commission (CRTC) requires Voice over Internet Protocol (VoIP) telephony services to support its Teletypewriter (TTY) and Facsimile (FAX) to email solution and its Direct Inward Dialing (DID) numbers starting on May 25, 2026 and to be fully operational by August 5, 2026 when the services with the current contractor cease.
+Level of Security Requirement
+The contractor must, at all times during the performance of the contract hold a valid designated organization screening (DOS) with approved document safeguarding at the level of protected B, issued by the Public Services and Procurement Canada's (PSPC) Contract Security Program (CSP).
+The contractor personnel requiring access to protected information, assets, work site(s) must each hold a valid reliability status, granted or approved by the CSP.
+Contract Period Details
+The proposed period of the contract must be for an initial fixed-term of 12 months from Contract Award starting on May 25, 2026 with four 12-month optional extensions.
+Tender Information
+To be invited to tender and provide a quotation by 4 p.m. (Eastern Time) on May 15, 2026, and receive a copy of the Request For Quotation documents required to do so, please contact Contracting Officer.
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- 26-0127 - NPP_Eng_v2.pdf | EN | 2026/05/04
+
+- 26-0127 - NPP_Fre_v2.pdf | FR | 2026/05/04

@@ -1,0 +1,149 @@
+(.venv) sergio@MacBook-Air-de-Sergio-2 rfp_monitor % tree
+.
+├── __pycache__
+│   └── main.cpython-313.pyc
+├── app
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   ├── config.cpython-313.pyc
+│   │   ├── db.cpython-313.pyc
+│   │   ├── logger.cpython-313.pyc
+│   │   ├── models.cpython-313.pyc
+│   │   └── schemas.cpython-313.pyc
+│   ├── cli
+│   │   └── __init__.py
+│   ├── config.py
+│   ├── db.py
+│   ├── llm
+│   │   ├── __init__.py
+│   │   └── prompts
+│   ├── logger.py
+│   ├── models.py
+│   ├── parsers
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-313.pyc
+│   │   │   ├── canadabuys_parser.cpython-313.pyc
+│   │   │   └── merx_parser.cpython-313.pyc
+│   │   ├── canadabuys_parser.py
+│   │   └── merx_parser.py
+│   ├── repositories
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-313.pyc
+│   │   │   ├── opportunities.cpython-313.pyc
+│   │   │   └── sources.cpython-313.pyc
+│   │   ├── opportunities.py
+│   │   └── sources.py
+│   ├── schemas.py
+│   ├── services
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-313.pyc
+│   │   │   ├── scrape_service.cpython-313.pyc
+│   │   │   └── source_service.cpython-313.pyc
+│   │   ├── scrape_service.py
+│   │   └── source_service.py
+│   ├── sources
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-313.pyc
+│   │   │   ├── canadabuys.cpython-313.pyc
+│   │   │   └── merx.cpython-313.pyc
+│   │   ├── base.py
+│   │   ├── canadabuys.py
+│   │   └── merx.py
+│   └── utils
+│       ├── __init__.py
+│       ├── __pycache__
+│       │   ├── __init__.cpython-313.pyc
+│       │   ├── files.cpython-313.pyc
+│       │   └── hashing.cpython-313.pyc
+│       ├── files.py
+│       └── hashing.py
+├── Current_Structure.txt
+├── data
+│   ├── exports
+│   ├── logs
+│   │   └── app.log
+│   ├── parsed
+│   │   ├── canadabuys
+│   │   │   ├── opp_1.txt
+│   │   │   ├── opp_10.txt
+│   │   │   ├── opp_2.txt
+│   │   │   ├── opp_3.txt
+│   │   │   ├── opp_4.txt
+│   │   │   ├── opp_5.txt
+│   │   │   ├── opp_6.txt
+│   │   │   ├── opp_7.txt
+│   │   │   ├── opp_8.txt
+│   │   │   └── opp_9.txt
+│   │   └── merx
+│   │       ├── opp_51.txt
+│   │       ├── opp_52.txt
+│   │       ├── opp_53.txt
+│   │       ├── opp_54.txt
+│   │       ├── opp_55.txt
+│   │       ├── opp_56.txt
+│   │       ├── opp_57.txt
+│   │       ├── opp_58.txt
+│   │       ├── opp_59.txt
+│   │       └── opp_60.txt
+│   └── raw
+│       ├── canadabuys
+│       │   ├── opp_1.html
+│       │   ├── opp_10.html
+│       │   ├── opp_2.html
+│       │   ├── opp_3.html
+│       │   ├── opp_4.html
+│       │   ├── opp_5.html
+│       │   ├── opp_6.html
+│       │   ├── opp_7.html
+│       │   ├── opp_8.html
+│       │   └── opp_9.html
+│       └── merx
+│           ├── opp_51.html
+│           ├── opp_52.html
+│           ├── opp_53.html
+│           ├── opp_54.html
+│           ├── opp_55.html
+│           ├── opp_56.html
+│           ├── opp_57.html
+│           ├── opp_58.html
+│           ├── opp_59.html
+│           └── opp_60.html
+├── database.db
+├── main.py
+├── make-com
+│   ├── AI analysis - CanadaBuys.blueprint.json
+│   ├── AI analysis - Merx.blueprint.json
+│   ├── CanadaBuys - Scraping.blueprint.json
+│   ├── ExamplesDatabase - Sheet1.csv
+│   ├── Firm profile and services.pdf
+│   ├── Merx - Scraping (HTTP).blueprint.json
+│   └── SystemPrompt.txt
+├── pyproject.toml
+├── rfp_monitor.db
+├── rfp_monitor.egg-info
+│   ├── dependency_links.txt
+│   ├── entry_points.txt
+│   ├── PKG-INFO
+│   ├── requires.txt
+│   ├── SOURCES.txt
+│   └── top_level.txt
+├── scripts
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   └── init_db.cpython-313.pyc
+│   ├── init_db.py
+│   └── seed_sources.py
+└── tests
+    ├── __pycache__
+    │   ├── test_canadabuys_parser.cpython-313-pytest-9.0.3.pyc
+    │   ├── test_merx_parser.cpython-313-pytest-9.0.3.pyc
+    │   └── test_merx_source.cpython-313-pytest-9.0.3.pyc
+    ├── test_canadabuys_parser.py
+    ├── test_merx_parser.py
+    └── test_merx_source.py

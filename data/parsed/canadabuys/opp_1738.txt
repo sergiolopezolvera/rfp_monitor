@@ -1,0 +1,39 @@
+Title: Agriculture and Irrigation - Request for Proposal - SCADA Systems – Radio Tower Services
+
+Solicitation number: AB-2026-03521
+
+Publication date: 2026-05-04
+
+Closing date: 2026-05-19
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 22 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43222903 Telecommunication tower or support | 32000000 Electronic Components and Supplies | 43000000 Information Technology Broadcasting and Telecommunications | 43190000 Communications Devices and Accessories | 70170000 Water resources development and oversight | 70171700 Irrigation system maintenance and management services | 72000000 Building and Facility Construction and Maintenance Services | 70171701 Canal maintenance or management services
+
+Organization: Agriculture and Irrigation
+
+Contracting authority: Rob Harrop
+
+Email: william.harrop@gov.ab.ca
+
+Description:
+Alberta Agriculture and Irrigation (AGI), Water Infrastructure and Operations Branch (WIOB) is seeking a Contractor to provide maintenance and servicing of the radio communication towers, antennas and cables associated with the Supervisory Control and Data Acquisition (SCADA) Systems at various water management infrastructure sites located in Alberta. Water Infrastructure and Operations Branch is responsible for operating and maintaining the water management infrastructure owned by the Government of Alberta. This infrastructure includes dams, canals, control structures and diversion headworks and includes the following systems and project areas:
+• St. Mary Dam System
+• Waterton Dam System
+• Lethbridge Northern Headworks System
+• Carseland Bow System
+• Western Headworks System
+Government owned water management infrastructure consists primarily of earth and concrete structures. This infrastructure also includes electrical, mechanical and geotechnical components along with electro-mechanical and geotechnical instrumentation and SCADA monitoring and control systems. Regular maintenance must be performed on these systems. WIO personnel identify deficiencies with the major structures and the supporting sub-systems during regular inspections.
+All the projects and systems indicated above include SCADA related radio communication towers, antennas and cables. To ensure continuous function of this equipment regular maintenance is required and occasional technical service as well. In order for operations staff to ensure deficiencies in the equipment are properly addressed, WIOB must have access to the technical knowledge and equipment to service and maintain the radio equipment and towers located at the various sites. Currently, that expertise and equipment does not exist within the organization, and it must therefore be accessed using external resources.
+For the purposes of this work, it is desirable to engage the services of a qualified contractor to provide services to WIOB through the Project Manager. A contractor will be selected through a Request for Proposal (RFP) process.
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process

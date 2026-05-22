@@ -1,0 +1,38 @@
+Title: 8566Q - 8566Q - Traffic Load Balancer Refresh (CY00095)
+
+Status: This solicitation is OPEN
+
+Reference Number: 00005002768
+
+Solicitation Number: 8566Q
+
+Issuing Organization: City Of Richmond, BC
+
+Solicitation Type: RFQ - Request for Quote (Informal)
+
+Location: British Columbia
+
+Purchase Type: Not Stated
+
+Publication date: 2026-04-17
+
+Closing date: 2026-05-14
+
+Contact name: purchasing
+
+Contact email: purchasing@richmond.ca
+
+AI Overview:
+Seeking to upgrade existing F5 BIG-IP i5800 network load balancing solution to the F5 r4600 platform, including hardware procurement, configuration migration, and support services.
+
+Description:
+The City of Richmond (the “City”) is seeking to upgrade our existing F5 BIG-IP i5800 network load balancing solution to the F5 r4600 platform. This project includes the procurement of new hardware, the migration of current configurations to the F5OS-based multi-tenant architecture, and the provision of comprehensive support and maintenance services.
+See more
+
+Disclaimer:
+Disclaimer
+All amendments to the associated notice, including amended documents, plans and specifications (where applicable), are issued on
+bcbid.gov.bc.ca
+. MERX asks that you refer to
+bcbid.gov.bc.ca
+notice for these amendments. MERX stipulates that potential bidders may also be required to register with the buying authority as a bidder/plan taker. The contact information can be found within the notice abstract.

@@ -1,0 +1,293 @@
+Title: OPP-1995 Soil Contamination Delineation Services
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+RFB for Soil Decontamination Delineation Services for the Ontario Provincial Police.
+
+The Ontario Provincial Police (OPP) uses firing ranges for training purposes. The Ministry is seeking Soil Contamination Delineation Services for multiple firing range locations across the province.
+
+FULL_TEXT:
+Project: tender_21608 - OPP-1995 Soil Contamination Delineation Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21608 - OPP-1995 Soil Contamination Delineation Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21608
+Project Title
+OPP-1995 Soil Contamination Delineation Services
+Project Reference
+Multi Lot Project
+Yes
+Project Type
+Services
+Project Categories
+70131500-Land and soil protection
+70131600-Land and soil preparation
+70131700-Land and soil management
+76121800-Refuse treatment
+76122000-Landfill services
+76131500-Nuclear waste treatment
+76131600-Toxic spill cleanup
+76131700-Oil spill cleanup
+77101600-Environmental planning
+77101700-Environmental advisory services
+77101800-Environmental auditing
+77101900-Pollution investigation services
+77102000-Environmental reporting services
+77111500-Environmental safety services
+77111600-Environmental rehabilitation
+77121600-Soil pollution
+77121700-Water pollution
+77131700-Toxic substances pollution
+77141500-Water or aqueous testing
+77141600-Non-drinking water or aqueous testing
+77141700-Soil or sludge or solid waste testing
+Opportunity Details
+Detailed Description
+RFB for Soil Decontamination Delineation Services for the Ontario Provincial Police.
+Scope of Work
+The Ontario Provincial Police (OPP) uses firing ranges for training purposes.  The Ministry is seeking Soil Contamination Delineation Services for multiple firing range locations across the province.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+15/04/2026 10:48
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+22/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/08/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+18
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Services de délimitation de la pollution des sols
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Demande de soumissions pour des services de délimitation de la pollution des sols de la Police provinciale de l’Ontario.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+La Police provinciale de l’Ontario utilise des champs de tir à des fins de formation.  Le ministère cherche à obtenir des services de délimitation de la pollution des sols dans plusieurs champs de tir dans la province.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Solicitor General
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+777 Memorial Avenue
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Orillia
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+L3V 7V3
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+Yes, Mandatory
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Submissions must be made electronically through the Ontario Tenders Portal (“OTP”) eTendering System.
+Bid documents must not be mailed.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Pamela Clarke, Procurement Advisor
+Buyer
+Contact Email Address
+*
+Contact Email Address
+pamela.clarke@ontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+647-983-5174
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+Qualification Only RFx
+rfx_19789
+OPP-1995 - Soil Contamination Delineation Services - Qualification Envelope
+22/05/2026 11:00
+2
+RFx
+rfx_19793
+OPP-1995 - Soil Contamination Delineation Services - Category 1: Simcoe Site
+22/05/2026 11:00
+3
+RFx
+rfx_19794
+OPP-1995 - Soil Contamination Delineation Services - Category 2: London-Kerwood Site
+22/05/2026 11:00
+4
+RFx
+rfx_19795
+OPP-1995 - Soil Contamination Delineation Services - Category 3: Mount Forest Site
+22/05/2026 11:00
+5
+RFx
+rfx_19796
+OPP-1995 - Soil Contamination Delineation Services Category 4: South Porcupine Site
+22/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Pamela Clarke
+Email
+pamela.clarke@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

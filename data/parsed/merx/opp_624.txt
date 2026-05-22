@@ -1,0 +1,38 @@
+Title: AB-2026-03177 - RFP 26-1547 Automated Traffic Enforcement Program
+
+Status: This solicitation is OPEN
+
+Reference Number: 00005011168
+
+Solicitation Number: AB-2026-03177
+
+Issuing Organization: The City of Calgary
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: Alberta
+
+Purchase Type: Not Stated
+
+Publication date: 2026-04-23
+
+Closing date: 2026-05-19
+
+Contact name: Gurjit Parmar
+
+Contact email: gurjit.parmar2@calgary.ca
+
+AI Overview:
+Seeking a qualified supplier to deliver, implement, maintain, and support a comprehensive Automated Traffic Enforcement Program with mobile photo radar and intersection safety devices.
+
+Description:
+The City of Calgary (“the City”), on behalf of the Calgary Police Service (“CPS”), is seeking a qualified Supplier capable of delivering, implementing, maintaining, and supporting a comprehensive Automated Traffic Enforcement Program. The proposed solution must include either a cloud-based or on premise software platform, as well as all required physical infrastructure to support Mobile Photo Radar (speed) equipment and Intersection Safety Devices capable of red light and speed enforcement.
+See more
+
+Disclaimer:
+Disclaimer
+All amendments to the associated notice, including amended documents, plans and specifications (where applicable), are issued on
+purchasing.alberta.ca
+. MERX asks that you refer to the
+purchasing.alberta.ca
+notice for these amendments. MERX stipulates that potential bidders may also be required to register with the buying authority as a bidder/plan taker. The contact information can be found within the notice abstract.

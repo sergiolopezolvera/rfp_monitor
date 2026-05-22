@@ -1,0 +1,286 @@
+Title: Canada and US Media Monitoring Services
+
+Project reference: tender_21164
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Request for Bids for the provision of Canada and United States media monitoring and managed reporting services for Destination Ontario.
+
+This contract requires a managed service to measure media relations performance in Canada and the United States, monitor Destination Ontario’s reputation, and track tourism and industry-related issues. The Vendor will provide comprehensive English and French media monitoring across print, digital, and broadcast channels, including native coverage of French‑Canadian media without the need for a separate platform or additional fees.
+
+FULL_TEXT:
+Project: tender_21580 - Canada and US Media Monitoring Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21580 - Canada and US Media Monitoring Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+tender_21164
+Project Details
+Project Code
+tender_21580
+Project Title
+Canada and US Media Monitoring Services
+Project Reference
+tender_21164
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+55101500-Printed publications
+55111500-Electronic publications and music
+55111600-Electronic software reference material
+80141700-Distribution
+80171600-Publicity and marketing support services
+80171700-Reputation and brand management services
+80171800-Public relations and media relations services
+80172000-Professional communication services
+82101500-Print advertising
+82101600-Broadcast advertising
+82101800-Advertising agency services
+82111900-News and publicity services
+83112200-Enhanced telecommunications services
+83121700-Mass communication services
+83130100-Communication service
+Opportunity Details
+Detailed Description
+Request for Bids for the provision of Canada and United States media monitoring and managed reporting services for Destination Ontario.
+Destination Ontario is seeking a qualified vendor to provide a fully managed media monitoring service covering English and French media across Canada and the United States. The successful vendor will be responsible for tracking Ontario‑related earned media coverage across print, digital, and broadcast channels, and for delivering curated reporting outputs for both consumer travel and corporate communications needs.
+Optional, project‑based services may include enhanced metrics and best‑practice recommendations, additional media analysis and reporting related to specific campaigns or issues, and other related services requested during the term.
+Scope of Work
+This contract requires a managed service to measure media relations performance in Canada and the United States, monitor Destination Ontario’s reputation, and track tourism and industry-related issues. The Vendor will provide comprehensive English and French media monitoring across print, digital, and broadcast channels, including native coverage of French‑Canadian media without the need for a separate platform or additional fees.
+Core services include monthly reporting of earned media using Advertising Value Equivalency (AVE) and Reach, delivered in Excel format. For print and digital coverage, AVE and Reach will be calculated per article or mention; native social media listening is excluded, though reporting will track how earned news articles are shared across social platforms (social amplification). Broadcast coverage will be measured using AVE per minute and total Reach.
+The Vendor will supply direct access to coverage outputs, including links to online articles, PDFs or readable formats for print articles behind paywalls, and broadcast summaries with video clips. Services also include access to up‑to‑date, searchable media lists categorized by sector, media type, and geography, with functionality for users to create and manage custom lists. Additional support includes on‑demand monitoring of specific broadcast stations and programs, daily media scans of the tourism industry, and a daily editable roundup of key travel media coverage in Canada and the US.
+Optional deliverables may be requested by Destination Ontario on a project basis, subject to written estimates and prior written approval, and may be modified or discontinued at Destination Ontario’s discretion.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+24/04/2026 16:27
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+12/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/07/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+24
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Demande de soumissions pour des services de veille médiatique au Canada et aux États-Unis.
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Demande de soumissions pour la prestation de services gérés de veille médiatique au Canada et aux États-Unis et de production de rapports pour le compte de Destination Ontario.
+Destination Ontario est à la recherche d’un fournisseur qualifié pour fournir des services de veille médiatique entièrement gérés couvrant les médias anglophones et francophones au Canada et aux États-Unis. Le fournisseur retenu sera responsable du suivi de l’exposition médiatique gagnée de l’Ontario dans les médias imprimés, numériques et audiovisuels, ainsi que de la production de rapports sur mesure, en fonction des besoins associés aux communications générales et aux voyages des consommateurs.
+Des services optionnels liés à des projets pourraient inclure des indicateurs améliorés et des recommandations de pratiques exemplaires, des analyses médiatiques et rapports supplémentaires concernant des campagnes ou des enjeux précis, ainsi que d’autres services connexes demandés pendant la durée du contrat.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Ce contrat adopte une approche de services gérés. Le fournisseur mesurera les retombées médias (Canada et États-Unis), surveillera la réputation de Destination Ontario et suivra les enjeux du secteur touristique. Il offrira une veille complète en anglais et en français (imprimé, numérique, audiovisuel), incluant la couverture native franco-canadienne, sans plateforme distincte ni frais supplémentaires.
+Livrables principaux
+Rapports mensuels : Suivi et analyse de l’exposition médiatique gagnée via l’équivalence de la valeur publicitaire (AVE) et la portée, livrés sous format Excel.
+Articles imprimés et numériques : Calcul de l’AVE et de la portée par mention. Remarque : L’écoute native des médias sociaux n’est pas requise, mais les rapports doivent inclure l’amplification sociale des articles de presse issus de l’exposition gagnée.
+Médias audiovisuels : Mesure de la couverture par l’AVE par minute et la valeur totale de la portée.
+Accès aux contenus : Liens directs, formats PDF ou lisibles (pour les murs payants), résumés de diffusion et clips vidéo.
+Listes de médias : Base de données à jour, interrogeable par secteur, type et région, permettant la gestion de listes personnalisées.
+Soutien supplémentaire : Surveillance sur demande de stations/émissions spécifiques, veille quotidienne du secteur et résumé quotidien modifiable de la couverture touristique (Canada/États-Unis).
+Livrables optionnels
+Des livrables peuvent être demandés par projet. Ils feront l’objet d’une estimation et d’une approbation écrites préalables. Destination Ontario se réserve le droit de les modifier ou d’y mettre fin à sa seule discrétion.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Destination Ontario
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+10 Dundas St Suite 900
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M7A 2A1
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Canada and US
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Submissions must be made electronically through the Ontario Tenders Portal (“OTP”) eTendering System.
+Bid documents must not be mailed.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Sean Hurdle
+Buyer
+Contact Email Address
+*
+Contact Email Address
+sean.hurdle@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+1111111111
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19851
+Canada and US Media Monitoring Services
+12/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Sean Hurdle
+Email
+sean.hurdle@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

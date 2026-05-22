@@ -1,0 +1,63 @@
+Title: Electronic Health Record Platform (EHRP) Project Management Support Services (PMSS)
+
+Solicitation number: W8474-258554
+
+Publication date: 2026-03-26
+
+Closing date: 2026-05-22
+
+Last amendment date: 2026-04-27
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 24 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 80101600 Project management | 80101604 Project administration or planning
+
+Organization: Department of National Defence (DND)
+
+Contracting authority: Artiom Nogaev
+
+Email: desproc2-4-dose2-4@forces.gc.ca
+
+Description:
+The scope of this requirement is for the provision of IM/IT professional services required to plan, organize, manage, design and implement an Electronic Health Record (EHR) system. The services to be provided by the Contractor under this Contract will be delivered on an “as-and-when-requested” basis as described in the SOW and includes the following work streams and categories of services:
+1. Stream 3 - Information Management/Information Technology Services
+• I.4. Database Modeller/Information Management Modeller (Level 3)
+• I.5. Information Management Architect (Level 3)
+• I.10. Technical Architect (Level 3)
+2. Stream 6 - Cyber Protection Services
+• C.2. Information Technology Security Methodology, Policy and Procedures Analyst (Level 3)
+• C.3. Information Technology Security Threat and Risk Assessment and Certification and Accreditation Analyst (Level 3)
+• C.7. Information Technology Security Design Specialist (Level 3)
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- W8474-258554 PMSS NPP_SSGP AAP EN_FR_AMND1.pdf | EN and FR | 2026/04/27
+
+- W8474-258554 PMSS NPP_SSGP AAP EN_FR_1.pdf | EN and FR | 2026/03/26

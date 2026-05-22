@@ -1,0 +1,52 @@
+Title: Agriculture and Irrigation - Request for Proposal - SCADA – Systems Integrator
+
+Solicitation number: AB-2026-03752
+
+Publication date: 2026-05-13
+
+Closing date: 2026-06-02
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 22 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 25173300 Master control systems | 32000000 Electronic Components and Supplies | 70170000 Water resources development and oversight | 70171700 Irrigation system maintenance and management services | 81102700 Instrumented control systems design and engineering services | 70171701 Canal maintenance or management services
+
+Organization: Agriculture and Irrigation
+
+Contracting authority: Rob Harrop
+
+Email: William.Harrop@gov.ab.ca
+
+Description:
+Alberta Agriculture and Irrigation (AGI), Water Infrastructure and Operations Branch (WIOB) is seeking a Contractor to provide engineering, maintenance, demand service and completion of small upgrade projects to ensure continuous and reliable operation of the Supervisory Control and Data Acquisition (SCADA) Systems. The service providers must have the capability to provide demand services on the systems in place and be locally available to the various sites to ensure timely and cost-effective service. WIOB is responsible for operating and maintaining the water management infrastructure owned by the Government of Alberta. This infrastructure includes dams, canals, control structures and diversion headworks and includes the following systems and project areas:
+South Region:
+Waterton-St. Mary Headworks System
+Oldman River Dam
+Lethbridge Northern Headworks System
+Pine Coulee Project
+Cavan Lake Headworks System
+Cypress Hills Dams
+MVLA Headworks System
+Bow River Region:
+Carseland-Bow River Headworks System
+Highwood – Little Bow System
+Western Headworks System Sheerness – Deadfish System
+Central Region:
+Dickson Dam
+Camrose SCADA System
+Gull Lake Pumphouse
+Buffalo Lake Pumphouse
+St. Paul Pumphouse
+North Region:
+South Heart River Project
+Paddle River Dam
+Government owned water management infrastructure consists primarily of earth and concrete structures. This infrastructure also includes electrical, mechanical and geotechnical components along with electro-mechanical and geotechnical instrumentation and SCADA monitoring and control systems. Regular maintenance must be performed on these systems, and deficiencies with the major structures and the supporting sub-systems are identified during regular inspection by WIOB personnel.
+All the projects and systems indicated above include Programmable Logic Control (PLC) based control systems including PLC I/O, human machine interfaces, instrumentation, sensors, communications equipment including radios, radio towers, antennas and antenna cable, desktop computers and notebook computers used in conjunction with control systems. To ensure continuous function of this equipment regular maintenance is required and occasional technical servicing as well. In order for operations staff to ensure that deficiencies in the equipment are properly addressed WIOB must have access to technical knowledge and competency for the various makes and model of equipment located at the various sites. Currently that expertise does not exist within the organization and it must therefore be accessed using external resources.
+For the purposes of this work, it will be desirable to engage the services of a qualified contractor to provide services to WIOB through the Project Manager.

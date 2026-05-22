@@ -1,0 +1,41 @@
+Title: 01B68-25-1256 - BSA Power Platform Services
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-282-57685544
+
+Solicitation Number: 01B68-25-1256
+
+Issuing Organization: Department of Agriculture and Agri-Food (AAFC)
+
+Location: Canada
+
+Publication date: 2026-04-16
+
+Closing date: 2026-05-07
+
+Contact name: Val Judenne
+
+Contact email: 5555
+
+Contact phone: val.judenne@agr.gc.ca
+
+Description:
+The Information Systems Branch (ISB) of Agriculture and Agri-Food Canada (AAFC) has ongoing requirements on an “as and when requested” basis for experienced IM/IT professionals to:
+1. support AAFC’s adoption of Microsoft’s Power Platform line of business intelligence, application development, and application connectivity software components and technologies; and
+2. to provide specialized expertise required to meet its solution development requirements
+This requirement is to establish a Task Authorization Contract with a qualified TBIPS Supply Arrangement (SA) Holder for services in the National Capital Region (NCR).
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

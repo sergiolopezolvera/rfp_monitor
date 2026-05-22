@@ -1,0 +1,80 @@
+Title: W7714-248676/013 - Multi-modal AI for Advanced Situational Decisions
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-395-41051453
+
+Solicitation Number: W7714-248676/013
+
+Issuing Organization: Department of Public Works and Government Services (PSPC)
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: Canada
+
+Publication date: 2026-04-23
+
+Closing date: 2026-06-02
+
+Contact name: PWGSC IDEaS Team / L'équipe IDEeS de TPSGC
+
+Contact email: tpsgc.paidees-apideas.pwgsc@tpsgc-pwgsc.gc.ca
+
+Description:
+This Challenge notice is issued under the Innovation for Defence Excellence and Security (IDEaS) Program Call for Proposals (CFP) Call 006 (W7714-248676/A).
+Solicitation Documents reference: See “Bidding details” section.
+*For additional general information on the IDEaS Program, visit: https://www.canada.ca/en/department-national-defence/programs/defence-ideas.html
+_____________
+This challenge is open to receive proposals for Component 1a, Component 1b and Component 2. Proposed solutions that fall within technology readiness levels (TRL) 1-9 can be submitted to this challenge.
+Steps to apply:
+Step 1: read this challenge
+Step 2: read the Call for Proposals : See “Bidding details” section
+Step 3: propose your solution here : https://defence-innovation-portal.my.site.com/
+_____________
+Maximum Funding and Performance Period
+Multiple contracts could result from this Challenge.
+The individual maximum contract funding available under Component 1a (TRL 1 to 3) is up to $250,000 CAD (excluding applicable taxes) for a maximum performance period of up to 6 months.
+The maximum individual contract funding available under Component 1b (TRL 4 and 5) is up to $1,500,000 CAD (excluding applicable taxes) for a maximum performance period of 12 months.
+The maximum individual contract funding available under Component 2 (TRL 6 to 9) is up to $5,000,000 CAD (excluding applicable taxes). The period of performance will be determined at the time of contract negotiation.
+The maximum individual contractual funding and the maximum performance period offered under Component 3 will be determined by Canada at the time of contract negotiation.
+This disclosure is made in good faith and does not commit Canada to contract for the total approximate funding.
+_____________
+Challenge Details
+Challenge Title: W7714-248676/013 - Multi-modal AI for Advanced Situational Decisions
+The Department of National Defence and Canadian Armed Forces (DND/CAF) are seeking innovative AI (Artificial Intelligence)-driven solutions that fuse heterogeneous multi-domain data streams to provide real-time, explainable, and policy-aware situational awareness for operational decision-making. By increasing situational awareness on the battlefield, this new technology will reduce system vulnerabilities and increase speed of decision making.
+Background and context
+CAF operations generate vast, heterogeneous data streams such as text reports, imagery, video, audio, Radio Frequency (RF)/signal intelligence, sensor telemetry, and emerging modalities such as quantum-derived measurements and drone-based information. These data sources remain siloed, limiting real-time situational awareness and decision-making.
+This capability directly supports the CAF Digital Campaign Plan and the DND/CAF AI Strategy by enabling learned, adaptive fusion across modalities rather than static aggregation. It aligns with Force Capability Plan priorities for Intelligence Surveillance Recognition (ISR), Command & Control (C2), and operational resilience. The capability will enhance CAF’s ability to integrate intelligence across domains and classification levels, ensuring interoperability with allies and secure operations in contested environments.
+Unlike traditional rule-based fusion, this initiative leverages AI-driven architectures to learn complex relationships across heterogeneous modalities, propagate uncertainty, and deliver policy-aware, explainable outputs for mission-critical decisions in dynamic, degraded environments.
+Solutions will be integrated into CAF ISR platforms, C2 systems, and tactical edge deployments. Outputs will inform CAF doctrine for multi-domain operations, feed into experimentation and wargaming environments, and support procurement strategies for next-generation decision-support systems.
+DND/CAF are hosting this challenge to observe advancements in AI technology to resolve this issue.
+Examples of application can be described as, but are not limited to:
+Joint ISR Fusion for Arctic Operations: AI-driven spatiotemporal alignment of satellite imagery, RF signals, and telemetry for persistent Arctic domain awareness.
+Real-Time Threat Assessment in Multi-Domain Battlespace: Deep learning-based fusion of Electro-Optics (EO) video, Signals Intelligence (SIGINT), and text intelligence for dynamic targeting and force protection.
+Edge Fusion for Tactical Units: Deploy constraint-aware AI models on wearable systems to integrate audio, video, and sensor data for soldier situational awareness under degraded connectivity.
+Maritime Task Group Operations: AI-powered anomaly detection using sonar, RF, and visual feeds with uncertainty scoring and explainable outputs.
+Airborne Multi-Sensor Platforms: Fuse radar, Electro-Optics/Infra-red (EO/IR), and telemetry for enhanced detection and tracking of stealth or spoofed adversary assets.
+Essential Outcomes
+Proposed solutions must demonstrate the following:
+• Deliver an AI model that can aggregate, ingest, fuse, and generate outputs from at least two (2) heterogenous data types (e.g. sensor, text, RF) to produce output metrics and measures (e.g. classifications, detection, correlations)
+Desired Outcomes
+Proposed solutions should include capabilities and considerations such as, but not limited to, the following:
+• Advanced deep learning architectures for spatiotemporal alignment, uncertainty propagation, and confidence scoring across modalities;
+• Entity resolution and dynamic knowledge graph integration for persistent object tracking across domains;
+• Policy-aware fusion leveraging AI-based provenance tracking for secure integration across classification levels with full lineage;
+• Scalable architecture for real-time AI-powered fusion pipelines in operational environments, including explainable outputs for operator trust; and
+• Incorporate Size/Weight/Power (SWaP) and compute limits into fusion pipelines for edge deployment.
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

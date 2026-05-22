@@ -1,0 +1,325 @@
+Title: Medical Professional Services
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Supply Ontario aims to deliver a comprehensive range of medical professional services to Ontario Public Service (OPS) and Broader Public Sector (BPS) entities, with the goal of supporting, managing, and providing care for Ontarians.
+
+Supply Ontario requires the services of medical/health professionals across 11 distinct service categories for Dentists and Dental Assistants, Registered Practical Nurses, Registered Nurses, Nurse Practitioners, Medical Doctors - Primary Care Practitioners, Psychiatrists, Pediatricians, Physiotherapists, Psychologists, Clinical Psychologists, and Personal Support Workers. These services are essential to support, manage, and provide care for Ontarians through Ontario Public Service (OPS) and Broader Public Sector (BPS) entities. The services will be required on an ongoing basis to ensure continuous and effective healthcare provision. They are needed across various OPS and BPS entities throughout Ontario.
+
+FULL_TEXT:
+Project: tender_20973 - Medical Professional Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_20973 - Medical Professional Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_20973
+Project Title
+Medical Professional Services
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+85101500-Healthcare centers
+85101600-Healthcare provider support persons
+85121500-Primary care practitioner services
+85121600-Medical doctor specialist services
+85121700-Healthcare provider specialist services
+85122000-Dental services
+85122100-Medical rehabilitation services for patients
+85122200-Individual health screening and assessment services
+85274600-Diagnoses of specific personality disorders
+85275700-Diagnoses of specific developmental disorders of speech and language
+85275800-Diagnoses of specific developmental disorders of scholastic skills
+85454300-Diagnoses of other medical care
+85455900-Diagnoses of persons encountering health services for counselling and medical advice
+85911000-Psychotherapy and counseling services
+85911200-Psychological tests
+85921300-Psychotherapy and counseling
+86121700-University and colleges
+93131700-Health programs
+Opportunity Details
+Detailed Description
+Supply Ontario aims to deliver a comprehensive range of medical professional services to Ontario Public Service (OPS) and Broader Public Sector (BPS) entities, with the goal of supporting, managing, and providing care for Ontarians.
+To accomplish this, Supply Ontario is soliciting the expertise of medical and health professionals across 11 distinct service categories to establish an enterprise vendor of record arrangement for the provision of medical services within seven service regions.
+Scope of Work
+Supply Ontario requires the services of medical/health professionals across 11 distinct service categories for Dentists and Dental Assistants, Registered Practical Nurses, Registered Nurses, Nurse Practitioners, Medical Doctors - Primary Care Practitioners, Psychiatrists, Pediatricians, Physiotherapists, Psychologists, Clinical Psychologists, and Personal Support Workers. These services are essential to support, manage, and provide care for Ontarians through Ontario Public Service (OPS) and Broader Public Sector (BPS) entities. The services will be required on an ongoing basis to ensure continuous and effective healthcare provision. They are needed across various OPS and BPS entities throughout Ontario.
+Services to be provided through this vendor of record arrangement are intended to address the needs in correctional facilities, Provincial demonstration schools and various other healthcare spaces.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+15/07/2025 08:27
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+31/03/2031 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+72
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Services professionnels médicaux
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+ApprovisiOntario vise à offrir une gamme complète de services professionnels médicaux aux entités de la fonction publique de l’Ontario (FPO) et du secteur parapublic dans le but de soutenir, de gérer et de fournir des soins aux Ontariennes et aux Ontariens.
+Pour ce faire, ApprovisiOntario sollicite l’expertise de professionnels de la santé dans 11 catégories de services distinctes afin d’établir une entente de fournisseur officiel pour la prestation de services médicaux dans 7 régions de service.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+ApprovisiOntario a besoin des services de professionnels de la santé dans 11 catégories de services distinctes pour les dentistes, les infirmiers auxiliaires autorisés, les infirmiers autorisés, les infirmiers praticiens, les médecins généralistes, les psychiatres, les pédiatres, les physiothérapeutes, les psychologues, les psychologues cliniciens et les préposés aux services de soutien à la personne. Ces services sont essentiels pour soutenir, gérer et fournir des soins aux Ontariennes et aux Ontariens par l’intermédiaire des entités de la fonction publique de l’Ontario (FPO) et du secteur parapublic. Les services seront requis sur une base continue pour assurer une prestation continue et efficace des soins de santé. Ils sont nécessaires dans diverses entités de la FPO et du secteur parapublic de l’Ontario.
+Les services qui seront fournis dans le cadre de cette entente visent à répondre aux besoins des établissements correctionnels, des écoles d’application provinciales et de divers autres espaces de soins de santé.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Supply Ontario
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+200 Front St W, Suite 2800
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M5V 3L1
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+Yes, Optional
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+August 6, 2025 at 14:00-15:00 (Toronto Time) via Teams call
+SO reserves the right and may periodically hold additional Information Sessions that will be announced via Addenda
+Link to join the August 6, 2025 call below, all other Teams links to calls will be included in future Addenda's:
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjY2OWVkNDEtNGVkNi00N2ZmLTkzMDAtMGZkN2UxYTNhZmFh%40thread.v2/0?context=%7b%22Tid%22%3a%22cddc1229-ac2a-4b97-b78a-0e5cacb5865c%22%2c%22Oid%22%3a%22ff537c2c-ad26-4144-8d50-3658f9b81fcb%22%7d
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Japjot Lail
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Please send all questions to the RFB Contact through the Ontario Tenders Portal (“OTP”) eTendering System online messaging function
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+111-111-1111
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19047
+SC 1 Dentist and Dental Assistants
+31/03/2031 11:00
+2
+RFx
+rfx_19048
+SC 2 Registered Practical Nurse
+31/03/2031 11:00
+3
+RFx
+rfx_19049
+SC 3 Registered Nurse
+31/03/2031 11:00
+4
+RFx
+rfx_19050
+SC 4  Nurse Practitioner
+31/03/2031 11:00
+5
+RFx
+rfx_19051
+SC 5  Medical Doctor – Physician
+31/03/2031 11:00
+6
+RFx
+rfx_19052
+SC 6 Psychiatrist
+31/03/2031 11:00
+7
+RFx
+rfx_19053
+SC 7  Pediatrician
+31/03/2031 11:00
+8
+RFx
+rfx_19054
+SC 8  Physiotherapist
+31/03/2031 11:00
+9
+RFx
+rfx_19055
+SC 9  Psychologist
+31/03/2031 11:00
+10
+RFx
+rfx_19056
+SC 10  Peer Support Program Clinical Psychologist
+31/03/2031 11:00
+11
+RFx
+rfx_19057
+SC 11  Personal Support Worker
+31/03/2031 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Japjot Lail
+Email
+Japjot.Lail@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

@@ -1,0 +1,140 @@
+Title: 21120-25-5078750/C - Warehouse Management System
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-474-35065114
+
+Solicitation Number: 21120-25-5078750/C
+
+Issuing Organization: Correctional Service of Canada (CSC)
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: National Capital Region
+
+Publication date: 2026-04-28
+
+Closing date: 2026-05-19
+
+Contact name: Nassima Aliouat
+
+Contact email: 343540-8957
+
+Contact phone: nassima.aliouat@csc-scc.gc.ca
+
+Description:
+NOTICE OF PROPOSED PROCUREMENT (NPP) for TASK BASED INFORMATICS PROFESSIONAL SERVICES (TBIPS)
+IMPORTANT NOTICE: This bid solicitation is a re-tender of the requirement described in bid solicitation number 21120-25-5078750 dated March 11,2026 with a bid closing date of March 31,2026 at 2:00 PM; this document replaces the previous version entirely.
+This requirement is for: Correctional Service Canada
+This requirement is open only to those TBIPS Supply Arrangement Holders under EN578-170432 who qualified under Tier 1 (= $0 - $3.75M), under the metropolitan area, level of expertise and for the following categories:
+Stream A
+? A.1. Application/Software Architect (LEVEL 3)
+Stream B
+? A.2. Enterprise Resource Planning Functional Analyst (LEVEL 3)
+Stream C
+? A.3 Enterprise Resource Planning Programmer Analyst (LEVEL 3)
+The requirement is intended to result in the award of up to three (3) contracts, potentially one (1) per each stream
+The following SA Holders have been invited to submit a proposal:
+1. ADRM Technology Consulting Group Corp. and Randstad Interim Inc
+2. Allan Clarke & Associates Inc.; The Halifax Computer Consulting Group Inc.; In Joint Venture
+3. Cache Computer Consulting Corp.
+4. Cache Computer Consulting Corp., Systèmes Syntax Ltée / Syntax Systems Ltd, in Joint Venture
+5. IT/NET - Ottawa Inc.
+6. IT/NET Ottawa Inc, KPMG LLP, in joint venture
+7. KPMG LLP
+8. Leo-Pisces Services Group Inc.
+9. Michael Wager Consulting Inc.
+10. N12 Consulting Corporation
+11. Raise Limited
+12. Randstad Interim Inc.
+13. T.I.7 INC., Quarry Consulting Inc., in joint venture
+14. The VCAN Group Inc.
+15. Trillys Systems inc.
+16. Experis Canada Inc
+17. Deloitte Inc.
+18. Factr Limited, Altis Recruitment & Technology Inc., in Joint Venture
+19. Akkodis Canada (Formerly Modis Canada)
+20. Procom Consultants Group Ltd
+21. Altis Recruitment & Technology Inc.
+22. Zernam Enterprise Inc
+23. IBM Canada limited
+24. ifathom Corporation
+25. HubSpoke Inc.
+26. Cofomo Inc.
+27. Prologic Systems Ltd. and Maplesoft Consulting Inc. in JV
+28. PRECISIONERP INCORPORATED
+29. SOLUTIONS MOERAE INC
+30. Kyndryl Canada Limited; ISM Information Systems Management Corporation IN JOINT VENTURE
+Description of the Requirement:
+The Correctional Service of Canada (CSC) has a requirement for the following resource categories:
+? Stream A - A.1. Application/Software Architect (LEVEL 3)
+? Stream B - A.2. Enterprise Resource Planning Functional Analyst (LEVEL 3)
+? Stream C - A.3 Enterprise Resource Planning Programmer Analyst (LEVEL 3)
+Objective:
+The objective is to implement Warehouse Management in CSC’s Oracle IFMMS system in order to replace the existing two legacy systems and to have an integrated solution that will be supported from a functional and technical perspective; using the existing and internal knowledge base to best manage and support the business processes at both the Laval National Depot and the CORCAN Warehouse sites.
+Enhancing IFMMS with advanced warehouse management functionality, will provide industry best practices in CSC and CORCAN’s supply chain management process through efficiencies, innovation, and consolidation of three software applications into one. The solution will create efficiencies in business processes and increase accuracy in the supply chain process through tracking all inputs and outputs within one system.
+Functional and technical expertise are required for the implementation, configuration and delivery of the Warehouse Management functionality in IFMMS, which includes enhancements to the Inventory Management and order Management modules.
+Scope:
+The Warehouse Management solution must effectively support both the Laval Depot and the CORCAN Warehouse. By enhancing functionality within Oracle EBS to include Warehouse Management, and potentially include Oracle’s Mobile Supply Chain Applications (MSCA), and by enhancing Oracle EBS modules such as Inventory Management and Order Management this will enable users at both locations to:
+a) Accurately manage and process physical goods;
+b) Increase the accuracy of inventory counts for costing, manufacturing, and shipment of goods,;
+c) Properly reconcile and integrate billing, pricing, and returns related to goods sold, and
+d) Establish a consistent business process and source of truth for users at both locations.
+This transformation will provide both the Laval Depot and the CORCAN Warehouse with an integrated solution that is more automated and streamlined, thus reducing inventory reconciliation issues, and allowing for more accurate and timely processing of orders.
+The solution must:
+a. Be integrated (and not interfaced) with the existing Oracle EBS V12.2 ERP system.
+b. Be compatible with CSC current technology infrastructure.
+c. Be upgradable at regular intervals to keep current with industry standards, as well as the Government of Canada standards through Shared Services Canada (SSC).
+d. Adhere to Treasury Board Secretariat directives for financial systems..
+e. Utilize and implement industry standard “best-practices.”
+f. Limit costly customizations to those that are required either by external legislation or internal Commissioner’s directives.
+g. Be able to easily enter orders, process shipments, and reconcile all transactions. There should be few to no inventory discrepancies. This will improve reporting capabilities and facilitate accurate and consistent responses to Access to Information and Privacy requests (ATIP).
+Security:
+There are security requirements associated with this requirement. Please note that SA Holders do not need to have the required clearance to submit a bid. For additional information, consult Part 6 - Security, Financial and Other Requirements, and Part 7 – Resulting Contract Clauses. For more information on personnel and organization security screening or security clauses, Bidders should refer to the Contract Security Program of Public Works and Government Services Canada (http://www.tpsgc-pwgsc.gc.ca/esc-src/introduction-eng.html) website.
+Level of Security Requirement:
+Security Requirement: Annex C, SRCL applies
+Minimum Corporate Security Required: Designated Organization Screening (DOS)
+Minimum Resource Security Required: Reliability Status
+Document Safeguarding Security Level Required: Not required
+Applicable Trade Agreements:
+The World Trade Organization Agreement on Government Procurement (WTO-AGP), the Canada-Chile Free Trade Agreement (CCFTA), the Canada-Peru Free Trade Agreement (CPFTA), the Canada-Colombia Free Trade Agreement (CColFTA), the Canada-Panama Free Trade Agreement (CPanFTA), the Canada-Honduras Free-Trade Agreement, the Canada-European Union Comprehensive Economic and Trade Agreement (CETA), the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), the Canadian Free Trade Agreement (CFTA), the Canada-Ukraine Free Trade Agreement (CUFTA), the Agreement on Trade Continuity between Canada and the United Kingdom of Great Britain and Northern Ireland and the Canada-Korea Free Trade Agreement (CKFTA).
+Proposed period of contract:
+Stream A: The proposed period of contract(s) shall be from the date of Contract(s) award to 18 months later
+Stream B & C: The proposed period of contract(s) shall be from the date of Contract(s) award to 18 months later, plus one (1) additional one-year irrevocable option allowing Canada to extend the term of the contract(s).
+Estimated Level of Effort:
+The estimated level of effort of the contract will be as follow:
+Stream A
+A.1 Application/Software Architect (LEVEL 3) Estimated Number of Days
+Initial Contract Period – 18 Months - 270 Days
+Stream B
+A.2. Enterprise Resource Planning Functional Analyst (LEVEL 3) Estimated Number of Days
+Initial Contract Period – 18 Months - 330 Days
+Option Period 1 – One year - 99 Days
+Stream C
+A.3 Enterprise Resource Planning Programmer Analyst (LEVEL 3) Estimated Number of Days
+Initial Contract Period – 18 Months - 330 Days
+Option Period 1 – One year - 99 Days
+Contracting Authority Information:
+File Number: 21120-25-5078750/C
+Contracting Authority: Nassima Aliouat
+Phone Number: 343-540-8957
+E-Mail: Nassima.aliouat@csc-scc.gc.ca
+Inquiries:
+Inquiries regarding this Request for Proposal (RFP) requirement must be submitted to the Contracting Authority named above. RFP documents will be e-mailed directly by the Contracting Authority to the Qualified Supply Arrangement Holders who are being invited to bid on this requirement. BIDDERS ARE ADVISED THAT “CANADABUYS.CANADA.CA” ” IS NOT RESPONSIBLE FOR THE DISTRIBUTION OF SOLICITATION DOCUMENTS. The Crown retains the right to negotiate with any supplier on any procurement. Documents may be submitted in either official language.
+Debriefings:
+Bidders may request a debriefing on the results of the bid solicitation process. Bidders should make the request to the Contracting Authority within 15 working days from receipt of the results of the bid solicitation process. The debriefing may be in writing, by telephone or in person.
+NOTE: Task-Based Informatics Professional Services (TBIPS) Method of Supply is refreshed on a quarterly basis. If you wish to find out how you can be a “Qualified SA Holder”, please contact parcnmdai.apncrimos@tpsgc-pwgsc.gc.ca
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

@@ -1,0 +1,90 @@
+Title: W847A-6000670902 - FAcT TBIPS – Training System Implementation Support
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-289-43172736
+
+Solicitation Number: W847A-6000670902
+
+Issuing Organization: Department of National Defence (DND)
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: Canada
+
+Publication date: 2026-04-22
+
+Closing date: 2026-05-13
+
+Contact name: Andrew McMillan
+
+Contact email: (343) 574-1876
+
+Contact phone: andrew.mcmillan@forces.gc.ca
+
+Description:
+NOTICE OF PROPOSED PROCUREMENT (NPP)
+for
+TASK BASED INFORMATICS PROFESSIONAL SERVICES (TBIPS)
+This requirement is for: National Defence
+This requirement is open only to those TBIPS Supply Arrangement Holders under EN578-170432 who qualified under Tier 1, under the National Capital Region, level of expertise and for the following category(ies):
+1. B.3 Business Consultant – Senior
+2. B.5 Business Process Re-engineering Consultant – Senior
+3. C.1 Strategic Information Technology Security Planning and Protection Consultant – Senior
+4. C.3 Information Technology Security TRA and C&A Analyst – Intermediate
+The requirement is intended to result in the award of one (1) contract.
+The following SA Holders have been invited to submit a proposal:
+1. ADGA Group Consultants Inc.
+2. Agile Biztech
+3. Altruistic Informatics Consulting Inc.
+4. BRYCA Solutions Inc., Server Cloud Canada Inc., 2657319 Canada Inc. in Joint Venture
+5. C3SA Cybernetic Security Audit Inc.
+6. CGI Information Systems and Management Consultants Inc.
+7. Experis Canada Inc.
+8. Green PI Inc.
+9. iFathom Corporation
+10. Maverin Business Services Inc.
+11. The Source Staffing Solutions Inc.
+12. T.E.S Contract Services Inc.
+13. The Halifaz Computer Consulting Group Inc.
+14. The Source Staffing Solutions Inc.
+15. Thinking Big Information Technology Inc.
+Description of the Requirement:
+The Future Aircrew Training (FAcT) Program has issued a Contract to SkyAlyne for the operation of pilot training programs in Moose Jaw, Southport, and Winnipeg. DND has a requirement for a Task Based Informatics Professional Services (TBIPS) Contractor to provide the services of a Senior Business Process Re-Engineering Consultant, a Senior Business Consultant, a Senior Strategic Information Technology Security Planning and Protection Consultant and an Intermediate Information Technology Security TRA and C&A Analyst.
+SkyAlyne has started the implementation of the FAcT training system. The TBIPS Contractor will support the training system implementation by acting as a liaison between the end-client (DND), the FAcT team, key stakeholders and SkyAlyne. As part of that contract, SkyAlyne is the System Implementor (SI) and during the Pre-Service Delivery phase, has started the Implementation of the FAcT Training System. To support the Implementation work, a TBIPS contract is required to provide the DND with contracted IM/IT Subject Matter Expert (SME) professional services resources to act as liaison between the end-client, the FAcT Team, Key Stakeholders, and the SI.
+Security:
+There are security requirements associated with this requirement. Please note that SA Holders do not need to have the required clearance to submit a bid. For additional information, consult Part 6 - Security, Financial and Other Requirements, and Part 7 – Resulting Contract Clauses. For more information on personnel and organization security screening or security clauses, Bidders should refer to the Contract Security Program of Public Works and Government Services Canada (http://www.tpsgc-pwgsc.gc.ca/esc-src/introduction-eng.html) website.
+Level of Security Requirement:
+Security Requirement: SRCL # W847A-6000670902
+Minimum Corporate Security Required: Secret
+Minimum Resource Security Required: Secret
+Document Safeguarding Security Level Required: Not Applicable
+Estimated Level of Effort:
+The estimated level of effort of the contract will be for 240 days per year per resource
+Contracting Authority Information:
+File Number: W847A-6000670902
+Contracting Authority: Ulrich Mercier Kamga
+Phone Number: 343.576.3558
+E-Mail: ulrichmercier.kamga@forces.gc.ca
+Procurement Authority: Andrew McMillan
+Phone Number: 343.574.1876
+Email Address: andrew.mcmillan@forces.gc.ca
+Inquiries:
+Inquiries regarding this Request for Proposal (RFP) requirement must be submitted to the Contracting Authority named above. RFP documents will be e-mailed directly by the Contracting Authority to the Qualified Supply Arrangement Holders who are being invited to bid on this requirement. BIDDERS ARE ADVISED THAT “CANADABUYS.CANADA.CA” ” IS NOT RESPONSIBLE FOR THE DISTRIBUTION OF SOLICITATION DOCUMENTS. The Crown retains the right to negotiate with any supplier on any procurement. Documents may be submitted in either official language.
+Debriefings:
+Bidders may request a debriefing on the results of the bid solicitation process. Bidders should make the request to the Contracting Authority within 15 working days from receipt of the results of the bid solicitation process. The debriefing may be in writing, by telephone or in person.
+NOTE: Task-Based Informatics Professional Services (TBIPS) Method of Supply is refreshed on a quarterly basis. If you wish to find out how you can be a “Qualified SA Holder”, please contact parcnmdai.apncrimos@tpsgc-pwgsc.gc.ca
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

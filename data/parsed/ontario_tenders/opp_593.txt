@@ -1,0 +1,258 @@
+Title: Cohesity/Veritas NetBackup Recovery Services
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: IT
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Under this Request for Bids the Ministry of Public and Business Service Delivery and Procurement is procuring Cohesity backup and recovery services.
+
+Ministry of Public and Business Service Delivery and Procurement uses backup and storage management software from Cohesity primarily in the Guelph Data Centre, designated third-party data centres, and remote hosts across the province.
+
+FULL_TEXT:
+Project: tender_21699 - Cohesity/Veritas NetBackup Recovery Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21699 - Cohesity/Veritas NetBackup Recovery Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21699
+Project Title
+Cohesity/Veritas NetBackup Recovery Services
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+43212200-Computer data storage management systems
+43232400-Development software
+43233200-Security and protection software
+43233700-System management software
+Opportunity Details
+Detailed Description
+Under this Request for Bids the Ministry of Public and Business Service Delivery and Procurement is procuring Cohesity backup and recovery services.
+Scope of Work
+Ministry of Public and Business Service Delivery and Procurement uses backup and storage management software from Cohesity primarily in the Guelph Data Centre, designated third-party data centres, and remote hosts across the province.
+Cohesity products (formerly Veritas) support the continuity of business operations through timely access and restoration of data, in the event of loss of data due to accidental deletion, corruption, system failure, or disaster.
+Work Category
+IT
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+22/04/2026 15:27
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+25/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/07/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+12
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Services de sauvegarde et de récupération
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Dans le cadre de cet appel d'offres, le ministère des services au public et aux entreprises cherche un fournisseur des services de sauvegarde et de restauration Cohesity.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Le ministère des Services au public et aux entreprises et de l’Approvisionnement (le Ministère) utilise principalement les logiciels de sauvegarde et de gestion du stockage de Cohesity dans le centre de données de Guelph, dans les centres de données tiers désignés et dans les hôtes distants dans l'ensemble de la province.
+Les produits Veritas assure la continuité des opérations grâce à un accès rapide aux données et à leur restauration en cas de leur perte due à une suppression accidentelle, à une altération, à une défaillance du système ou à un sinistre.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Public and Business Service Delivery and Procurement
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+222 Jarvis
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M7A0B6
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+N/A
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+N/A
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Harmit Rishi
+Buyer
+Contact Email Address
+*
+Contact Email Address
+harmit.rishi@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+000-000-0000
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19831
+Tender_21699- Cohesity/Veritas NetBackup Recovery Services
+25/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Harmit Rishi
+Email
+Harmit.Rishi@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

@@ -1,0 +1,40 @@
+Title: 228080 - 12945 Process Mining Proof of Value - Information Technology (IT)
+
+Status: This solicitation is OPEN
+
+Reference Number: 00005002778
+
+Solicitation Number: 228080
+
+Issuing Organization: City of Kelowna
+
+Solicitation Type: NOI - Notice of Intent (Informal)
+
+Location: British Columbia
+
+Purchase Type: Not Stated
+
+Publication date: 2026-04-17
+
+Closing date: 2026-04-27
+
+Contact name: Purchasing
+
+Contact email: 250-469-8530
+
+Contact phone: purchasing@kelowna.ca
+
+AI Overview:
+A Process Mining Proof of Value engagement requiring specialized expertise to analyze large volumes of system generated event data across multiple service request systems to identify process inefficiencies.
+
+Description:
+The City has chosen not to proceed with a competitive procurement process for this engagement because the services require highly specialized and uncommon expertise in process mining and data driven process discovery, combined with demonstrated public sector delivery experience and a proven, proprietary methodology that extends beyond standard process mining services. The proposed engagement is not a conventional business process review, analytics exercise, or workflow mapping initiative. It is a Process Mining Proof of Value, requiring the ability to analyze large volumes of system generated event data across multiple service request systems, reconstruct true end to end processes, and identify process variants, inefficiencies, and improvement opportunities that cannot be reliably identified through interviews, workshops, or traditional BPM techniques alone
+See more
+
+Disclaimer:
+Disclaimer
+All amendments to the associated notice, including amended documents, plans and specifications (where applicable), are issued on
+bcbid.gov.bc.ca
+. MERX asks that you refer to
+bcbid.gov.bc.ca
+notice for these amendments. MERX stipulates that potential bidders may also be required to register with the buying authority as a bidder/plan taker. The contact information can be found within the notice abstract.

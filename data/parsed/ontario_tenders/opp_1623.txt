@@ -1,0 +1,255 @@
+Title: RFB26-46 Filter Media Goods and Related Services
+
+Project reference: RFB26-46
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+RFB26-46 Filter Media Goods and Related Services
+Default Additional Notes
+
+FULL_TEXT:
+Project: tender_21793 - RFB26-46 Filter Media Goods and Related Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21793 - RFB26-46 Filter Media Goods and Related Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+RFB26-46
+Project Details
+Project Code
+tender_21793
+Project Title
+RFB26-46 Filter Media Goods and Related Services
+Project Reference
+RFB26-46
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+40161800-Filter media
+83101500-Water and sewer utilities
+95121800-Utility buildings and structures
+Opportunity Details
+Detailed Description
+RFB26-46 Filter Media Goods and Related Services
+The Ontario Clean Water Agency (OCWA) has issued a Request for Bids (RFB) to prospective bidders to submit bids for the supply of various filter media products and services on an “as needed basis” at water, wastewater, or other facilities within Ontario and operated by the Ontario Clean Water Agency.
+Bidders are required to download the document from https://ontariotenders.app.jaggaer.com.
+Scope of Work
+Default Additional Notes
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+08/05/2026 13:26
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+10/06/2026 12:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+240
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+RFB26-46 Matériel filtrant et services connexes
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+L’Agence ontarienne des eaux (AOE) a lancé un appel d’offres à l’intention des soumissionnaires pour l’approvisionnement de divers types de matériel filtrant et de services connexes, « en fonction des besoins », dans les installations de distribution d’eau, de traitement des eaux usées et autres, situées en Ontario et gérées par l’Agence ontarienne des eaux.
+Les soumissionnaires doivent télécharger le document à l’adresse https://ontariotenders.app.jaggaer.com et envoyer leurs questions par courriel à Madhavi Kolekar à l’adresse procurement@ocwa.com avant la date limite indiquée dans le document de l’appel d’offres.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Ontario Clean Water Agency
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+2085 Hurontario Street, Suite 500
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Mississauga
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+ON
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+L5A 4G1
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+N/A
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Madhavi Kolekar
+Buyer
+Contact Email Address
+*
+Contact Email Address
+procurement@ocwa.com
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+905 301 0164
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+Email
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19909
+RFB26-46 Filter Media Goods and Related Services
+10/06/2026 12:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Madhavi Kolekar
+Email
+procurement@ocwa.com
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

@@ -1,0 +1,54 @@
+Title: RFP-OPEN – W6399-23LN01-B – Network Operations Support Services (NOSS)
+
+Solicitation number: WS5374230641
+
+Publication date: 2026-03-18
+
+Closing date: 2026-04-28
+
+Last amendment date: 2026-04-17
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English, French
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 80101507 Information technology consultation services
+
+Organization: Department of Public Works and Government Services (PSPC)
+
+Buying organization(s): Department of National Defence (DND)
+
+Contracting authority: Cabannes, Carlos (SPAC/PSPC) (il-lui / he-him)
+
+Email: carlos.cabannes@tpsgc-pwgsc.gc.ca
+
+Description:
+AMENDMENT TO CLOSING TIME: Please disregard the Ariba Discovery posting response deadline closing time and CanadaBuys posting closing time. All required supporting documentation and bid submission must be submitted by APRIL 28th, 2026, at 14:00 PM EDT. All bids submitted after 14:00 PM EDT will result in the bid being declared non-responsive. Only TBIPS SA Holders holding a TBIPS SA for Tier 2 at the time of bid closing, in all required resource categories in this solicitation in the National Capital Region (NCR) Region under the EN578-170432 series of SAs are eligible to compete. This requirement is for the provision of Informatics professional services to provide support services for network operations and to define the Department of National Defence (DND) services requirement for specific initiatives. These resources will provide DND with the ability to sustain, maintain, and develop classified networks of interest. These networks provide DND with the ability to communicate securely while supporting domestic and expeditionary operations. It is intended to result in the award of 1 contract, for 3 years plus 2 one-year irrevocable option periods allowing Canada to extend the term of the contract.
+
+Trade agreements:
+Canadian Free Trade Agreement (CFTA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Colombia Free Trade Agreement
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canada-Panama Free Trade Agreement
+Canada-Peru Free Trade Agreement (CPFTA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+No trade agreements are applicable to this solicitation process
+
+Reason for limited tendering:
+None
+
+Related notices:
+
+- RFP-PSIB - W6399-23LN01 – Network Operations Support Services (NOSS) | WS5374230641 | 2025/10/07 | 2025/11/14

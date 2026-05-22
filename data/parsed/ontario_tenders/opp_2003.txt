@@ -1,0 +1,257 @@
+Title: 2026 Lake Sediment and Water Sampling in the Province of Ontario
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Request for Bids (RFB) for the provision of non‑scheduled air transportation by dedicated helicopter to complete lake sediment and water sampling in the Wawa Region, Province of Ontario.
+Lake sediment and water sampling for the Ontario Geological Survey (OGS) Branch of the Ontario Ministry of Energy and Mines will be drawn from various lakes in the Wawa Region, Province of Ontario.
+
+FULL_TEXT:
+Project: tender_21775 - 2026 Lake Sediment and Water Sampling in the Province of Ontario (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21775 - 2026 Lake Sediment and Water Sampling in the Province of Ontario
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21775
+Project Title
+2026 Lake Sediment and Water Sampling in the Province of Ontario
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+25131600-Civilian and commercial rotary wing aircraft
+25131800-Specialty aircraft
+78111500-Passenger air transportation
+78141500-Transport arranging services
+78142000-Transport conveyance rental or lease services
+Opportunity Details
+Detailed Description
+Request for Bids (RFB) for the provision of non‑scheduled air transportation by dedicated helicopter to complete lake sediment and water sampling in the Wawa Region, Province of Ontario.
+Scope of Work
+Lake sediment and water sampling for the Ontario Geological Survey (OGS) Branch of the Ontario Ministry of Energy and Mines will be drawn from various lakes in the Wawa Region, Province of Ontario.
+Aircraft (Bell 206B), Flight Crew, and Ontario Public Service (OPS) employees will be based out of the Project Base Site at Wawa Airport, and the sampling locations will be within the Wawa, Lake Superior Park areas, in the Province of Ontario.
+The Ministry will provide overall direction on the designated sampling sites and work to be undertaken during the project. There will be a requirement for the transportation of OPS personnel and/or equipment.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+14/05/2026 08:58
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+15/06/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+2
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Échantillonnage de sédiments et d’eaux lacustres dans la province de l’Ontario en 2026
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Demandes d’offres pour le transport non régulier par hélicoptère dédié dans le but d’effectuer l’échantillonnage de sédiments et d’eaux lacustres dans la région de Wawa, dans la province de l’Ontario.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Des échantillons de sédiments et d’eaux lacustres pour la Commission géologique de l’Ontario du ministère de l’Énergie et des Mines de l’Ontario seront prélevés dans divers lacs de la région de Wawa, dans la province de l’Ontario.
+L’appareil (Bell 206B), l’équipage et les employés de la fonction publique de l’Ontario (FPO) seront établis au site de la base du projet à l’aéroport de Wawa, et le prélèvement des échantillons aura lieu dans les régions de Wawa et du parc du lac Supérieur, dans la province de l’Ontario.
+Le ministère assurera l’orientation générale sur les sites d’échantillonnage désignés et les travaux qui seront entrepris dans le cadre du projet. Il sera nécessaire d’assurer le transport du personnel de la FPO et du matériel.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Natural Resources
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+300 Water St.
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Peterborough
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+K9J 3C7
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Omer Mohammed
+Buyer
+Contact Email Address
+*
+Contact Email Address
+omer.mohammed@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+437-553-7188
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19898
+2026 Lake Sediment and Water Sampling in the Province of Ontario
+15/06/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Omer Mohammed
+Email
+Omer.Mohammed@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

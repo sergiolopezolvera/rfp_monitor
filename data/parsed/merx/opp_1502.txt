@@ -1,0 +1,45 @@
+Title: PGT-20260507 - Online Proctoring Tools / Application / Services
+
+Status: This solicitation is OPEN
+
+Reference Number: 00005034658
+
+Solicitation Number: PGT-20260507
+
+Issuing Organization: Public Guardian and Trustee of British Columbia
+
+Solicitation Type: NRFP - Negotiated Request for Proposal (Formal)
+
+Location: British Columbia
+
+Purchase Type: Not Stated
+
+Publication date: 2026-05-08
+
+Closing date: 2026-06-12
+
+Contact name: Busch, Liz
+
+Contact email: Helpdesk@trustee.bc.ca
+
+AI Overview:
+The Public Guardian and Trustee is seeking to acquire and implement an online proctoring tool to modernize its hiring process and support meritorious hiring obligations under the Public Services Act.
+
+Description:
+This Best Value Negotiated Request for Proposals (the “BV NRFP”) has been issued by the Public Guardian and Trustee (the “PGT”) to acquire and implement an assessment tool (the “Online Proctoring Tool” or “OPT”) that will modernize its hiring process. The OPT will also help the PGT meets its obligations to engage in a meritorious hiring process, as defined in the Public Services Act, while providing for a streamlined, efficient, professional and user-friendly experience.
+The PGT is obliged to screen all Applicants in alignment with the applicable job profiles to:
+a) ensure Applicants have the required qualifications;
+b) assess all Applicants for their skills, knowledge and abilities in order to be effective at the job; and
+c) conduct past work performance reviews.
+The OPT should support a wide range of functionalities for hiring, including the development and maintenance of question pools, automated test generation, analytics, and the provision of reports. The OPT will offer monitoring features during Applicants’ assessments to support test integrity. The OPT should help PGT’s hiring managers assess both soft and hard skills (e.g. from data entry to exercising judgment).
+PROPONENTS’ MEETING An online Proponents’ meeting will be held to provide an overview of the BV NRFP and essential information regarding the Submittal Forms required in this procurement. To obtain the greatest benefit of this meeting, Proponents are strongly encouraged to have their direct critical project team members (in lieu of business development or sales personnel) attend. The meeting will be held virtually via Teams on May 21, 2026 at 2:00 pm.
+Vendors wishing to attend are required to send an email to the PGT Contact above for an invitation and link to this meeting.
+See more
+
+Disclaimer:
+Disclaimer
+All amendments to the associated notice, including amended documents, plans and specifications (where applicable), are issued on
+bcbid.gov.bc.ca
+. MERX asks that you refer to
+bcbid.gov.bc.ca
+notice for these amendments. MERX stipulates that potential bidders may also be required to register with the buying authority as a bidder/plan taker. The contact information can be found within the notice abstract.

@@ -1,0 +1,290 @@
+Title: AGCO 082-25 Services for Regulatory Assurance of Gaming
+
+Project reference: AGCO 082-25 Multi lot
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+The AGCO is seeking through this RFB process to obtain a list of Vendors able to provide some or all Deliverables as outlined in this RFB (see Section 1.3). The goal is to have a group of ISO/IEC 17025:2017 Accredited Independent Testing Laboratories (ITLs) assist the AGCO and the Registrar with services for Regulatory Assurance of gaming.
+Default Additional Notes
+
+FULL_TEXT:
+Project: tender_21784 - AGCO 082-25 Services for Regulatory Assurance of Gaming (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21784 - AGCO 082-25 Services for Regulatory Assurance of Gaming
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+AGCO 082-25 Multi lot
+Project Details
+Project Code
+tender_21784
+Project Title
+AGCO 082-25 Services for Regulatory Assurance of Gaming
+Project Reference
+AGCO 082-25 Multi lot
+Multi Lot Project
+Yes
+Project Type
+Services
+Project Categories
+43232000-Computer game or entertainment software
+48121200-Gambling tables and games
+48121300-Gambling management and networked wagering systems
+49181500-Table games and equipment
+49181600-Target games and equipment
+80101500-Business and corporate management consultation services
+84111600-Audit services
+Opportunity Details
+Detailed Description
+The AGCO is seeking through this RFB process to obtain a list of Vendors able to provide some or all Deliverables as outlined in this RFB (see Section 1.3). The goal is to have a group of ISO/IEC 17025:2017 Accredited Independent Testing Laboratories (ITLs) assist the AGCO and the Registrar with services for Regulatory Assurance of gaming.
+The services provided under this RFB include, among other things, ongoing education and training to AGCO staff, security assessments, audit and testing services to ensure that gaming equipment meets regulatory requirements in place in Ontario, as well as technical inspections, technical research, and related reports related to integrity issues arising in respect of gaming equipment, including cheat at play, fraud, and similar matters.
+The AGCO does not guarantee or represent to a successful Bidder any volume of work, eligibility for registration, or ability to provide services to gaming-related suppliers.
+Scope of Work
+Default Additional Notes
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+11/05/2026 14:41
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+16/06/2026 14:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+24
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+AGCO 082-25 Services d’assurance réglementaire des jeux
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+La CAJO cherche, par le biais de ce processus d’appel d’offres, à obtenir une liste de fournisseurs capables de fournir tout ou partie des prestations décrites dans le présent appel d’offres (voir section 1.3). L’objectif est de disposer d’un groupe de laboratoires d’essais indépendants accrédités selon la norme ISO/CEI 17025:2017 pour assister la CAJO et le registrateur dans le cadre des services d’assurance réglementaire des jeux.
+Les services fournis dans le cadre de cet appel d’offres comprennent, entre autres, la formation continue du personnel de la CAJO, des évaluations de sécurité, des services d’audit et d’essais visant à garantir que les équipements de jeux de hasard sont conformes aux exigences réglementaires en vigueur en Ontario, ainsi que des inspections techniques, des recherches techniques et des rapports connexes relatifs aux problèmes d’intégrité liés aux équipements de jeux de hasard, y compris la tricherie, la fraude et autres affaires similaires.
+La CAJO ne garantit ni ne déclare à un soumissionnaire retenu aucun volume de travail, aucune admissibilité à l’enregistrement, ni aucune capacité à fournir des services aux fournisseurs liés aux jeux de hasard.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+AGCO
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+90 Sheppard Ave East
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M2N 0A4
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Biljana Tisma
+Buyer
+Contact Email Address
+*
+Contact Email Address
+AGCOProcurement@agco.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+(647) 933-3256
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+Qualification Only RFx
+rfx_19890
+AGCO 082-25 Services for Regulatory Assurance of Gaming
+16/06/2026 14:00
+2
+RFx
+rfx_19891
+AGCO 082-25 LOT1 - Regulatory Assurance ACTIVITY A
+16/06/2026 14:00
+3
+RFx
+rfx_19892
+AGCO 082-25 LOT2 - Regulatory Assurance ACTIVITY B.1
+16/06/2026 14:00
+4
+RFx
+rfx_19893
+AGCO 082-25 LOT3 - Regulatory Assurance ACTIVITY B.2
+16/06/2026 14:00
+5
+RFx
+rfx_19894
+AGCO 082-25 LOT4 - Regulatory Assurance ACTIVITY C
+16/06/2026 14:00
+6
+RFx
+rfx_19895
+AGCO 082-25 LOT5 - Regulatory Assurance ACTIVITY D
+16/06/2026 14:00
+7
+RFx
+rfx_19907
+AGCO 082-25 Services for Regulatory Assurance of Gaming (Pricing template)
+16/06/2026 14:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Biljana Tisma
+Email
+biljana.tisma@agco.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

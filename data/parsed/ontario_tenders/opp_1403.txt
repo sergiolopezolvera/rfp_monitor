@@ -1,0 +1,256 @@
+Title: RFB for Credit and Debit Card Acquiring Services
+
+Project reference: OFA-RFB-FTD-2026-001
+
+Buyer organization: Ontario Financing Authority
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: Editable By
+
+Contact email: Jeffrey.Wright@ofina.on.ca
+
+Description:
+The Province is one of the largest public sector users of credit and debit card acceptance services in Canada. Provincial Ministries collectively process more than 13.7 million card transactions annually, representing over $1.6 billion in value, across a wide range of public services including licensing, permits, registrations, court services, parks services, fines, applications, and other program fees. Card payments are accepted through a diverse set of channels including over-the-counter point of sale terminals, integrated and semi-integrated systems, internet sites, internal payment applications, mail order and telephone order, interactive voice response, kiosks, and seasonal service locations.
+The Province has accepted credit and debit card payments for many years as part of its mandate to provide accessible and convenient public services to citizens and businesses. What began as limited over-the-counter point of sale activity for select programs has steadily expanded into a broad, multi-channel card acceptance environment that now spans nearly all Ministries, hundreds of Merchant Locations, thousands of terminals, and dozens of public-facing websites.
+
+FULL_TEXT:
+Project: tender_21605 - RFB for Credit and Debit Card Acquiring Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21605 - RFB for Credit and Debit Card Acquiring Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+OFA-RFB-FTD-2026-001
+Project Details
+Project Code
+tender_21605
+Project Title
+RFB for Credit and Debit Card Acquiring Services
+Project Reference
+OFA-RFB-FTD-2026-001
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+43231500-Business function specific software
+64101700-Electronic fund transfer and payment products
+64101800-Card based revolving credit products
+64101900-Account based credit products
+84121500-Banking institutions
+84121600-Funds transfer and clearance and exchange services
+84121800-Securities and commodities markets services
+84141500-Governmental credit agencies
+Opportunity Details
+Detailed Description
+The Province is one of the largest public sector users of credit and debit card acceptance services in Canada. Provincial Ministries collectively process more than 13.7 million card transactions annually, representing over $1.6 billion in value, across a wide range of public services including licensing, permits, registrations, court services, parks services, fines, applications, and other program fees. Card payments are accepted through a diverse set of channels including over-the-counter point of sale terminals, integrated and semi-integrated systems, internet sites, internal payment applications, mail order and telephone order, interactive voice response, kiosks, and seasonal service locations.
+At present, approximately 22 Ministries operate 770+ Merchant Locations, supported by roughly 2,060 point of sale devices and more than 60 public-facing websites that accept card payments. Each Ministry operates as a distinct Merchant Chain, settling funds into its own Ministry bank account and maintaining its own Merchant IDs and reporting requirements. The Ontario Financing Authority (OFA) centrally manages the acquiring services contract, merchant configuration, policy, equipment ordering, and relationship with the Acquirer on behalf of all Ministries.
+This RFB is intended to establish a long-term, modern acquiring services arrangement that can support the Province’s current scale and complexity while also accommodating future growth, modernization, and regulatory change. The selected Acquirer will be expected to work closely with the OFA, internal service providers, I&IT clusters, and Ministries to implement a phased transition from the incumbent provider and to support ongoing operational, technical, and strategic needs throughout the life of the Agreement.
+Scope of Work
+The Province has accepted credit and debit card payments for many years as part of its mandate to provide accessible and convenient public services to citizens and businesses. What began as limited over-the-counter point of sale activity for select programs has steadily expanded into a broad, multi-channel card acceptance environment that now spans nearly all Ministries, hundreds of Merchant Locations, thousands of terminals, and dozens of public-facing websites.
+Historically, Ministries adopted card acceptance at different times and for different business reasons. Some Ministries implemented stand-alone point of sale terminals for in-person payments, while others developed integrated or semi-integrated systems that route transactions through internal mainframes or payment applications before reaching the Acquirer. Over time, internet payment sites, internal payment applications, mail order and telephone order channels, kiosks, and seasonal payment environments were added to support evolving service delivery models.
+To manage this growing complexity, the Province centralized policy, contract management, and relationship oversight with the Acquirer through the Ontario Financing Authority (OFA). The OFA became responsible for merchant onboarding, terminal ordering, changes to Merchant Locations, and establishing enterprise policy for card acceptance. At the same time, Ministries retained responsibility for day-to-day operations, local infrastructure, and channel specific implementations.
+With the expiry of the current agreement in November 2027, the Province is taking this opportunity to reassess and modernize its acquiring services model. The intent is not only to replace the incumbent provider, but to establish a long-term solution that reflects how the Province’s payment environment has evolved and how it is expected to continue evolving over the next decade.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+27/04/2026 12:02
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+31/05/2026 00:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/09/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+72
+Buyer
+Additional Information
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+RFB pour les services d'acquisition de cartes de crédit et de débit
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+La province est l'un des plus grands utilisateurs du secteur public de services d'acceptation des cartes de crédit et de débit au Canada. Les ministères provinciaux traitent collectivement plus de 13,7 millions de transactions par carte chaque année, représentant une valeur de plus de 1,6 milliard de dollars, dans un large éventail de services publics, notamment les licences, les permis, les immatriculations, les services judiciaires, les services des parcs, les amendes, les demandes et autres frais de programme. Les paiements par carte sont acceptés par le biais d’un ensemble varié de canaux, notamment des terminaux de point de vente en guichet, des systèmes intégrés et semi-intégrés, des sites Internet, des applications de paiement internes, la vente par correspondance et par téléphone, les systèmes de réponse vocale interactive, les bornes interactives et les points de service saisonniers.
+À l’heure actuelle, environ 22 ministères exploitent plus de 770 points de vente, soutenus par quelque 2 060 terminaux de point de vente et plus de 60 sites Web destinés au public qui acceptent les paiements par carte. Chaque ministère fonctionne comme une chaîne de commerçants distincte, réglant les fonds sur son propre compte bancaire et gérant ses propres identifiants de commerçant ainsi que ses obligations de déclaration. L'Office de financement de l'Ontario (OFA) gère de manière centralisée le contrat de services d'acquisition, la configuration des commerçants, la politique, la commande d'équipements et les relations avec l'acquéreur pour le compte de tous les ministères.
+La présente demande de propositions vise à établir un accord de services d'acquisition moderne et à long terme, capable de prendre en charge l'ampleur et la complexité actuelles de la province tout en s'adaptant à la croissance future, à la modernisation et aux changements réglementaires.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+La Province accepte les paiements par carte de crédit et de débit depuis de nombreuses années, dans le cadre de sa mission visant à fournir des services publics accessibles et pratiques aux citoyens et aux entreprises. Ce qui a commencé par une activité limitée de vente au comptoir pour certains programmes s'est progressivement transformé en un vaste environnement multicanal d'acceptation des cartes qui couvre désormais la quasi-totalité des ministères, des centaines de points de vente, des milliers de terminaux et des dizaines de sites web destinés au grand public.
+Historiquement, les ministères ont adopté l’acceptation des cartes à des moments différents et pour des raisons commerciales diverses. Certains ministères ont mis en place des terminaux de point de vente autonomes pour les paiements en personne, tandis que d’autres ont développé des systèmes intégrés ou semi-intégrés qui acheminent les transactions via des ordinateurs centraux internes ou des applications de paiement avant qu’elles n’atteignent l’acquéreur. Au fil du temps, des sites de paiement en ligne, des applications de paiement internes, des canaux de commande par correspondance et par téléphone, des bornes interactives et des environnements de paiement saisonniers ont été ajoutés pour soutenir l’évolution des modèles de prestation de services.
+Avec l'expiration de l'accord actuel en novembre 2027, la province saisit cette occasion pour réévaluer et moderniser son modèle de services d'acquisition. L'objectif n'est pas seulement de remplacer le prestataire actuel, mais d'établir une solution à long terme qui reflète l'évolution de l'environnement de paiement de la province et la manière dont il devrait continuer à évoluer au cours de la prochaine décennie.
+Buyer
+Agreement Type
+Agreement Type
+Services
+Buyer
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+***This opportunity is open to vendors located in Ontario, vendors from other Canadian provinces and international vendors.***
+Buyer
+Region of Delivery
+*
+Region of Delivery
+GTA
+Buyer
+Region of Opportunity
+Region of Opportunity
+Ontario
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+1 Dundas Street West, Suite 1400
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M7A 1Y7
+Buyer
+Information Session/Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+N/A
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+N/A
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+N/A
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+Yes
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19728
+RFB for Credit and Debit Card Acquiring Services
+04/06/2026 11:00
+Buyer Details
+Buyer Organization
+Ontario Financing Authority
+Contact
+Jeffrey Wright
+Email
+Jeffrey.Wright@ofina.on.ca
+Opportunity Attachments
+Upload method:
+Row Number
+Name
+Description
+Comments
+Last Modification Date
+1
+Request for Bids for Credit and Debit Ca...
+(1,064 KB)
+Request for Bids for Credit and Debit Ca...
+27/04/2026 11:37
+Attachments:
+1
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+Close
+Download
+...Task in progress...
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

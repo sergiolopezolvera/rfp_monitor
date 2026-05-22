@@ -1,0 +1,64 @@
+Title: HAWCS-CARIBOU WAVEFORM
+
+Solicitation number: W8474-26-RC02
+
+Publication date: 2026-03-16
+
+Closing date: 2026-05-13
+
+Last amendment date: 2026-04-29
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Canada
+
+Contract duration: 34 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 81100000 Professional engineering services
+
+Organization: Department of National Defence (DND)
+
+Contracting authority: Samira Aden
+
+Email: desproc9-3-dose9-3@forces.gc.ca
+
+Description:
+This nonrecurring requirement is to assist RCN in assuming Canadian leadership of the High Frequency (HF) Adaptive War fighter Communication System (HAWCS). The Contractor shall provide the services of a team consisting of an experienced Radio Frequency Engineer in High Frequency (HF) radio communications, an experienced Software Developer, and an experienced Programmer/Analyst, which shall develop a solution that consists of HF waveforms standards for RCN, FVEY and NATO partners operating in contested and denied environments, to Canada in accordance with the Contract.
+The HAWCS waveform will directly enable the CAF's HF strategic communication ability to transmit and receive HF communications in a denied, degraded, intermittent or limited Radio Frequency environment. HAWCS will enable the CAF's HF strategic sites to provide persistent HF command and control communication to CAF elements. HAWCS also supports the SRC project's Interoperability HLMR as it will permit the CAF to seamlessly communicate with NATO and FVEY partners while on exercise or on operations.
+The period of the contract will be for three (3) years from the date of Contract Award, with one (6) month option for professional services, this includes travel if needed. NOTE: PSPC granted an exemption from using the Task-Based Informatics Professional Services (TBIPS).
+
+Trade agreements:
+North American Free Trade Agreement (NAFTA)
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+Please refer to tender description or tender documents
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- W8474-26-RC02 - HAWCS_CARIBOU RFP(EN) AMD 001..pdf | EN | 2026/04/28
+
+- W8474-26-RC02 - HAWCS_CARIBOU RFP(FR) AMD 001..pdf | FR | 2026/04/28
+
+- W8474-26RC02 - HAWCS - Question round 1 (EN).pdf | EN | 2026/04/28
+
+- W8474-26RC02 - HAWCS - Question round 1 (FR).pdf | FR | 2026/04/28
+
+- W8474-26-RC02 - HAWCS CARIBOU EN with CP.pdf | EN | 2026/03/31
+
+- W8474-26-RC02 - HAWCS CARIBOU FR with CP_0.pdf | FR | 2026/03/31

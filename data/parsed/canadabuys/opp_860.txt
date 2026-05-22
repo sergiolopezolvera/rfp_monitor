@@ -1,0 +1,35 @@
+Title: Calgary Board of Education - Request for Proposal - 2026RFP000388 - Behavioural Threat Detection Solution
+
+Solicitation number: AB-2026-02109
+
+Publication date: 2026-03-17
+
+Closing date: 2026-05-05
+
+Last amendment date: 2026-04-21
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43232605 Analytical or scientific software | 80101508 Business intelligence consulting services | 81000000 Engineering and Research and Technology Based Services | 81111500 Software or hardware engineering | 81111801 Computer or network or internet security | 81112100 Internet services | 81112200 Software maintenance and support | 81112208 Security and protection software maintenance | 81161501 Software application administration service | 81162000 Cloud-based software as a service | 86132200 Educational support services
+
+Organization: Calgary Board of Education
+
+Contracting authority: Angie Bennett
+
+Email: angbennett@cbe.ab.ca
+
+Description:
+The Calgary Board of Education (CBE) is seeking a cloud-native, AI-driven cybersecurity solution to defend its 150,000+ students and 17,000+ staff against advanced threats like phishing and account takeovers. Moving beyond traditional signature-based tools, the CBE requires a self-learning system capable of behavioural, language-based, and contextual analysis. The requirements have been outlined in the project scope - Schedule "A".
+External platform:
+https://cbe-ab.bonfirehub.ca/opportunities/103819
+
+Trade agreements:
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)

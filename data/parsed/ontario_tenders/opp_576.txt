@@ -1,0 +1,261 @@
+Title: Microsoft Select Plus Reseller
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: IT
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Supply Ontario has amended its existing Microsoft Select Plus Agreement for a period of up to three (3) years beginning on or about October 2026 with Microsoft. Supply Ontario is seeking a License Solution Provide (Reseller). The Reseller will be required to provide the Deliverables under the Select Plus Agreement to coincide with the anticipated extension beginning on or about October 2026.
+
+FULL_TEXT:
+Project: tender_21371 - Microsoft Select Plus Reseller (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21371 - Microsoft Select Plus Reseller
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21371
+Project Title
+Microsoft Select Plus Reseller
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+43231500-Business function specific software
+43232100-Content authoring and editing software
+43232700-Network applications software
+43233000-Operating environment software
+43233500-Information exchange software
+Opportunity Details
+Detailed Description
+Supply Ontario has amended its existing Microsoft Select Plus Agreement for a period of up to three (3) years beginning on or about October 2026 with Microsoft. Supply Ontario is seeking a License Solution Provide (Reseller). The Reseller will be required to provide the Deliverables under the Select Plus Agreement to coincide with the anticipated extension beginning on or about October 2026.
+Please note that the Term of the VOR arrangement is conditional upon any arrangement which the Supply Ontario establishes with Microsoft. Should such arrangements be modified the Supply Ontario may be required to modify the VOR arrangement accordingly.
+The proposed VOR arrangement will be mandatory for all Ontario Government Ministries and agencies covered by the OPS Procurement Directive regardless of value. The VOR arrangement will be made available on an optional basis to Non-OPS Organizations through the Microsoft Select Plus Agreement.
+Scope of Work
+Supply Ontario has amended its existing Microsoft Select Plus Agreement for a period of up to three (3) years beginning on or about October 2026 with Microsoft. Supply Ontario is seeking a License Solution Provide (Reseller). The Reseller will be required to provide the Deliverables under the Select Plus Agreement to coincide with the anticipated extension beginning on or about October 2026.
+Please note that the Term of the VOR arrangement is conditional upon any arrangement which the Supply Ontario establishes with Microsoft. Should such arrangements be modified the Supply Ontario may be required to modify the VOR arrangement accordingly.
+The proposed VOR arrangement will be mandatory for all Ontario Government Ministries and agencies covered by the OPS Procurement Directive regardless of value. The VOR arrangement will be made available on an optional basis to Non-OPS Organizations through the Microsoft Select Plus Agreement.
+Work Category
+IT
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+14/04/2026 09:17
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+13/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+36
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Contrat de Microsoft Select Plus
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Le ApprovisiOntario a modifié son contrat de Microsoft Select Plus pour une période maximale de trois (3) ans à compter d’octobre 2026 ou vers cette date avec Microsoft. ApprovisiOntario  est à la recherche d’un fournisseur de solutions de licence (revendeur). Le revendeur devra fournir les produits prévus au contrat Select Plus pour coïncider avec la prolongation prévue à partir d’octobre 2026 ou vers cette date.
+Veuillez noter que la durée du contrat avec le fournisseur attitré dépend des contrats que le ApprovisiOntario  établit avec Microsoft. En cas de modification de ces contrats, le ApprovisiOntario  pourrait être tenu de modifier celui avec un fournisseur attitré en conséquence.
+Tous les ministères et organismes du gouvernement de l’Ontario régis par la directive sur l’approvisionnement pour l’Ontario devront utiliser ce contrat, quelle que soit la valeur de l’acquisition. Les autres organismes pourront l’utiliser de façon facultative par le biais du contrat de Microsoft Select Plus.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Le ApprovisiOntario a modifié son contrat de Microsoft Select Plus pour une période maximale de trois (3) ans à compter d’octobre 2026 ou vers cette date avec Microsoft. ApprovisiOntario  est à la recherche d’un fournisseur de solutions de licence (revendeur). Le revendeur devra fournir les produits prévus au contrat Select Plus pour coïncider avec la prolongation prévue à partir d’octobre 2026 ou vers cette date.
+Veuillez noter que la durée du contrat avec le fournisseur attitré dépend des contrats que le ApprovisiOntario  établit avec Microsoft. En cas de modification de ces contrats, le ApprovisiOntario  pourrait être tenu de modifier celui avec un fournisseur attitré en conséquence.
+Tous les ministères et organismes du gouvernement de l’Ontario régis par la directive sur l’approvisionnement pour l’Ontario devront utiliser ce contrat, quelle que soit la valeur de l’acquisition. Les autres organismes pourront l’utiliser de façon facultative par le biais du contrat de Microsoft Select Plus.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Supply Ontario
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+200 Front Street W
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M5V 3K2
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+Yes, Optional
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Linza D'Mello
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Linza.D'Mello@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+n/a
+Buyer
+Contact Fax Number
+Contact Fax Number
+n/a
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19452
+Microsoft Select Plus Reseller
+13/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Linza D'Mello
+Email
+linza.d'mello@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

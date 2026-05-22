@@ -1,0 +1,185 @@
+Title: RFP - Satellite Communication, and Situational Awareness, Tracking and Messaging Value-Added Services
+
+Solicitation number: BPM025782/33531
+
+Publication date: 2026-03-16
+
+Closing date: 2026-05-01
+
+Last amendment date: 2026-04-24
+
+Status: Open
+
+Notice type: Request for Proposal
+
+Language(s): English, French
+
+Region(s) of delivery: Canada
+
+Procurement method: Competitive – Open Bidding
+
+Organization: Shared Services Canada
+
+Buying organization(s): Shared Services Canada
+
+Contracting authority: Nancy,Pelchat
+
+Phone: 343-544-8419
+
+Description:
+This solicitation of bids cancels and supersedes previous solicitation of bids number BPM024548 dated October 24, 2025 with a closing of January 16, 2026 at 2PM. A debriefing or feedback session was provided upon request to Bidder's who bid on the previous solicitation of bids.
+This solicitation is being issued by Shared Services Canada (SSC) to satisfy the requirement for the provision of Satellite Communication, and Situational Awareness, Tracking and Messaging Value-Added Services on an ‘’as and when’’ required basis
+.
+This solicitation will result in one single contract to one single supplier and will be used by Shared Services Canada.
+1. The commodity that Canada intends to acquire is: (please see the Statement of Work under the attached documents section).
+2. The contract is for a 3 years term, plus 3 additional 1 year options.
+3. As and when required.
+Bidders can register in the SSC P2P portal in order to:
+a. view and access solicitations from SSC;
+b. submit a response to a solicitation;
+c. receive updates and amendments regarding solicitations.
+To register, please go to:
+https://supplier-fournisseur-sscp2pspc.ssc-spc.gc.ca/page.aspx/en/usr/login
+and click Register Now
+SSC
+RFP - Satellite Communication, and Situational Awareness, Tracking and Messaging Value-Added Services - Amendment 005
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Panama Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canada-Honduras Free Trade Agreement
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Peru Free Trade Agreement (CPFTA)
+
+Documents:
+
+- Annex B - Pricing Sheet_AMD 001 | EN | 2026/04/24
+
+- BPM025782 - Amendment 005 - RFP | EN | 2026/04/24
+
+- BPM025782 - Modification 005 - DDP | FR | 2026/04/24
+
+- Annexe B - Feuille de prix_MOD 001 | FR | 2026/04/24
+
+- BPM025782 - Amendment 004 - RFP | EN | 2026/04/21
+
+- BPM025782 - Modification 004 - DDP | FR | 2026/04/21
+
+- BPM025782 - Amendment 003 - RFP | EN | 2026/04/15
+
+- BPM025782 - Amendment 003 - RFP | EN | 2026/04/15
+
+- BPM025782 - Amendment 002 - RFP | EN | 2026/04/09
+
+- BPM025782 - Modification 002 - DDP | FR | 2026/04/09
+
+- BPM025782 - Amendment 001 - RFP | EN | 2026/03/23
+
+- BPM025782 - Modification 001 - DDP | FR | 2026/03/23
+
+- Form 5A - Software Publisher Certification Form | EN | 2026/03/16
+
+- Form 7 - Indigenous Participation Plan Criteria | EN | 2026/03/16
+
+- Form 8 - Contract Security Program (CSP) - Application for Registration (AFR) for Canadian legal entities | EN | 2026/03/16
+
+- Form 5 - Supply Chain Security Information (SCSI) Vendor Submission Form | EN | 2026/03/16
+
+- Form 6 - Service Provider or Approved Reseller Certifications | EN | 2026/03/16
+
+- Form 5B - Software Publisher Authorization Form | EN | 2026/03/16
+
+- Form 2 - Bidder Declaration Form | EN | 2026/03/16
+
+- Annex F - Availability Report | EN | 2026/03/16
+
+- Annex G - ICT Accessibility Requirements | EN | 2026/03/16
+
+- Annex D - Service Order Request Form | EN | 2026/03/16
+
+- Form 10 - Canadian Content Attestation Form | EN | 2026/03/16
+
+- Form 9 - Declaration - Solicitation of Bid Submission Eligibility – Prioritizing Canadian Suppliers and Canadian Content | EN | 2026/03/16
+
+- Annex C - Security Requirements Check List (SRCL) | EN | 2026/03/16
+
+- Annex E - Claim for Exchange Rate Adjustments | EN | 2026/03/16
+
+- Form 4 - Off-the-Shelf and OEM Certifications | EN | 2026/03/16
+
+- Form 3 - Substantiation of Technical Compliance Form | EN | 2026/03/16
+
+- RFP Satellite Communication, and Situational Awareness, Tracking and Messaging Value-Added Services | EN | 2026/03/16
+
+- Annex A - Statement of Work | EN | 2026/03/16
+
+- Annex B - Pricing Sheets | EN | 2026/03/16
+
+- Form 1 - Bid Submission Form | EN | 2026/03/16
+
+- Appendix B to Annex A - Guidance for creating accessible documents | EN | 2026/03/16
+
+- Annex M - Contract Definitions (Prioritizing Canadian Suppliers and Canadian Content) | EN | 2026/03/16
+
+- Annex H - Monthly Service Order Reporting Form | EN | 2026/03/16
+
+- Appendix A to Annex A - List of Clients | EN | 2026/03/16
+
+- Annex L - Solicitation of Bids Definitions (Prioritizing Canadian Suppliers and Canadian Content) | EN | 2026/03/16
+
+- Annexe A – Énoncé des travaux | FR | 2026/03/16
+
+- Appendice A de l’Annexe A – Liste de clients | FR | 2026/03/16
+
+- Formulaire 9 - Déclaration – Admissibilité à la demande de soumissions – Priorisation des fournisseurs canadiens | FR | 2026/03/16
+
+- Formulaire 7 - Critères du Plan de participation des Autochtones | FR | 2026/03/16
+
+- Formulaire 1 - Formulaire de présentation de la soumission | FR | 2026/03/16
+
+- Formulaire 4 - Certification de l'équipement commercial et du fabricant d'origine | FR | 2026/03/16
+
+- Annexe M - Définitions des termes du contrat subséquent (Priorisation des fournisseurs canadiens et du contenu canadien) | FR | 2026/03/16
+
+- DDP Services à valeur ajoutée en communication par satellite, en connaissance de la situation, en suivi et en messagerie | FR | 2026/03/16
+
+- Annexe F – Rapport de disponibilité | FR | 2026/03/16
+
+- Annexe H – Formulaire de Rapport mensuel des Commandes de service | FR | 2026/03/16
+
+- Annexe E – Demande de rajustement du taux de change | FR | 2026/03/16
+
+- Annexe L - Définitions des termes de la demande soumissions (Priorisation des fournisseurs canadiens et du contenu canadien) | FR | 2026/03/16
+
+- Annexe C – Liste de vérification des exigences relatives à la sécurité (LVERS) | FR | 2026/03/16
+
+- Annexe G – Exigences en matière de TIC accessibles | FR | 2026/03/16
+
+- Annexe D – Formulaire de demande de service | FR | 2026/03/16
+
+- Annexe B – Feuilles de prix | FR | 2026/03/16
+
+- Formulaire 5 - Information sur la sécurité de la chaîne Formulaire à l'intention des fournisseurs | FR | 2026/03/16
+
+- Formulaire 10 - Formulaire d’attestation relative au contenu canadien | FR | 2026/03/16
+
+- Appendice B de l’Annexe A – Conseils pour la création de documents accessibles | FR | 2026/03/16
+
+- Formulaire 5A - Formulaire d’attestation de l’éditeur de logiciels | FR | 2026/03/16
+
+- Formulaire 5B- Formulaire d’autorisation de l’éditeur de logiciels | FR | 2026/03/16
+
+- Formulaire 6 - Attestation du fournisseur de services ou du revendeur autorisé | FR | 2026/03/16
+
+- Formulaire 3 - Formulaire de justification à l'appuie de la conformité technique | FR | 2026/03/16
+
+- Formulaire 8 - Programme de sécurité des contrats - Demande d’inscription (DI) pour les entités juridiques canadiennes | FR | 2026/03/16
+
+- Formulaire 2 - Formulaire de déclaration du Soumissionnaire | FR | 2026/03/16

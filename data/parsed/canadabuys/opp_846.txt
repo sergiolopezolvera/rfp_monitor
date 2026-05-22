@@ -1,0 +1,28 @@
+Title: City of Lloydminster - Request for Proposal - Concert Ticketing Software
+
+Solicitation number: AB-2026-03146
+
+Publication date: 2026-04-21
+
+Closing date: 2026-05-06
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 2 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 14111801 Tickets or ticket rolls | 43230000 Software | 43231500 Business function specific software | 43231514 Sales and marketing software | 48111300 Service and ticket vending machines | 81112200 Software maintenance and support
+
+Organization: City of Lloydminster
+
+Contracting authority: Don Bowey
+
+Email: dbowey@lloydminster.ca
+
+Description:
+The City of Lloydminster(City) is seeking software for concerts and large-scale events. The software platform will provide customer facing and staff interface ticket sales, cancellations, refunds and payments for Concerts, sporting events and other large-scale events.

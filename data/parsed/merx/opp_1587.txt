@@ -1,0 +1,39 @@
+Title: AB-2026-03483 - NATRF2022 - Migration Survey 2026
+
+Status: This solicitation is OPEN
+
+Reference Number: 00005027170
+
+Solicitation Number: AB-2026-03483
+
+Issuing Organization: Forestry and Parks
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: Alberta
+
+Purchase Type: Not Stated
+
+Publication date: 2026-05-04
+
+Closing date: 2026-05-22
+
+Contact name: Alexander Turner
+
+Contact email: Alexander.Turner@gov.ab.ca
+
+AI Overview:
+The Surveys Office is seeking proposals from professional land surveyors to inspect and collect GNSS Static observations on Alberta Survey Control Markers for various Parcel Towns, aiming to provide modern coordinates that meet current precision standards for integrated surveys.
+
+Description:
+The Director of Surveys Office (Public Lands Disposition Management Unit, Lands Delivery and Coordination (North) Branch, Lands Operations Division, Alberta Forestry and Parks) (“Surveys Unit”) is accepting proposals from professional land surveyors to inspect and collect GNSS Static observations on Alberta Survey Control Markers (ASCMs) for various Parcel Towns within Edmonton East (Site 1), Grande Prairie (Site 5) and/or various Parcel Towns within Edmonton North (Site 8)
+ASCMs were established in these towns under the Parcel Mapping program in the late 1980s and early 1990s. These ASCMs were integrated into the provincial reference frame through conventional or GNSS observations to existing ASCMs that were established using Inertial Survey System (ISS) observations. Due to the limited precision of ISS techniques the established coordinates of these ASCMs do not meet the modern standards to support integrated surveys. This project is being conducted to resolve these issues of precision and give modern coordinates for the ASCMs.
+See more
+
+Disclaimer:
+Disclaimer
+All amendments to the associated notice, including amended documents, plans and specifications (where applicable), are issued on
+purchasing.alberta.ca
+. MERX asks that you refer to the
+purchasing.alberta.ca
+notice for these amendments. MERX stipulates that potential bidders may also be required to register with the buying authority as a bidder/plan taker. The contact information can be found within the notice abstract.

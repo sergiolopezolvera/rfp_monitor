@@ -1,0 +1,237 @@
+Title: POC Blood Analyzers
+
+Project reference: 2026-013
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Ontario Health requires three (3) point of care blood analyzers to be used by healthcare professionals during organ retrievals and during transit from a donor hospital to transplant center for the purpose of evaluating organ suitability and function.
+Default Additional Notes
+
+FULL_TEXT:
+Project: tender_21764 - POC Blood Analyzers (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21764 - POC Blood Analyzers
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+2026-013
+Project Details
+Project Code
+tender_21764
+Project Title
+POC Blood Analyzers
+Project Reference
+2026-013
+Multi Lot Project
+No
+Project Type
+Goods
+Project Categories
+41116200-Patient point of care testing supplies and equipment
+Opportunity Details
+Detailed Description
+Ontario Health requires three (3) point of care blood analyzers to be used by healthcare professionals during organ retrievals and during transit from a donor hospital to transplant center for the purpose of evaluating organ suitability and function.
+Scope of Work
+Default Additional Notes
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+29/04/2026 17:25
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+07/05/2026 14:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+24
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+analyseurs sanguins au point de service
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Sante Ontario exige trois analyseurs sanguins au point de service soient utilisés par des professionnels de la santé lors des prélèvements d'organes et pendant le transport depuis un hôpital donneur jusqu'au centre de transplantation, afin d'évaluer la viabilité et la fonction des organes.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Ontario Health
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+525 University Avenue
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M5G 2L3
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Chris Rawlinson
+Buyer
+Contact Email Address
+*
+Contact Email Address
+christine.rawlinson@ontariohealth.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+4379006943
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Christine Rawlinson
+Email
+christine.rawlinson@ontariohealth.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

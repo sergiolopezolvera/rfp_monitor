@@ -1,0 +1,362 @@
+Title: One (1) ERP Technical Analyst (Business Intelligence), Level 3
+
+Solicitation number: W8486-260717/A
+
+Publication date: 2026-05-08
+
+Closing date: 2026-05-25
+
+Notice type: Request for Proposal
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 80101507 Information technology consultation services
+
+Organization: Department of National Defence (DND)
+
+Contracting authority: Kelsey Lawrence
+
+Email: kelsey.lawrence2@forces.gc.ca
+
+Description:
+NOTICE OF PROPOSED PROCUREMENT
+File Number: W8486-260717/A
+Tier: 1 (< $4.5M)
+This requirement is for the Department of National Defence (DND) for the services of One (1) ERP Technical Analyst (Business Intelligence), Level 3 under Stream 1, Applications Services. The intent of this solicitation is to establish one (1) Contract for two (2) initial years, with the option to extend the term of the Contract by up to one (1) one-year irrevocable option periods under the same conditions. This solicitation is only open to the below list of pre-qualified suppliers under the Task-Based Informatics Professional Service (TBIPS) Supply Arrangement (SA) number EN578-170432.
+This procurement has been conditionally set aside under the federal government's Procurement Strategy for Indigenous Business (PSIB). To be considered, a business must certify that it qualifies as an Indigenous business as defined under PSIB and that it will comply with all requirements of PSIB.
+Time Frame of Delivery: As soon as possible.
+Documents may be submitted in either official language of Canada.
+RFP documents will be e-mailed directly from the Contracting Authority to the Qualified Supply Arrangement Holders who are being invited to bid on this requirement. Bidders are advised that the RFP documents are not available on the CanadaBuys Tender Management Application (
+https://canadabuys.canada.ca
+).
+The TBIPS Method of Supply is a result of a formal competitive process which was established as a result of extensive consultations with industry. The Method of Supply provides suppliers with an on-going opportunity to become prequalified for participation in future bidding opportunities. To obtain more information about how to become a pre-qualified supplier for TBIPS please contact Public Works and Government Services Canada (PWGSC).
+For general information on the various PWGSC Methods of Supply, or to obtain specific information on a PWGSC professional service method of supply, please visit PWGSC's CanadaBuys Tender Management Application website at:
+https://canadabuys.canada.ca/en/about-us/news-and-events/transition-can…
+List of Pre-Qualified Suppliers:
+This requirement is open the following suppliers who qualified under the stated consultant stream, region and tier:
+01 Millennium Consulting Inc.
+10947482 Canada Inc.
+1511995 Ontario Limited, CDW Canada, in Joint Venture
+1511995 Ontario Limited, iPSS inc., Epi-Use Now Inc., in JV
+2iSolutions Inc.
+2toLead Limited
+4165047 Canada Inc.
+4165047 CANADA INC., INNOVISION CONSULTING INC., IN JOINT VENTURE
+49 Solutions Inc.
+7 Theta Inc
+7792395 Canada Inc.
+9149481 Canada Inc.
+9468269 Canada Corp.
+A Hundred Answers Inc.
+A. Net Solutions Inc.
+Accenture Inc.
+Access Corporate Technologies Inc.
+Acosys Consulting Services Inc.
+ACOSYS CONSULTING SERVICES INC./ SERVICES CONSEILS ACOSYS INC., PRICEWATERHOUSECOOPERS LLP, IN JOINT VENTURE
+Action Personnel of Ottawa-Hull Ltd
+Adastra Corporation
+Adecco Employment Services Limited/Services de placement Adecco Limited
+ADGA Group Consultants Inc.
+Adirondack Information Management Inc.
+Adirondack Information Management Inc., Entrust Limited, Artemp Personnel Services Inc., The AIM Group Inc., in JOINT VENTURE
+ADRM Technology Consulting Group Corp.
+ADRM Technology Consulting Group Corp. and Randstad Interim Inc
+Advanced Chippewa Technologies Inc.
+Affinity Staffing Inc.
+Akkodis Canada Inc.
+Alding Enterprises Inc.
+Alika Internet Technologies Inc.
+Alika Internet Technologies Inc., LNine Consulting Inc. in Joint Venture
+ALITHYA CANADA INC
+Alivaktuk Consulting Inc. & NavPoint Consulting Group Inc. in JV
+ALLAN CLARKE & ASSOCIATES INC.; THE HALIFAX COMPUTER CONSULTING GROUP INC.; IN JOINT VENTURE
+Alphabyte Solutions Inc.
+Altis Recruitment & Technology Inc.
+ALTRUISTIC INFORMATICS CONSULTING INC.
+Amazon Web Services Canada, Inc.
+Amyantek Inc
+Andrew Mazeikis, Andrew Lee
+Aniko Consultants Inc., Samson & Associés-CPA Consultation Inc.-Samson & Associates CPA-Consulting Inc., in Joint Venture
+ANTHONY, MACAULEY & ASSOCIATES (VICTORIA) INC
+AQR Management services Inc.
+ARCTIQ CANADA INC.
+Axons Canada Inc., Levio Conseils Inc., IN JOINT VENTURE
+AZUR HUMAN RESOURCES LIMITED
+BA - Tech consulting Inc.
+BDO Canada LLP
+Bevertec CST Inc.
+BoonBridge Corporation
+BP & M Government IM & IT Consulting Inc.
+Bridgenext Canada Corporation
+Bridgetown Consulting Inc.
+BRYCA Solutions Inc., SERVER CLOUD CANADA INC., 2657319 ONTARIO INC., in Joint Venture
+C3SA CYBERNETIC SECURITY AUDIT INC.
+Cache Computer Consulting Corp.
+CACHE COMPUTER CONSULTING CORP., SYSTÈMES SYNTAX LTÉE / SYNTAX SYSTEMS LTD, in Joint Venture
+Calian Ltd.
+CALIAN LTD., DWP SOLUTIONS INC., IN JOINT VENTURE
+Captiva Consulting Inc.
+CGI Information Systems and Management Consultants Inc.
+Cistel Technology Inc.
+CloseReach Ltd.
+CloseReach Ltd., SnapSearch Inc., Bell, Browne, Molnar & Delicate Consulting Inc., IN JOINT VENTURE
+Cofomo Inc.
+Cogniva Information Solutions Inc.
+CompuStaff Corp.
+COMPUTACENTER CANADA INC.
+Confluence Consulting Inc.
+Conoscenti Technologies Inc.
+Consultation ISGA Inc.
+Contract Community Inc.
+CorGTA Inc.
+Creospark Consulting Services Inc.
+CSI Consulting Inc.
+CVL INFORMATION SOLUTIONS INC.
+Dare Human Resources Corporation
+Dargan Industries Inc.
+Dasro Consulting Inc.
+Deloitte Inc.
+Dempton Solutions Technologiques
+DLS Technology Corporation
+DOLOMITE NETWORKS CORPORATION, Pur Security Inc., PHIRELIGHT SECURITY SOLUTIONS INC., SPHYRNA SECURITY INCORPORATED , IN JOINT VENTURE
+Donna Cona Inc.
+DONNA CONA INC., IBM CANADA LIMITED IN JOINT VENTURE
+DXC TECHNOLOGY CANADA CO.
+Eagle Professional Resources Inc.
+Eclipsys Solutions Inc
+Elastalink Corp.
+EMINENT SYSTEMS INC.
+ENET4S SOFTWARE SOLUTIONS LTD
+eNet4S Software Solutions Ltd., Entaros Inc. IN JOINT VENTURE
+Entaros Corp.
+Entrust Limited
+Equasion Business Technologies Consulting Inc
+Equasion Business Technologies Consulting Inc and Watershed Information Technology Inc in CJV
+Ernst & Young LLP
+Etico, Inc.
+Evolving Web Inc.
+EXPERIS CANADA INC.
+Exposant 3 Inc.
+Factr Limited, ALTIS RECRUITMENT & TECHNOLOGY INC., in Joint Venture
+Flex Tech Services Inc.
+ForgeSight Technologies Inc.
+FreeBalance Inc.
+Fujitsu Consulting (CANADA) Inc./Fujitsu Conseil (Canada) Inc.
+GEF Consulting Inc.
+GREEN LIGHT CONSULTING SOLUTIONS INC.
+Green PI Inc
+GSI International Consulting Inc.
+Hays Specialist Recruitment (Canada) Inc.
+HubSpoke Inc.
+I4C INFORMATION TECHNOLOGY CONSULTING INC
+IBISKA Telecom Inc.
+IBM Canada Limited/IBM Canada Limitée
+iFathom Corporation
+Illuminz Solutions Inc.
+InfoMagnetics Technologies Corporation (IMT)
+Infosys Public Services Inc
+Innobec and MDOS in JV
+InSync Systems Inc.
+Intelan Consulting Inc.
+INTERGRAPH CANADA ULC.
+IPSG Technology Inc.
+IPSS INC.
+IT/Net - Ottawa Inc.
+IT/NET OTTAWA INC, KPMG LLP, in joint venture
+iVedha Inc.
+KPMG LLP
+Kyndryl Canada Limited; ISM Information Systems Management Corporation IN JOINT VENTURE
+Labor Tek Personnel Services Ltd / Labor Tek Services de Personnel Ltee
+LAJAK TECHNOLOGIES INC., 7140428 CANADA INCORPORATED, 1786052 ONTARIO INC., IN JOINT VENTURE
+Le Groupe Conseil Bronson Consulting Group
+LE GROUPE SYGIF INC.
+Leo-Pisces Services Group Inc.
+Les Enterprises Norleaf Networks Inc.
+Leverage Technology Resources Inc.
+Levio Conseils Inc.
+Lightning Tree Consulting Inc., Burbeck Inc., and P.G. Rodler Consulting in Joint Venture
+LIKE 10 INC.
+LIKE 10 INC., SoftMosis Inc. IN JOINT VENTURE
+LinHR Consulting Inc.
+LNine Consulting Inc.
+LNW Consulting Inc
+Logic 2000 Incorporated
+Louis Tanguay Informatique Inc.
+M.G.I. Maintenance Group Inc.
+MAKWA Resourcing Inc.
+Makwa Resourcing Inc., TPG Technology Consulting Ltd. in JOINT VENTURE
+Malarsoft Technology Corporation
+MALARSOFT TECHNOLOGY CORPORATION, CISTEL TECHNOLOGY INC., COMPUTACENTER CANADA INC. IN JOINT VENTURE
+Maplefox Projects Inc.
+Maplesoft Consulting Inc.
+Maplestream Inc., Cofomo Inc. IN JOINT VENTURE
+Maplr Consultation Inc
+Mara Consulting Inc
+Maverin Business Services Inc.
+Maverin Inc.
+MaxSys Staffing & Consulting Inc.
+MDOS CONSULTING INC.
+MERAK Systems Corporation
+Messa Computing Inc.
+Metaflow Inc.
+MGIS Inc.
+MGIS Inc., B D M K Consultants Inc IN JOINT VENTURE
+Michael Wager Consulting Inc.
+Miipe Inc.
+Mindwire Systems Ltd.
+MINDWIRE SYSTEMS LTD., Akkada Professional Services inc., HubSpoke Inc., in Joint Venture
+MIR Digital Solutions Corporation
+MNP LLP
+MONZ CONSULTING INC., NEWFOUND RECRUITING CORPORATION. in Joint Venture
+Myticas Consulting Inc.
+N12 Consulting Corporation
+NATTIQ INC.
+NavPoint Consulting Group Inc.
+New Value Solutions Group Inc.
+Newfound Recruiting Corporation
+Nisha Technologies Inc.
+Norconex Inc.
+Nortak Software Ltd.
+Northern Micro Inc.
+NRNS Incorporated
+nTech Conseil Inc. nTech Consulting Inc.
+NTT DATA CANADA, INC.
+OGGN Inc.
+OLAV CONSULTING CORP., MOSHWA ABORIGINAL INFORMATION TECHNOLOGY CORPORATION, IN JOINT VENTURE
+Onaki Création S.E.N.C., IBISKA TELECOM INC., in Joint Venture
+Oomple Inc.
+Open Text Corporation
+Orangutech Inc.
+OXARO INC.
+Palantir Technologies Canada Inc.
+Paralucent Inc
+Pennant Canada Limited
+PHILTAM CORPORATION
+PlanIT Search Inc.
+Pleiad Canada Inc.
+PRECISIONERP INCORPORATED
+PrecisionIT Inc,IDS Systems Consultants Inc., PrecisionERP Incorporated, in JOINT VENTURE
+Pricewaterhouse Coopers LLP
+Primex Project Management Limited
+Procom Consultants Group Ltd.
+Prologic Systems Ltd.
+Prologic Systems Ltd. and Maplesoft Consulting Inc. in JV
+Promaxis Systems Inc
+Promaxis Systems Inc. and Holonics Inc. IN JOINT VENTURE
+Protak Consulting Group Inc.
+QA CONSULTANTS INC.
+QMR Staffing Solutions Incorporated
+Quallium Corporation
+Quarry Consulting Inc.
+R2i Incorporated
+Randstad Interim Inc.
+Renaps Technologies Canada Inc
+RHEA INC., I4C INFORMATION TECHNOLOGY CONSULTING INC., in Joint Venture
+Robertson & Company Ltd.
+Robina and Biban Associates Inc.
+RS Tec Systems Inc
+S.I. SYSTEMS ULC
+SAIGE TECHNOLOGIES ULC, 9345540 CANADA INC., IN JOINT VENTURE
+Samson & Associés CPA/Consultation Inc
+SAPPER LABS INC., ELECTRONIC WARFARE ASSOCIATES - CANADA, LTD, in joint venture
+SEASI Consulting Inc.
+SEASI CONSULTING INC., ADASTRA CORPORATION , IN JOINT VENTURE
+Shore Consulting Group Inc.
+Simplic-IT Inc.
+Skyfly Solutions Inc., iFathom Corp., EPI-USE NOW INC. in Joint Venture
+SoftSim Technologies Inc.
+Solutions Moerae Inc
+Spaghetti Logic Inc.
+Spearhead Management Canada Ltd.
+Spectra FX Inc.
+Square BPM Inc.
+Steel River Group Ltd. Tundra Technical Solutions Inc. in Joint Venture
+Strategic Relationships Solutions Inc.
+Sundiata Warren Group Inc.
+Symbiotic Group Inc.
+SYMBIOTIC GROUP INC., Akkodis Canada Inc., IN JOINT VENTURE
+Syncoria Incorporated
+SYSTEMATIX IT SOLUTIONS INC., SYSTEMATIX TECHNOLOGIES DE L'INFORMATION INC., LES SERVICES CONSEILS SYSTEMATIX INC., SYSTEMATIX TECHNOLOGY CONSULTANTS INC., in Joint Venture
+SYSTEMATIX SOLUTIONS TI INC/SYSTEMATIX IT SOLUTIONS INC
+Systèmes Syntax Ltée/Syntax Systems Ltd.
+T.E.S. Contract Services INC.
+T.I.7 INC., Quarry Consulting Inc., in joint venture
+TAG HR The Associates Group Inc.
+Talencity Inc.
+Tato Recruiting Inc.
+Tato Recruiting Inc., S.I. SYSTEMS ULC, in Joint Venture
+Teambuilder Consulting Inc.
+TECH4SOFT INC., Expertise Technology Consulting Inc., in joint venture
+TechWind Inc.
+TECSIS Corporation
+TEKSYSTEMS CANADA CORP./SOCIÉTÉ TEKSYSTEMS CANADA
+TEKSYSTEMS CANADA CORP./SOCIÉTÉ TEKSYSTEMS CANADA; TEKSYSTEMS GLOBAL SERVICES CORP. IN JOINT VENTURE
+The AIM Group Inc.
+The Bell Telephone Company of Canada or Bell Canada/La Compagnie de Téléphone Bell du Canada ou Bell Canada
+The Halifax Computer Consulting Group Inc.
+The KTL Group, Inc.
+THE LANSDOWNE CONSULTING GROUP INC.
+THE SOURCE STAFFING SOLUTIONS INC.
+Thinking Big Information Technology Inc.
+Thomas&Schmidt Inc.
+ThoughtStorm Incorporated
+Tiree Facility Solutions Inc.
+TPG Technology Consulting Ltd.
+Trillys Systems inc.
+TRM Technologies Inc.
+Tundra Technical Solutions Inc
+Turtle Technologies Inc.
+Valcom Consulting group Inc.
+Valencia IIP Advisors Limited
+Vantix Systems Inc.
+VERSATIL BPI INC, SOLUTIONSTAT, CONSULTATION ET FORMATION EN STATISTIQUE INC. , in joint venture
+Versatil BPI Inc.
+Wiz Management Inc
+Work4ce Inc.
+WorldHire Inc
+Yoush Inc.
+Zernam Enterprise Inc
+ADDITIONAL INFORMATION FOR BIDDERS
+For services requirements, Bidders must provide the required information as detailed in article 2.3 of Part 2 of the bid solicitation, in order to comply with Treasury Board policies and directives on contracts awarded to former public servants.
+Security Requirement:
+There are security requirements associated with this requirement:
+Supplier Security Clearance required: Secret
+Security Level required (Document Safeguarding): None
+For additional information, consult Part 6 – Security and Other Requirements, and Part 7 – Resulting Contract Clauses. For more information on personnel and organization security screening or security clauses, bidders should refer to the Industrial Security Program (ISP) of Public Works and Government Services Canada (
+http://ssi-iss.tpsgc-pwgsc.gc.ca/index-eng.html
+) website.
+Location of Work:
+Region: National Capital Region
+Specific Location: Services must be provided on-site at one (1) of the following DND facilities in the National Capital Region. These locations may include, but are not limited to:
+• 45 Boulevard Sacré-Coeur, Gatineau, QC J8X 1C6
+• 60 Moodie Dr, Nepean, ON, K1A 0K2
+• 455 Boulevard de la Carrière, Gatineau, QC, J8Y 6V7
+BIDDERS’ INQUIRIES
+Inquiries regarding this Request for Proposal requirement must be submitted to the Contracting Authority:
+Name: Kelsey Lawrence
+Email:
+kelsey.lawrence2@forces.gc.ca
+The Crown retains the rights to negotiate with suppliers on any procurement.
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+
+Reason for limited tendering:
+None

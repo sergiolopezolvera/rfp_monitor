@@ -1,0 +1,44 @@
+Title: Technical Support for Distributed Synthetic Operations
+
+Solicitation number: W6431-26-0248
+
+Publication date: 2026-04-24
+
+Closing date: 2026-05-08
+
+Status: Open
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Ottawa
+
+Contract duration: 12 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 80101507 Information technology consultation services | 80161604 Information technology IT management services
+
+Organization: Department of National Defence (DND)
+
+Contracting authority: Leanne Cooper
+
+Email: leanne.cooper@forces.gc.ca
+
+Description:
+The Department of National Defence (DND) requires one (1) Level 3 Technology Architect (I.11) with a focus on modelling and simulation (M&S) technologies and one (1) Level 3 Operations Support Specialist (B.13) with a focus on Distributed Synthetic Operations Centre (DSOC) systems to support the Exercise and Simulation (E&S) branch of the Royal Canadian Air Force (RCAF) Aerospace Warfare Centre (AWC), located on the Shirley’s Bay Campus in Ottawa, ON. The Resources will support the exploitation of the E&S-designed and operated Defence Secure Simulation and Training Node infrastructure (DSSTNi) Information System (IS) to advance the development, operation and sustainment of the RCAF Modelling & Simulation (M&S) Enterprise (RMSE).
+
+Trade agreements:
+Please refer to tender description or tender documents
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- W6431-26-0248 TBIPS_NPP Eng.pdf | EN | 2026/04/24
+
+- W6431-26-0248 TBIPS_NPP Fr.pdf | FR | 2026/04/24

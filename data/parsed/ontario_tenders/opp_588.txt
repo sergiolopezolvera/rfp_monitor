@@ -1,0 +1,236 @@
+Title: Rugged IT Products and Related Services
+
+Project reference: #2026-501
+
+Buyer organization: OECM
+
+Procurement route: Open
+
+Work category: IT
+
+Contact name: Editable By
+
+Contact email: Elaine.Alva@oecm.ca
+
+Description:
+Rugged IT Products and Related Services RFP #2026 - 501
+
+Default Additional Notes
+
+FULL_TEXT:
+Project: tender_21611 - Rugged IT Products and Related Services (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21611 - Rugged IT Products and Related Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+#2026-501
+Project Details
+Project Code
+tender_21611
+Project Title
+Rugged IT Products and Related Services
+Project Reference
+#2026-501
+Multi Lot Project
+No
+Project Type
+Goods
+Project Categories
+43211500-Computers
+43211600-Computer accessories
+43211700-Computer data input devices
+43211900-Computer displays
+43212100-Computer printers
+85904300-Caregiver training-movement and mobility
+Opportunity Details
+Detailed Description
+Rugged IT Products and Related Services RFP #2026 - 501
+Scope of Work
+Default Additional Notes
+Work Category
+IT
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+08/04/2026 12:11
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+20/05/2026 14:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+84
+Buyer
+Additional Information
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+N/A
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+N/A
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Buyer
+Agreement Type
+Agreement Type
+Buyer
+Region of Service
+*
+Region of Service
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland and Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Region of Delivery
+*
+Region of Delivery
+Ontario
+GTA
+Buyer
+Region of Opportunity
+Region of Opportunity
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+2 Lansing Square, Suite 200
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M2J 4P8
+Buyer
+Information Session/Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+Yes, Optional
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+(04-14-2026)(14:00)
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19714
+Rugged IT Products and Related Services
+20/05/2026 14:00
+Buyer Details
+Buyer Organization
+OECM
+Contact
+Elaine Alva
+Email
+Elaine.Alva@oecm.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

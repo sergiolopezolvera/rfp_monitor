@@ -1,0 +1,41 @@
+Title: Primary and Preventative Health Services - Request for Proposal - RFP 26 - 2073 - Environmental Public Health Data Management
+
+Solicitation number: AB-2026-03225
+
+Publication date: 2026-04-24
+
+Closing date: 2026-05-19
+
+Last amendment date: 2026-05-04
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 36 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43231507 Project management software | 43232200 Content management software | 43232300 Data management and query software | 43233700 System management software | 77000000 Environmental Services | 77101700 Environmental advisory services | 80100000 Management advisory services | 80101505 Corporate objectives or policy development | 80101600 Project management
+
+Organization: Primary and Preventative Health Services
+
+Contracting authority: Caitlen Ma
+
+Email: PPHS.Procurement@gov.ab.ca
+
+Description:
+The Health Protection Branch of the Public Health Delivery Division of Primary and Preventative Health Services (PPHS) is responsible for overseeing environmental public health in Alberta through defining policy and providing direction to the programs of the Government of Alberta (GoA) ministries and agencies.
+The purpose of this engagement is to provide support to fully develop and implement the data management frameworks, to tackle the current backlog of datasets waiting to be addressed, maintain data from routine monitoring programs, manage datasets that EPHS receives from other agencies and use internally, and maintain surge capacity during responses to unplanned situations and incidents.
+Objectives includes:
+1. Dataset Quality Optimization
+2. Data Governance and Stewardship
+3. Dataset Development and Maintenance
+4. Public Access and Transparency
+5. EPHS Deliverables and Products
+6. Program Support and Continuous Improvement
+
+Trade agreements:
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)

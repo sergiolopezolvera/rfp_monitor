@@ -1,0 +1,135 @@
+Title: 5X001-26-0088 - Publishing Court Decisions Online
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-544-48251510
+
+Solicitation Number: 5X001-26-0088
+
+Issuing Organization: Courts Administration Service (CAS)
+
+Solicitation Type: ACAN - Advance Contract Award Notice (Formal)
+
+Location: Canada
+
+Publication date: 2026-04-28
+
+Closing date: 2026-05-13
+
+Contact name: Marco Pelchat
+
+Contact email: 613315-7390
+
+Contact phone: Procurement.Approvisionnement@cas-satj.gc.ca
+
+Description:
+ACAN - Publishing Court Decisions Online – 5X001-26-0088
+Tender Notice
+Status - Active,
+Dates
+Publication date: April 28, 2026
+Amendment date-None
+Date closing: May 13, 2026
+Details
+Reference number:
+Solicitation number: 5X001-26-0088
+Region of opportunity: Canada
+Region of delivery: NCR
+Notice type: Advance Contract Award Notice (ACAN)
+GSIN
+• T014QB: Electronic Publishing
+• D301A: Computer and Data Processing Services
+• N7030: ADP Software
+Trade agreements – This requirement is exempt from all trade agreements based on the proprietary rights of the Contractor
+Tendering procedure -ACAN
+Procurement entity -Courts Administration Service
+End user entity - Courts Administration Service
+Contact person:
+Contact Information: Marco Pelchat
+Email: Procurement.Approvisionnement@cas-satj.gc.ca
+Phone: 613-315-7390
+Address: 90 Sparks Street, Ottawa, On, K1A 0H9, CA
+1.0 ADVANCED CONTRACT AWARD NOTICE (ACAN)
+An ACAN is a public notice indicating to the supplier community that a department or agency intends to award a contract for goods, services or construction to a pre-identified supplier, thereby allowing other suppliers to signal their interest in bidding, by submitting a statement of capabilities.
+If no supplier submits a statement of capabilities that meets the requirements set out in the ACAN, on or before the closing date stated in the ACAN, the contracting officer may then proceed with the award to the pre-identified supplier.
+2.0 BACKGROUND
+Government-wide policy requires that procurement and contracting practices result in openness, fairness and transparency in the spending of public funds. Federal procurement and contracting activities are governed by a complex set of policies, regulations, legislation, reporting requirements and other authorities.
+As per the Treasury Board Directive on the Management of Procurement, the objective of these requirements for government departments is “that procurement of goods, services and construction obtains the necessary assets and services that support the delivery of programs and services to Canadians, while ensuring best value to the Crown”. Departments are required to ensure an effective framework of controls is in place to meet and implement these requirements.
+CAS was established on July 2, 2003 by the Courts Administration Service Act, S.C., 2002, c 8. The role of CAS is to provide administrative services to four courts of law: the Federal Court of Appeal (FCA), Federal Court (FC), Court Martial Appeal Court of Canada (CMAC) and the Tax Court of Canada (TCC). These services permit individuals, companies, organizations and the Government of Canada to submit disputes and other matters to the courts, and enable the courts to hear and resolve the cases before them fairly, without delay and as efficiently as possible.
+A such, the Courts Administration Service (CAS) translates decisions for the four Federal Courts.
+3.0 PURPOSE
+CAS is looking for a software to support the translation of the decisions of the Federal Court of Appeal, Federal Court, Court Martial Appeal Court of Canada and the Tax Court of Canada. The software must have functionalities available to provide pre-translated XML files to CAS internal users.
+The proposed solution must be developed, owned, and supported by a Canadian company to ensure alignment with Government of Canada procurement policies, data-sovereignty expectations, and domestic support and accountability requirements.
+The proposed solution must be compatible with CAS’s existing on premise infrastructure.
+Finally, unlimited Help Desk and tech support must be provided directly to CAS users, in both official languages (French and English), during regular business hours (Eastern Standard time), by phone or e-mail, at no extra cost.
+4.0 CRITERIA FOR ASSESSMENT
+Security requirements
+The solution must ensure that all the software components and data processing environments are hosted and supported within Canada in order to meet the Government of Canada sovereignty requirements.
+Essential service requirements
+The supplier’s software must offer the following functionalities:
+a. Bitexts, full text, and terminology module databases. Includes the following linguistic functions: pretranslation, repeated sentence analysis, glossary extraction, domain analysis, reference document analysis, document comparison, alignment editing, and ad-hoc bitext creation. Compatible with MS Word, PowerPoint, Excel, HTML, PDF documents.
+b. Alignment software program enabling the creation of alignment files in XML format. Enables the alignment of over 100 document formats, including PDF, MS Word, PowerPoint, MIF, MS Excel, WordPerfect, HTML, etc. Enables the quick feeding of translation memories and full text search software using websites or archives. Includes Web Crawler and user-friendly Alignment Editor. The alignment software program contains the following functions: scanning of archives and/or website; matching of documents using multiple criteria, including language markers; matching using language detection; project creation; automation of a scheduled task to update an alignment project.
+c. SSO/SAML module. Allows authentication via SSO (Single Sign On) and SAML for users.
+d. Plugin for Windows. Allows users to integrate NMT engines into the pretranslation function, to launch queries and to obtain NMT suggestions from any Windows application. Text from the database and from NMT to be inserted into the current Windows application. Supports Alexa AI Translations, Systran, DeepL, TradooIT, ModernMT, Microsoft Translator, Globalese, ChatGPT on Azure, OpenAI & LM Studio.
+The supplier’s software must also:
+e. Be deployable and fully operable in an on-premises environment to ensure compliance with CAS data-sovereignty, confidentiality, and information-protection requirements, including the secure handling of Protected B judicial and administrative content.
+f. Support seamless integration with AI-based translation services through API calls or RESTful interfaces, to automate the translation of text and documents. The solution must be compatible with Microsoft Translator as well as other Azure Cognitive Services language services, thereby providing the flexibility to use current or future translation models hosted within the organization’s Azure environment.
+g. Provide the accounts and an identical duplicate platform, in both English and French.
+h. Provide a platform that is accessible using various browsers, mainly but not limited to Edge, Safari and Firefox.
+i. Be fully bilingual (English and French).
+j. Be compliant with GC ITSG33 (Security Assessment and Authorization Process) for PBMM (PROTECTED B / Medium integrity / Medium availability) profile.
+The supplier is responsible for:
+k. All application and software licenses necessary to deliver the project for the duration of the contract and is responsible for maintaining these licenses. Decisions remain at perpetuity the property of CAS in all formats (XML, TMX, Word, HTML, PDF, etc). The supplier must provide these decisions to CAS, in all formats (XML, TMX Word, HTML, PDF, etc), at no extra cost.
+l. Providing a TransSearch subscription. TransSearch is a database of past translations, a bilingual concordancer and a translation and writing assistance tool.
+m. Providing unlimited Help Desk and tech support directly to CAS users, in both official languages (French and English), during regular business hours (Eastern Standard time), by phone or e-mail, at no extra cost.
+n. Providing training materials in English and French.
+o. Providing full guidance and documentation on the initial implementation of the software and future update release.
+p. Covering planning, implementation, integration, testing and migration costs with CAS systems.
+5.0 JUSTIFICATION FOR THE PRE-IDENTIFIED SUPPLIER
+• Stability and return on investment: Neural Machine Translation (NMT) was launched at CAS on January 30, 2025, with LogiTerm software being implemented on premise within CAS infrastructure. CAS's NMT tool is based on the Microsoft Azure Translator Suite and is used in an integrated manner with LogiTerm’s translation memory, updated weekly by jurilinguists. CAS can fully realize its investment by continuing to stabilize the use of the tool. In doing so, CAS will continue to expand the number of users and train them to realize the benefits of implementing NMT at CAS. The status quo is therefore the best solution for now.
+• No appetite, funds nor priority for a new project : Since a fair number of resources were invested in implementing NMT at CAS over the last few years, and given the complex task of integrating LogiTerm to CAS’s internal servers, CAS does not wish at this point to start a new and costly IT project by changing the LogiTerm software, even less so after only a year since its implementation. Moreover, this would require CAS to restart the following processes: migration and integration of data, analysis related to integration to CAS infrastructure, training, security assessment, retraining algorithms, etc. This is not a priority for CAS.
+• Entirely Canadian product: Terminotix (developer of LogiTerm) is a Montreal-based company. In the current context, the government is prioritizing local businesses to increase the country's digital sovereignty against external threats. There may be other companies offering a software similar to LogiTerm but to our knowledge, none are Canadian-owned.
+• LogiTerm is the best Canadian product on the market that meets the needs of CAS users. To date, LogiTerm software has proven to be user-friendly with excellent technical support. For example,
+1) it allows users to work directly in Word, which saves a significant amount of time;
+2) the technical support offered to users has been fast, efficient, and offers a direct communication between users and Terminotix);
+3) software improvements have been implemented quickly upon reporting an issue, evolving for the benefit of all users.
+Market research results
+After extensive research on the market of current suppliers, we have identified only one supplier that meets the essential service, security and bilingual proficiency requirements set out above: Terminotix. We were unable to identify any other supplier that meets these requirements. As a result, to the best of our knowledge, there is currently no other supplier who can meet the essential service, security and bilingual proficiency requirements set out above.
+6.0 GOVERNMENT CONTRACTS REGULATIONS EXCEPTION
+The following exception to the Government Contracts Regulations is invoked for the procurement under subsection 6 (d) (only one firm is capable of performing the work). Therefore, we invoke s. 6 (d) of the Government Contracts Regulations to set aside the requirement to solicit bids.
+7.0 PERIOD OF THE PROPOSED CONTRACT
+The proposed contract is for a three-year period, from July 1st, 2026, to June 30th, 2029.
+8.0 COST ESTIMATE OF THE PROPOSED CONTRACT
+The estimated value of the contract is as follows, depending on the actual number of users that CAS will choose (ranging from 100 to 300 users):
+100 users: $63,354 per year
+200 users: $101,254 per year
+300 users: $125,354 per year
+This amounts to a minimum value of $190,062 up to a maximum value of $376,062 over three years.
+Final value will depend on internal requirements and the number of licenses activated.
+9.0 NAME AND ADDRESS OF THE PRE-IDENTIFIED SUPPLIER
+Terminotix Inc.
+2053 avenue Jeanne-d’Arc, bureau 401
+Montréal (Québec) Canada H1W 3Z4
+10.0 SUPPLIERS RIGHT TO SUBMIT A STATEMENT OF CAPABILITIES
+Suppliers who consider themselves fully qualified and available to provide the services/goods described herein may submit a Statement of Capabilities in writing, preferably by e-mail, to the contact person identified in this Notice on or before the closing date and time of this Notice. The Statement of Capabilities must clearly demonstrate how the supplier meets the advertised requirements.
+11.0 CLOSING DATE AND TIME FOR STATEMENT OF CAPABILITIES:
+Interested suppliers are given 15 calendar days to submit a Statement of Capabilities. The closing date for a submission of a Statement of Capabilities is therefore May 13th, 2026 at 2:00 PM, Eastern Standard Time (EST).
+12.0 INQUIRIES AND SUBMISSION OF STATEMENT OF CAPABILITIES:
+Inquiries and statements of capabilities are to be directed to:
+Marco Pelchat
+Procurement Consultant, Courts Administration Service
+Email: marco.pelchat@cas-satj.gc.ca
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

@@ -1,0 +1,42 @@
+Title: ISED213839 - Quality Assurance Specialist/Analyst, Level 3
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-70-1185377
+
+Solicitation Number: ISED213839
+
+Issuing Organization: Department of Industry (ISED)
+
+Location: Ontario
+
+Publication date: 2026-04-29
+
+Closing date: 2026-05-14
+
+Contact name: Rima Salika
+
+Contact email: rima.salika@ised-isde.gc.ca
+
+Description:
+Innovation, Science and Economic Development Canada (ISED) has a requirement for Professional services under the Task-based informatics professional services (TBIPS) Supply Arrangement (SA) method of supply.
+The mandate of the Digital Transformation Services Sector (DTSS) of ISED is to maximize ISED's business performance through modern and progressive management of information management and information technology (IM/IT) services, policies, and resources.
+The Application Support and Maintenance Division (ASMD) is responsible for the development of solutions and applications as well as the maintenance of existing systems to support ISED business units. Services are delivered through the following organizational directorates:
+• Application Services Directorate (ASD)
+• CIPO Application Development and Support Directorate (CADSD)
+• Database and Maintenance Services Directorate (DMSD)
+The Application Services Directorate (ASD) requires the service of Senior Quality Assurance (QA) Specialists to assist the various project management teams with testing of the ISED project initiatives utilizing an Agile or Waterfall Software Development Life Cycle methodology.
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

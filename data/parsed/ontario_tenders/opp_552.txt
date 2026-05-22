@@ -1,0 +1,320 @@
+Title: French Language Services
+
+Project reference: tender_21468
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+Supply Ontario is releasing a Request for Bids (RFB) for French Language Services. #tender_21468.
+The primary goal is to establish a flexible, multi-vendor VOR for a term of five (5) years.
+
+FULL_TEXT:
+Project: tender_21468 - French Language Services  (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21468 - French Language Services
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+tender_21468
+Project Details
+Project Code
+tender_21468
+Project Title
+French Language Services
+Project Reference
+tender_21468
+Multi Lot Project
+Yes
+Project Type
+Services
+Project Categories
+41105800-In vitro transcription and translation products
+60103700-Foreign languages resources
+82112000-In person language interpretation services
+82112100-Language specific editorial and writing services
+85275700-Diagnoses of specific developmental disorders of speech and language
+86111700-Language schooling
+86132000-Management education and training services
+Opportunity Details
+Detailed Description
+Supply Ontario is releasing a Request for Bids (RFB) for French Language Services. #tender_21468.
+Supply Ontario is issuing a Request for Bids (RFB) to establish a Vendor of Record (VOR) arrangement for French Language Services. This VOR is for use by Ontario Public Service (OPS) ministries and Broader Public Sector (BPS) entities. The objective is to establish relationships with multiple qualified service providers to meet the diverse needs of the OPS and Non-OPS entities.
+Scope of Work
+The primary goal is to establish a flexible, multi-vendor VOR for a term of five (5) years.
+This VOR will serve as a roster of pre-qualified suppliers. Client organizations will use this roster to invite vendors to bid on their specific needs through a simplified second-stage selection process.
+This EVOR will cover only French Language Services.
+The client base is diverse, ranging from large provincial ministries with complex risk management requirements to smaller BPS entities with more focused needs. Therefore, service providers with experience supporting clients of all sizes and complexities are strongly encouraged to respond.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+19/02/2026 22:35
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+30/04/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+60
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Tender_21468 -– Services en langue française.
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+ApprovisiOntario publie un appel d’offres pour des services en langue française. #tender_21468.
+ApprovisiOntario lance un appel d’offres pour établir une entente de fournisseurs attitrés pour les services en langue française. La présente entente est destinée aux ministères de la fonction publique de l’Ontario (FPO) et aux entités du secteur parapublic. L’objectif est d’établir des relations avec plusieurs fournisseurs de services qualifiés pour répondre aux divers besoins des entités de la FPO et des entités affiliées.
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+L’objectif principal est d’établir une entente de plusieurs fournisseurs attitrés, souple et pour une durée de five (5) ans.
+Cette entente servira de liste de fournisseurs préqualifiés. Les organisations clientes utiliseront cette liste pour inviter les fournisseurs à soumissionner pour leurs besoins particuliers dans le cadre d’un processus de sélection simplifié à la deuxième étape.
+Cette entente couvrira uniquement les services en langue française.
+La clientèle est diversifiée, allant des grands ministères provinciaux ayant des exigences complexes en matière de gestion des risques aux petites entités parapubliques ayant des besoins plus ciblés. Par conséquent, les fournisseurs de services ayant de l’expérience dans le soutien à des clients de toutes tailles et de toutes complexités sont fortement encouragés à soumissionner.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Supply Ontario
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+200 Front St West
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Toronto
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+M5V 3L1
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+N/A
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+N/A
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Andrew Singh
+Buyer
+Contact Email Address
+*
+Contact Email Address
+andrew.r.singh@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+437 224 9086
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19576
+Service Category 1 - English to French Translation Services
+30/04/2026 11:00
+2
+RFx
+rfx_19577
+Service Category 2 – French to English Translation Services
+30/04/2026 11:00
+3
+RFx
+rfx_19578
+Service Category 3 – Certified Legal English to French Translation Services
+30/04/2026 11:00
+4
+RFx
+rfx_19579
+Service Category 4 – Certified Legal French to English Translation Services
+30/04/2026 11:00
+5
+RFx
+rfx_19580
+Service Category 5 - English to French Translation Services (Job posting related Translations)
+30/04/2026 11:00
+6
+RFx
+rfx_19581
+Service Category 6 - French Language Proficiency Evaluation Services
+30/04/2026 11:00
+7
+RFx
+rfx_19582
+Service Category 7 - French Language Proficiency in a Legal Context Evaluation Services
+30/04/2026 11:00
+8
+RFx
+rfx_19583
+Service Category 8 - French Language Skills Training
+30/04/2026 11:00
+9
+RFx
+rfx_19584
+Service Category 9 - French Language Services in a Legal Context Skills Training
+30/04/2026 11:00
+10
+RFx
+rfx_19585
+Service Category 10 - English to French Interpretation Services
+30/04/2026 11:00
+11
+RFx
+rfx_19586
+Service Category 11 - French to English Interpretation Services
+30/04/2026 11:00
+12
+Qualification Only RFx
+rfx_19631
+Qualification Lot
+30/04/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Andrew Singh
+Email
+Andrew.R.Singh@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

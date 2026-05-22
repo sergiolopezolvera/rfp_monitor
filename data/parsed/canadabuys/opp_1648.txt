@@ -1,0 +1,135 @@
+Title: E-Learning PLatform
+
+Solicitation number: 20260253
+
+Publication date: 2026-05-08
+
+Closing date: 2026-06-01
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English, French
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 9 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 86100000 Vocational training
+
+Organization: Financial Consumer Agency of Canada (FCAC)
+
+Contracting authority: Stéphane Dupel
+
+Email: fcac.contract-contrat.acfc@fcac-acfc.gc.ca
+
+Phone: (613) 294-5385
+
+Description:
+NOTICE OF PROPOSED PROCUREMENT (NPP)
+Supply Arrangement E60HZ 140001
+Requirement
+This requirement is for The Financial Consumer Agency of Canada (FCAC).
+Applicable Supply Arrangement
+This requirement is open only to Supply Arrangement Holders qualified under Supply Arrangement E60HZ 140001.
+Description of the Requirement
+The Financial Consumer Agency of Canada (FCAC) intends to procure technical training services to provide its employees with structured learning opportunities to develop, maintain, and enhance professional skills through digital and instructor‑led training solutions.
+The objective of this requirement is to acquire a comprehensive training services solution that meets or exceeds FCAC’s functional and quality requirements, in order to support workforce capability development, improve technical proficiency, and ensure access to current and relevant training aligned with organizational needs.
+Scope of Work
+The Contractor shall provide a comprehensive E Learning and training platform solution to support the Financial Consumer Agency of Canada’s (FCAC) workforce development needs. The scope of work includes the provision, configuration, and ongoing availability of a Solution as a Service (SaaS) training platform that delivers technical and professional training to FCAC employees.
+The scope encompasses the following key elements:
+Training Platform and Delivery
+• Provision of a SaaS based training platform accessible via standard web browsers.
+• Integration with Microsoft Entra ID to support single sign on functionality.
+• Delivery of training through multiple formats, including:
+o On demand, self paced digital learning; and
+o Live, virtually delivered instructor led training.
+Training Content and Curriculum
+• Access to a comprehensive and current technical curriculum covering, at a minimum:
+o Artificial intelligence;
+o Business skills;
+o Cloud platforms and services;
+o Cybersecurity;
+o Data science;
+o Endpoint applications;
+o Networking and systems administration;
+o Project management; and
+o Software development and automation.
+Skills Development and Hands On Learning
+• Tools to support structured learning, including:
+o Skills assessments or diagnostic tools;
+o Role based or competency based learning paths; and
+o Individual learner progress tracking.
+• Access to hands on labs, simulations, and real world scenarios, including:
+o Lab environments that require no installation on end user devices; and
+o A Microsoft Azure sandbox environment.
+Instructor Led Training and Certification Support
+• Delivery of instructor led training by qualified instructors with demonstrated subject matter expertise and relevant industry credentials.
+• Availability of structured course materials, documented learning objectives, and certification aligned training, including exam preparation resources where applicable.
+Administration, Reporting, and Licensing
+• Provision of administrative dashboards and reporting tools to support enterprise use, including:
+o Usage and progress monitoring; and
+o Exportable reports for compliance and audit purposes.
+• Flexible, scalable licensing models to allow FCAC to increase or decrease user access over the contract period, with centralized user management.
+Accessibility, Language, and Content Maintenance
+• Availability of on demand training content in English and French.
+• Availability of user interfaces, documentation, and support in English or French.
+• Ongoing content maintenance, including regular updates to reflect technological changes and the retirement or revision of outdated material
+Detailed requirements will be included in the solicitation document issued to invited Supply Arrangement Holders.
+Procurement Method
+This bid solicitation is issued under the framework of Supply Arrangement E60HZ 140001.
+Only Supply Arrangement Holders qualified will be invited to submit a proposal.
+Invitation to Participate
+The following Supply Arrangement Holders have been invited to submit a proposal under this requirement:
+• AFI by Edgenda Inc.
+• Global Knowledge Network Canada Inc.
+• Learning Tree International
+• Newcomp Analytics
+• SAS Institute (Canada) Inc.
+• StormWind LLC
+• Crakin Network Consulting & Training
+• Algonquin College
+• Eliquo Training & Development incorporated
+• IT Chapter Inc.
+• Ultimate IT Courses
+• Priority Learning and Development
+• IPSS Inc.
+• Great Canadian Training
+• The Willis Business College Limited
+Trade Agreements
+The requirement is subject to the provisions of the World Trade Organization Agreement on Government Procurement (WTO-AGP), the Canada-Chile Free Trade Agreement (CCFTA), the Canada-Peru Free Trade Agreement (CPFTA), the Canada-Colombia Free Trade Agreement (CColFTA), the Canada-Panama Free Trade Agreement (CPanFTA), the Canada-Honduras Free-Trade Agreement, the Canada-European Union Comprehensive Economic and Trade Agreement (CETA), the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), the Canadian Free Trade Agreement (CFTA), the Canada-Ukraine Free Trade Agreement (CUFTA), the Agreement on Trade Continuity between Canada and the United Kingdom of Great Britain and Northern Ireland and the Canada-Korea Free Trade Agreement (CKFTA).
+Associated Documents
+• Notice of proposed procurement (NPP)
+Proposed period of contract:
+The proposed period of contract shall be from date of award to 2027-03-31.
+File Number: 20260253
+Contracting Authority: Stéphane Dupel
+Phone Number: (613) 294-5385
+E-Mail:
+FCAC.Contract-Contrat.ACFC@fcac-acfc.gc.ca
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- NPP 20260253 ENG.pdf | EN | 2026/05/08
+
+- NPP 20260253 FR.pdf | FR | 2026/05/08

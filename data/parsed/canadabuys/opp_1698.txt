@@ -1,0 +1,33 @@
+Title: Agriculture and Irrigation - Request for Proposal - SCADA Systems – Electrical Instrumentation
+
+Solicitation number: AB-2026-03512
+
+Publication date: 2026-05-05
+
+Closing date: 2026-05-19
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 22 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 39121500 Electrical controls and accessories | 39120000 Electrical equipment and components and supplies | 70000000 Farming and Fishing and Forestry and Wildlife Contracting Services | 70170000 Water resources development and oversight | 70171700 Irrigation system maintenance and management services | 72000000 Building and Facility Construction and Maintenance Services | 72151500 Electrical system services | 72102200 Electrical services | 70171701 Canal maintenance or management services
+
+Organization: Agriculture and Irrigation
+
+Contracting authority: Rob Harrop
+
+Email: William.Harrop@gov.ab.ca
+
+Description:
+Alberta Agriculture and Irrigation (AGI), Water Infrastructure & Operations Branch (WIO) is seeking Contractors to provide electrical and instrumentation inspection, maintenance, servicing and completion of small upgrade projects associated with the Supervisory Control and Data Acquisition (SCADA) Systems and controls at various water management infrastructure sites located in Alberta. WIO is responsible for operating and maintaining the water management infrastructure owned by the Government of Alberta.
+Government owned water management infrastructure consists primarily of earth and concrete structures. This infrastructure also includes electrical, mechanical and geotechnical components along with electro-mechanical and geotechnical instrumentation and SCADA monitoring and control systems. Regular maintenance must be performed on these systems, and WIO personnel identify deficiencies with the major structures and the supporting sub-systems during regular inspection.
+The WIO SCADA System encompasses water controls structures located as far south as Waterton Dam and as far north as South Heart River Dams north of High Prairie. All the projects and systems include SCADA system components including but not limited to Programmable Logic Control (PLC) based control systems including PLC I/O, human machine interfaces, instrumentation, sensors and communications equipment and low voltage power distribution systems, motor control centers, motor starters, motors, gate actuators, uninterruptible power supplies and generators. To ensure continuous function of this equipment, regular maintenance is required and occasional technical servicing as well. In order for operations staff to ensure deficiencies in the equipment are properly addressed WIO must have access to the technical knowledge and competency for the various makes and models of equipment located at the various sites.
+
+Trade agreements:
+No trade agreements are applicable to this solicitation process

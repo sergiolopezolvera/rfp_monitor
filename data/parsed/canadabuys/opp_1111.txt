@@ -1,0 +1,35 @@
+Title: City of Edmonton - Negotiated Request for Proposal - 938905 PCI Compliance
+
+Solicitation number: AB-2026-03454
+
+Publication date: 2026-04-30
+
+Closing date: 2026-06-01
+
+Last amendment date: 2026-05-06
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 12 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43232600 Industry specific software | 43000000 Information Technology Broadcasting and Telecommunications | 43232606 Compliance software | 77102001 Legal compliance certification service | 81160000 Information Technology Service Delivery
+
+Organization: City of Edmonton
+
+Contracting authority: Courtney Apple
+
+Description:
+The City of Edmonton (the City) invites bidders to submit bids for Professional Services for annual PCI Compliance Assessments, ongoing ASV external vulnerability scanning, and on-demand security consulting. The Form of Agreement, located in the Form of Agreement Section in the SAP Ariba Platform, defines the Work the successful bidder will perform.
+Intended term of Contract: This Contract’s initial term is one year, starting September 1, 2026. The City may, in its sole discretion, extend the Contract on the same terms and conditions for up to four additional year(s). The length of any extension(s) is at the City’s sole discretion.
+It is the City's intention to enter into the Contract with only one bidder.
+The Ariba Discovery Posting can be accessed by following this link:
+https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110012315?anId=ANONYMOUS
+
+Trade agreements:
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)

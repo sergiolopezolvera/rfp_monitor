@@ -1,0 +1,49 @@
+Title: J091024/A - Web Scraping Services for Statistics Canada
+
+Status: This solicitation is OPEN
+
+Reference Number: cb-406-66310092
+
+Solicitation Number: J091024/A
+
+Issuing Organization: Statistics Canada (StatCan)
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: National Capital Region
+
+Publication date: 2026-04-20
+
+Closing date: 2026-05-15
+
+Contact name: Shuo Chen
+
+Contact email: (343) 992-1674
+
+Contact phone: statcan.macsbids-smcsoumissions.statcan@statcan.gc.ca
+
+Description:
+DESCRIPTION OF REQUIREMENT
+This Request for Proposal (RFP) is being issued to obtain web scraped data from Canadian websites for use by Statistics Canada for statistical and research purposes. Statistics Canada is only interested in acquiring data, and not in purchasing software or a license to use an established software as a service (SAAS) solution.
+QUALIFICATION
+This solicitation of offers is subject to the Policy on Reciprocal Procurement. This means that only Canadian Suppliers and Suppliers of an Applicable Trading Partner, as defined in the Annex Solicitation of Offers Definitions, are eligible for this solicitation of offers. Offers submitted by Suppliers of a Non-Trading Partner will be rejected.
+EVALUATION PROCESS AND SELECTION METHODOLOGY
+Highest Combined Rating of Technical Merit (70%) and Price (30%)
+SECURITY REQUIREMENTS
+N/A
+DURATION OF CONTRACT
+It is intended to result in the award of one (1) contract, from the date of contract award to 18 months later, plus four (4) irrevocable option one-year periods allowing Canada to extend the term of the Contract.
+See more
+
+Disclaimer:
+Disclaimer
+Government of Canada (GC) tender notices and awards, solicitation documents and tender attachments are available free of charge and without registration on
+canadabuys.canada.ca/en/tender-opportunities
+, the authoritative location for GC tenders.
+You may have received this tender notice or award through a third-party distributor. The Government of Canada is not responsible for any tender notices and/or related documents and attachments not accessed directly through canadabuys.canada.ca/en/tender-opportunities.
+This Government of Canada tender notice or tender award carries an
+Open Government Licence - Canada
+that governs its use. Related solicitation documents and/or tender attachments are copyright protected. Please refer to the section about
+Commercial Reproduction
+in the canadabuys.canada.ca/en Terms and Conditions for more information.
+Contains information licensed under the Open Government license - Canada. Contains data reproduced and distributed with the permission of the Government of Canada, on an "as is" basis.

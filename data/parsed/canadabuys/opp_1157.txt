@@ -1,0 +1,36 @@
+Title: Alberta Electric System Operator - Request for Proposal - RFP Database Admin Services
+
+Solicitation number: AB-2026-03356
+
+Publication date: 2026-04-28
+
+Closing date: 2026-06-04
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 60 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 81111507 ERP or database applications programming services | 81111704 Database design | 81112205 Database management system software maintenance | 81160000 Information Technology Service Delivery | 81162004 Database management as a service
+
+Organization: Alberta Electric System Operator
+
+Contracting authority: Omar Mazouzi
+
+Email: omar.mazouzi@aeso.ca
+
+Description:
+The AESO is seeking one or more partners to provide database administration (“DBA”) services for a period of up to five (5) years beginning February 2027. These DBA services are further set out in Appendix E of this RFP and include but are not limited to the following platforms:
+• Oracle Database (Legacy and Modern)
+• Oracle Exadata Cloud@Customer (ExaCC) and Oracle Cloud Infrastructure (OCI)
+• Microsoft SQL Server
+• Microsoft Azure
+(collectively, the “Services”).
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)

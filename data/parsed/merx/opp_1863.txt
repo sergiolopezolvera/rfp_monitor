@@ -1,0 +1,42 @@
+Title: RFI-2026-PVMD-178 - RFI-2026-PVMD-178: PRESTO Device Refresh
+
+Status: Time Left to Bid
+
+Reference Number: 0000322415
+
+Solicitation Number: RFI-2026-PVMD-178
+
+Solicitation Type: RFI - Request for Information (Formal)
+
+Location: Canada, Southern Ontario
+
+Description:
+Call For Tenders
+Tender No. RFI-2026-PVMD-178
+Metrolinx is accepting Submissions for Request for Information for PRESTO Device Refresh.
+Metrolinx/Payments (PRESTO) is preparing to re-procure approximately 20,000 fare payment
+and sales devices across 11 transit agencies in the Greater Toronto and Hamilton Area (GTHA)
+and Ottawa. Metrolinx/PRESTO recently awarded five new contracts for its back-office,
+integration, and digital layers (Automated Fare Collection System (AFCS), System Integrator
+Services (SIS), Service Integration and Management (SIAM), contact center, and digital
+channels). The device refresh is a subsequent, separate procurement program that interfaces
+with these contracts. Device vendors will be required to integrate with the new AFCS via
+published REST APIs and PRESTO’s payment acquirer. Additionally, device vendors will need
+to work with PRESTO’s System Integrator (SIS) and Service Integration and Management
+(SIAM) vendor.
+***NOTE: ELECTRONIC BID SUBMISSION
+Your Submission for this opportunity must be sent to Metrolinx through the use of
+Metrolinx MERX EBS. Bidders shall be solely responsible for the delivery of their
+Submission using Metrolinx MERX EBS by the Closing, in accordance with the
+Instructions to Bidders.
+ELECTRONIC SUBMISSIONS will be accepted until
+15:00 ET.
+Eastern Time (ET) on
+June 15, 2026
+. Bid Intent deadline:
+June 12, 2026
+(not mandatory)
+Proponents shall adhere to the Proposal Submission Requirements as identified within the
+tender document.
+Metrolinx reserves the right to reject any or all Submissions at its sole discretion.
+See more

@@ -1,0 +1,63 @@
+Title: Data Management & Data Science Support for Digital Investment Projects
+
+Solicitation number: T8080-250568
+
+Publication date: 2026-04-15
+
+Closing date: 2026-05-19
+
+Last amendment date: 2026-05-01
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English, French
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 24 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Highest Combined Rating of Technical Merit and Price
+
+Commodity: 80101507 Information technology consultation services | 81160000 Information Technology Service Delivery
+
+Organization: Department of Transport (TC)
+
+Contracting authority: Tania Cantin
+
+Email: tania.cantin@tc.gc.ca
+
+Phone: (343) 991-5213
+
+Description:
+Over the past few years, the Service and Digital Group (SDG) at TC has embarked on a digital transformation journey to enhance the quality of services that are delivered to Canadians and to optimize internal activities to support the delivery of the department’s mandate, through the provision of collaboration tools and process automation.
+To achieve these outcomes, the Service and Digital Group, requires specialized skills in support of digital and data projects.
+The Chief Data Office (CDO) has been identified as a key contributor with business owners to provide data management support for digital investment projects.
+DATA MANAGEMENT AND ACCESSIBILITY
+The resource will work with stakeholders from cross-functional teams responsible for the delivery of identified deliverables. The resource’s work will contribute to improve data discoverability and documentation for the projects listed that will positively impact Transport Canada’s level of data maturity.
+DATA SCIENCE AND ANALYTICS
+The Data Science resource will support analytical projects, enhance data-driven decision-making, and improve operational efficiency across various program areas. They will collaborate with clients to analyze structured datasets and develop dashboards, reports, models, and end-user products. Proficiency in data analysis and visualization tools, experience with statistical and machine learning methods, and strong communication and collaboration skills are essential for this role. The Data Science and Analytics resource will act as a strategic enabler for the organization, helping to transform data into a core organizational asset that informs decisions, drives efficiency, and supports the achievement of departmental and program-specific outcomes.
+
+Trade agreements:
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+
+Reason for limited tendering:
+None
+
+Documents:
+
+- T8080-250568 - NPP (EN).pdf | EN | 2026/04/15
+
+- T8080-250568 - APM (FR).pdf | FR | 2026/04/15

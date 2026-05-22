@@ -1,0 +1,257 @@
+Title: MTO - Ministry- specific Vendor of Record (VOR) for Thruster rebuilds for Marine Services East
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+The purpose of this Request for Bids (RFB) is to acquire a Vendor of Record for the rebuild of Marine Thrusters for Marine East
+The objective of this RFB is to establish a Vendor of Record for the overhaul of marine thrusters. The selected vendor will be responsible for providing all necessary parts and labour to perform thruster rebuilds at intervals mandated by Transport Canada. These services will apply to all thrusters within the Ministry of Transportation’s Marine East Division inventory.
+
+FULL_TEXT:
+Project: tender_21541 - MTO - Ministry- specific Vendor of Record (VOR) for Thruster rebuilds for Marine Services East (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21541 - MTO - Ministry- specific Vendor of Record (VOR) for Thruster rebuilds for Marine Services East
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21541
+Project Title
+MTO - Ministry- specific Vendor of Record (VOR) for Thruster rebuilds for Marine Services East
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+25111500-Commercial marine craft
+25111900-Marine craft systems and subassemblies
+72141200-Marine construction services
+78111700-Passenger marine transportation
+81103000-Marine operation and inspection services
+Opportunity Details
+Detailed Description
+The purpose of this Request for Bids (RFB) is to acquire a Vendor of Record for the rebuild of Marine Thrusters for Marine East
+Scope of Work
+The objective of this RFB is to establish a Vendor of Record for the overhaul of marine thrusters. The selected vendor will be responsible for providing all necessary parts and labour to perform thruster rebuilds at intervals mandated by Transport Canada. These services will apply to all thrusters within the Ministry of Transportation’s Marine East Division inventory.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+27/03/2026 09:16
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+04/05/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+24
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Fournisseur attitré du ministère pour la remise à neuf de propulseurs pour les Services maritimes Est
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+La présente demande de soumissions (DS) vise à trouver un fournisseur attitré pour la remise à neuf de propulseurs marins pour les Services maritimes Est
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+L'objectif de cette DS est d'établir un fournisseur attitré pour la remise en état de propulseurs marins. Le fournisseur choisi devra procurer toutes les pièces et la main-d'œuvre nécessaires pour effectuer la remise en état de propulseurs aux intervalles prescrits par Transports Canada. Ces services s’appliqueront à tous les propulseurs de l’inventaire de la Division des services maritimes Est du ministère des Transports.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Transportation
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+1355 John Counter Blvd.
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Kingston
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+K8L 5A3
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+N/A
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+N/A
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Submissions must be made electronically through the Ontario Tenders Portal (“OTP”) eTendering System.
+Bid documents must not be mailed.
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Pamela Clarke, Procurement Advisor
+Buyer
+Contact Email Address
+*
+Contact Email Address
+pamela.clarke@supplyontario.ca
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+647-983-5174
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19741
+MTO Ministry- specific Vendor of Record (VOR) for Thruster rebuilds for Marine Services East
+04/05/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Pamela Clarke
+Email
+pamela.clarke@supplyontario.ca
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

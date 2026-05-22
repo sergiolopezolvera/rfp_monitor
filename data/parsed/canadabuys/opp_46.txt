@@ -1,0 +1,58 @@
+Title: Senior Business Transformation Architect to support Strengthening the Digital Backbone Project
+
+Solicitation number: CCSI-26-0086
+
+Publication date: 2026-04-16
+
+Closing date: 2026-05-01
+
+Status: Open
+
+Notice type: RFP against Supply Arrangement
+
+Language(s): English
+
+Region(s) of delivery: National Capital Region (NCR)
+
+Contract duration: 12 month(s)
+
+Procurement method: Competitive – Selective Tendering
+
+Selection criteria: Variations or combinations of the above methods
+
+Commodity: 80101500 Business and corporate management consultation services
+
+Organization: Department of National Defence (DND)
+
+Contracting authority: Edward Phan
+
+Email: edward.phan@forces.gc.ca
+
+Phone: (000) 000-0000
+
+Description:
+The Canadian Joint Forces Command (CJFC), operates within the Department of National Defence (DND) in support of the Canadian Armed Forces (CAF), is advancing the modernization of its digital backbone to enable integrated, data-driven decision-making across joint operations. This transformation includes the implementation of enterprise data platforms, modernization of legacy systems, strengthened governance frameworks, and enhanced interoperability across domains and partners.
+As digital capabilities expand in scope and complexity, effective coordination, oversight, and delivery management are critical to ensuring that initiatives align with strategic objectives, operational requirements, and departmental standards. Programs under these initiatives involve multiple stakeholders, cross-functional technical teams, external vendors, and evolving delivery times.
+To support the successful execution of these initiatives, CJFC requires a dedicated Business Transformation Architect to provide structured leadership, governance oversight, and delivery coordination. The Business Transformation Architect will ensure the project activities are aligned with the Defence Data Strategy, Digital Campaign Plan, and enterprise architecture direction, while maintaining schedule, scope, cost and risk controls.
+This role will operate within a highly dynamic environment requiring collaboration across technical, operational, and executive stakeholders. The Business Transformation Architect will support planning, reporting, risk management, stakeholder engagement, and performance tracking to ensure the timely and effective delivery of digital transformation outcomes.
+The contract period will be for One (1) 12-month period from the date of contract award with an option to extend it for up to (One) additional (12) month periods.
+Please note: That Department of National Defence has already invited 15 suppliers to submit proposals in response to CCSI-26-0086 However, Department of National Defence will extend this invitation to qualified Supply Arrangement holders however the bid close date will not be extended as a result.
+Please Note: This is a new requirement. There is NO incumbent.
+
+Trade agreements:
+North American Free Trade Agreement (NAFTA)
+World Trade Organization Agreement on Government Procurement (WTO GPA)
+Canada-Chile Free Trade Agreement (CCFTA)
+Canada-Peru Free Trade Agreement (CPFTA)
+Canada-Colombia Free Trade Agreement
+Canada-Panama Free Trade Agreement
+Canada-Honduras Free Trade Agreement
+Canada-Korea Free Trade Agreement (CKFTA)
+Canadian Free Trade Agreement (CFTA)
+Canada-European Union Comprehensive Economic and Trade Agreement (CETA)
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+Canada-Ukraine Free Trade Agreement (CUFTA)
+Canada-UK Trade Continuity Agreement (Canada-UK TCA)
+
+Reason for limited tendering:
+None

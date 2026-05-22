@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard | RFP Monitor{% endblock %}
+
+{% block content %}
+  <section class="cards">
+    <article class="card">
+      <div class="subtle">Total opportunities</div>
+      <div class="metric">{{ stats.total_opportunities }}</div>
+    </article>
+    <article class="card">
+      <div class="subtle">Analyzed opportunities</div>
+      <div class="metric">{{ stats.analyzed_count }}</div>
+    </article>
+    <article class="card">
+      <div class="subtle">Unanalyzed opportunities</div>
+      <div class="metric">{{ stats.unanalyzed_count }}</div>
+    </article>
+    <article class="card">
+      <div class="subtle">Closing soon</div>
+      <div class="metric">{{ stats.closing_soon|length }}</div>
+      <div class="subtle">Next 14 days</div>
+    </article>
+  </section>
+
+  <section class="grid-2">
+    <article class="panel">
+      <h2>Opportunities by Source</h2>
+      <ul class="list">
+        {% for source_name, count in stats.by_source %}
+          <li>
+            <span>{{ source_name.replace("_", " ") }}</span>
+            <span class="badge">{{ count }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </article>
+
+    <article class="panel">
+      <h2>Opportunities by Status</h2>
+      <ul class="list">
+        {% for status, count in stats.by_status %}
+          <li>
+            <span>{{ status }}</span>
+            <span class="badge">{{ count }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </article>
+  </section>
+
+  <section class="grid-2">
+    <article class="panel">
+      <h2>Fit Opportunities by Score</h2>
+      <ul class="list">
+        {% for score, count in stats.fit_score_counts %}
+          <li>
+            <span>
+              {% if score == 3 %}High{% elif score == 2 %}Medium{% elif score == 1 %}Low{% else %}Unscored{% endif %}
+            </span>
+            <span class="badge success">{{ count }}</span>
+          </li>
+        {% else %}
+          <li><span class="subtle">No analyses yet.</span></li>
+        {% endfor %}
+      </ul>
+    </article>
+
+    <article class="panel">
+      <h2>Closing Soon</h2>
+      <ul class="list">
+        {% for opp in stats.closing_soon %}
+          <li>
+            <span>
+              <a href="/opportunities/{{ opp.id }}">{{ opp.title or "Untitled opportunity" }}</a><br />
+              <span class="subtle">{{ opp.source.name if opp.source else "Unknown source" }}</span>
+            </span>
+            <span class="badge warn">{{ opp.closing_date.isoformat() if opp.closing_date else "n/a" }}</span>
+          </li>
+        {% else %}
+          <li><span class="subtle">Nothing closing in the next two weeks.</span></li>
+        {% endfor %}
+      </ul>
+    </article>
+  </section>
+{% endblock %}

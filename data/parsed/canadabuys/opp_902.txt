@@ -1,0 +1,31 @@
+Title: Municipal District of Opportunity No. 17 - Request for Proposal - MD17 SCADA Upgrades
+
+Solicitation number: AB-2026-03086
+
+Publication date: 2026-04-20
+
+Closing date: 2026-05-05
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 4 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 47100000 Water and wastewater treatment supply and disposal
+
+Organization: Municipal District of Opportunity No. 17
+
+Contracting authority: Earl Gullion
+
+Email: earl.gullion@mdopportunity.ab.ca
+
+Description:
+The Municipal District of Opportunity (MD) requests written proposals from qualified vendors to provide services for a new SCADA system. This is for the hamlets of Wabasca, Calling Lake, Red Earth Creek, and Sandy Lake. This will be a new VT SCADA system connecting all the lift stations of each community to their respective Water Treatment Plant. Requiring a completely independent network, with each lift station able to communicate independently with their respective Water Treatment Plants.
+
+Trade agreements:
+Canadian Free Trade Agreement (CFTA)

@@ -1,0 +1,30 @@
+Title: University of Calgary - Request for Proposal - Content Developer - Multisensory Interactive Theatre
+
+Solicitation number: AB-2026-03533
+
+Publication date: 2026-05-04
+
+Closing date: 2026-06-04
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 60 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 42251500 Cognitive and dexterity and perceptual and sensory evaluation and therapy products | 42250000 Physical and occupational therapy and rehabilitation products | 43220000 Data Voice or Multimedia Network Equipment or Platforms and Accessories | 43230000 Software | 43232100 Content authoring and editing software | 43232102 Graphics or photo imaging software | 43232103 Video creation and editing software | 43232402 Development environment software | 43232703 Interactive voice response software | 43232917 Software defined networking/ virtualization software
+
+Organization: University of Calgary
+
+Contracting authority: Helina So
+
+Email: htso@ucalgary.ca
+
+Description:
+The University of Calgary (UCalgary) requires a Content Developer for a complete multisensory extended reality (XR) system. The Content Developer should provide a platform that support immersive, interactive, and research driven experiences integrating visual, auditory, olfactory and other sensory modalities. The expected system should include virtual reality (VR) and augmented reality (AR) hardware and software. The purchase of the hardware that is required for this system will be purchased by the UCalgary team, they will work with the winning Proponents on what equipment and hardware is required.
+This system is required for CFI funded research project entitled Multisensory Storytelling Research Studio.
+The estimated budget for this project is $125,000.00 to $190,000.00 CAD.

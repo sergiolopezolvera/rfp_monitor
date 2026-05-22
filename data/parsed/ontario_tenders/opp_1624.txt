@@ -1,0 +1,255 @@
+Title: Fleet Motorpool Reservation System
+
+Project reference: Project Details
+
+Buyer organization: Government of Ontario
+
+Procurement route: Open
+
+Work category: Other
+
+Contact name: *
+Contact Name
+
+Contact email: *
+Contact Email Address
+
+Contact phone: Number
+
+Description:
+The Ministry requires a Vendor to supply and deliver the following Deliverables to the Ontario Provincial Police (“OPP”): Fleet Motorpool Reservation System.
+The Ministry is seeking a Vendor to supply and deliver a Fleet Motorpool Reservation System. The Deliverables must comply and conform to all required features and specifications set out in Part 3 – The Deliverables.
+
+FULL_TEXT:
+Project: tender_21628 - Fleet Motorpool Reservation System (Ontario Tenders Portal / Portail des appels d'offres de l'Ontario )
+Please wait until page loading is complete ..
+Continue page loading in background
+Enter Numbers (e.g. 123,456.78)
+Enter an integer
+Enter a Numeric Percentage
+Numeric Percentage, max 1 decimal digit
+Numeric Percentage, max 2 decimal digit
+Enter a numeric value, between 0 to 100 with max 1 decimal digit
+Percentage Score: Max 1 decimal digit (ex:95.5)
+Absolute Score: Max 3 decimal digit (ex: 95.555)
+dd/MM/yyyy
+HH:mm
+Go to : Navigation Menu
+Go to : Main Content
+Go to : Area List
+Go to : Page Actions List
+Choose language
+English (CA)
+French (CA)
+English (CA)
+Accessibility
+JAGGAER Service Privacy Policy
+Project: tender_21628 - Fleet Motorpool Reservation System
+Page Actions List
+Login or Register to Participate
+Area List
+Project Details
+Published Opportunity
+Main Content
+Details
+Project Reference
+Project Details
+Project Code
+tender_21628
+Project Title
+Fleet Motorpool Reservation System
+Project Reference
+Multi Lot Project
+No
+Project Type
+Services
+Project Categories
+25101500-Passenger motor vehicles
+25101700-Safety and rescue vehicles
+25172100-Vehicle safety and security systems and components
+25173100-Location and navigation systems and components
+25174800-Specialized vehicle systems and components
+46171700-Vehicle access control
+78181500-Vehicle maintenance and repair services
+Opportunity Details
+Detailed Description
+The Ministry requires a Vendor to supply and deliver the following Deliverables to the Ontario Provincial Police (“OPP”):  Fleet Motorpool Reservation System.
+Scope of Work
+The Ministry is seeking a Vendor to supply and deliver a Fleet Motorpool Reservation System. The Deliverables must comply and conform to all required features and specifications set out in Part 3 – The Deliverables.
+Work Category
+Other
+Procurement Route
+Open
+Opportunity First Publishing Date (dd/mm/yyyy hh:mm)
+08/05/2026 14:45
+Listing Expiry Date (dd/mm/yyyy hh:mm)
+12/06/2026 11:00
+Estimated Contract Start Date (dd/mm/yyyy)
+01/07/2026
+Estimated Value of Contract
+Opportunity Additional Information List
+Opportunity Attributes
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Estimated Contract Duration (Initial Term in Months)
+*
+Estimated Contract Duration (Initial Term in Months)
+60
+Buyer
+Additional Information - French
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Title (French)
+*
+Title (French)
+Un système de réservation pour parc automobile
+Buyer
+Detailed Description (French)
+*
+Detailed Description (French)
+Le ministère est à la recherche d’un fournisseur qui fournira et livrera les livrables suivants à la Police provinciale de l’Ontario :  Un système de réservation pour parc automobile
+Buyer
+Scope of Work (French)
+Scope of Work (French)
+Le ministère est à la recherche d’un fournisseur qui fournira et livrera un système de réservation pour parc automobile. Les livrables doivent respecter toutes les caractéristiques et spécifications indiquées à la partie 3, Livrables.
+Buyer
+Additional Information – Procuring Entity
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Ministry or Procuring Entity
+*
+Ministry or Procuring Entity
+Solicitor General
+Buyer
+Procuring Entity Street Address
+*
+Procuring Entity Street Address
+777 Memorial Avenue
+Buyer
+Procuring Entity City
+*
+Procuring Entity City
+Orillia
+Buyer
+Procuring Entity Province
+*
+Procuring Entity Province
+Ontario
+Buyer
+Procuring Entity Postal Code
+*
+Procuring Entity Postal Code
+L3V 7V3
+Buyer
+Additional Information – Region Of Service
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Region of Service
+*
+Region of Service
+Ontario
+Buyer
+Region of Service Other:
+Region of Service Other:
+Buyer
+Regional Code
+*
+Regional Code
+ON
+Buyer
+Information Session / Site Meeting
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Information Session
+*
+Information Session
+No
+Buyer
+Information Session Date and Time (dd/mm/yyyy) (hh:mm)
+Information Session Date and Time
+Buyer
+Site Meeting
+*
+Site Meeting
+No
+Buyer
+Site Meeting Date and Time (dd/mm/yyyy) (hh:mm)
+Site Meeting Date and Time
+Buyer
+Submission
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Bid Security Required
+*
+Bid Security Required
+No
+Buyer
+Submission Address
+Submission Address
+Buyer
+Procurement Contact
+Label
+Description
+Value Assigned by Buyer
+Editable By
+Contact Name
+*
+Contact Name
+Cathy Rodgers
+Buyer
+Contact Email Address
+*
+Contact Email Address
+Ontario Tenders Portal eTendering System online messaging function
+Buyer
+Contact Phone Number
+*
+Contact Phone Number
+111-111-1111
+Buyer
+Contact Fax Number
+Contact Fax Number
+Buyer
+Preferred Method of Communication
+*
+Preferred Method of Communication
+E-Tendering Software
+Buyer
+Published Lots
+Published Lots
+Row Number
+Icon Column
+Code
+Title
+Time Limit to Express Interest
+Action Column
+1
+RFx
+rfx_19878
+Fleet Motorpool Reservation System
+12/06/2026 11:00
+Buyer Details
+Buyer Organization
+Government of Ontario
+Contact
+Cathy Rodgers
+Email
+...Task in progress...
+Back To List
+Close
+Cancel
+Confirm
+The Language has been successfully modified. The new language will be loaded from the next page.
+Close

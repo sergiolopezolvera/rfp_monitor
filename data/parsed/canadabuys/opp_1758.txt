@@ -1,0 +1,34 @@
+Title: City of Medicine Hat - Negotiated Request for Proposal - CMH26-85 - Learning Management System (LMS)
+
+Solicitation number: AB-2026-03823
+
+Publication date: 2026-05-15
+
+Closing date: 2026-05-28
+
+Notice type: Request for Proposal
+
+Language(s): English
+
+Region(s) of delivery: Alberta
+
+Contract duration: 60 month(s)
+
+Procurement method: Competitive – Open Bidding
+
+Commodity: 43231500 Business function specific software | 43000000 Information Technology Broadcasting and Telecommunications | 43230000 Software | 43231505 Human resources software | 43231513 Office suite software | 43232400 Development software | 43232401 Configuration management software | 43232500 Educational or reference software
+
+Organization: City of Medicine Hat
+
+Contracting authority: Joanne Bruneau-Carter
+
+Email: joabru@medicinehat.ca
+
+Description:
+This Request for Proposals (the “RFP”) is an invitation by the City of Medicine Hat (the “City”) to prospective proponents to submit proposals for Learning Management System (LMS) as further described in Appendix D (RFP Particulars) Section A (the “Deliverables”).
+The City of Medicine Hat (“the City”) is seeking proposals from qualified vendors to provide a modern, user-friendly, and secure Corporate Learning Management System (LMS) to support corporate training, onboarding, compliance, safety, professional development, and certification tracking for employees, volunteers, and other external learners.
+The LMS will streamline end-to-end content delivery, automate assignments and reminders, standardize reporting, and integrate with the City’s existing identity, collaboration, and human resources systems. The LMS will be used to support the City’s internal training requirements and is not intended to be used to sell, market, or deliver training services to external organizations, nor to function as an educational-institution learning platform.
+The LMS must be available 24 hours a day, 7 days a week, and support learning and development for approximately 1,500 employees across various departments. The proposed solution must be scalable to accommodate future growth, including increases in user licensing and evolving training and development requirements.
+
+Trade agreements:
+Canadian Free Trade Agreement (CFTA)

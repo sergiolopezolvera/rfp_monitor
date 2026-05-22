@@ -1,0 +1,40 @@
+Title: 229265 - RFP 26-001 BI Transformation
+
+Status: This solicitation is OPEN
+
+Reference Number: 00005039017
+
+Solicitation Number: 229265
+
+Issuing Organization: Legal Services Society of British Columbia
+
+Solicitation Type: RFP - Request for Proposal (Formal)
+
+Location: British Columbia
+
+Purchase Type: Not Stated
+
+Publication date: 2026-05-12
+
+Closing date: 2026-06-10
+
+Contact name: Hafsa Hafsa
+
+Contact email: Hafsa.Hafsa@legalaid.bc.ca
+
+AI Overview:
+Legal Aid BC is seeking proposals from qualified firms to lead the design, implementation, and delivery of a modern enterprise Business Intelligence and analytics platform using Microsoft Power BI and Azure Fabric Data Warehouse.
+
+Description:
+Legal Aid BC (LABC) is seeking proposals from qualified firms to lead the design, implementation, and delivery of a modern enterprise Business Intelligence (BI) and analytics platform using Microsoft Power BI and Azure Fabric Data Warehouse (AFDW). The selected vendor will assess and enhance LABC’s existing environment, migrate legacy data assets and MicroStrategy reports to the new platform, and implement the data structures, pipelines, governance practices, security controls, and reporting capabilities required to support reliable enterprise reporting and analytics.
+As part of LABC’s broader Digital Transformation Program, the successful Proponent will also support the development of LABC’s Data and Analytics practice through data governance, operational capability building, and readiness for future AI and advanced analytics initiatives.
+The selected vendor will also provide professional services resources to augment LABC’s internal team and support the successful implementation, adoption, operational transition, and sustainment of the BI platform.
+See more
+
+Disclaimer:
+Disclaimer
+All amendments to the associated notice, including amended documents, plans and specifications (where applicable), are issued on
+bcbid.gov.bc.ca
+. MERX asks that you refer to the
+bcbid.gov.bc.ca
+notice for these amendments. MERX stipulates that potential bidders may also be required to register with the buying authority as a bidder/plan taker. The contact information can be found within the notice abstract.

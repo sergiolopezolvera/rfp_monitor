@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% block title %}RFP Monitor Dashboard{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='/styles.css') }}" />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="topbar">
+        <div class="brand">
+          <p class="meta">Local control panel for the existing pipeline</p>
+          <h1>RFP Monitor</h1>
+          <p>FastAPI dashboard on top of the current CLI, services, and SQLite database.</p>
+        </div>
+        <div class="meta">Run locally with <code>uvicorn app.web.main:app --reload</code></div>
+      </header>
+
+      <nav class="nav">
+        <a href="/dashboard" class="{% if active_nav == 'dashboard' %}active{% endif %}">Dashboard</a>
+        <a href="/sources" class="{% if active_nav == 'sources' %}active{% endif %}">Sources</a>
+        <a href="/opportunities" class="{% if active_nav == 'opportunities' %}active{% endif %}">Opportunities</a>
+      </nav>
+
+      {% if flash.message %}
+        <div class="flash {{ flash.level }}">{{ flash.message }}</div>
+      {% endif %}
+
+      {% block content %}{% endblock %}
+    </div>
+  </body>
+</html>
