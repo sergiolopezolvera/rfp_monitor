@@ -6307,3 +6307,7 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-05-17 13:58:56 | INFO | rfp_monitor | Opportunity analysis completed. processed=7 created=7 errors=0
 2026-05-17 13:59:36 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=19 path=data/exports/new_opportunities_non_fit_last_7_days_all_sources_2026-05-17.xlsx
 2026-05-17 13:59:36 | INFO | rfp_monitor | Completed export-new-opportunities command.
+2026-05-22 05:55:00 | INFO | rfp_monitor | Bids & Tenders ingestion completed. total=1 new=0 existing=1
+2026-05-22 05:55:00 | INFO | rfp_monitor | Fetched 1 Bids & Tenders items.
+2026-05-22 05:55:01 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=0 path=/tmp/pytest-of-jules/pytest-0/test_export_new_opportunities_0/weekly_export.xlsx
+2026-05-22 05:55:01 | INFO | rfp_monitor | MERX detail fetch completed for 1 opportunities.
