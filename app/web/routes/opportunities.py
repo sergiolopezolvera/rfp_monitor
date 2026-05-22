@@ -19,8 +19,10 @@ def opportunities_page(
     source: str | None = Query(default=None),
     status: str | None = Query(default=None),
     fit_result: str | None = Query(default=None),
-    closing_from: date | None = Query(default=None),
-    closing_to: date | None = Query(default=None),
+    fit_level: str | None = Query(default=None),
+    created_from: date | None = Query(default=None),
+    created_to: date | None = Query(default=None),
+    closing_after: date | None = Query(default=None),
     db: Session = Depends(get_db),
 ):
     today = date.today()
@@ -32,8 +34,10 @@ def opportunities_page(
         source_name=source,
         status=status,
         fit_result=fit_result,
-        closing_from=closing_from,
-        closing_to=closing_to,
+        fit_level=fit_level,
+        created_from=created_from,
+        created_to=created_to,
+        closing_after=closing_after,
     )
     return templates.TemplateResponse(
         request=request,
@@ -45,13 +49,10 @@ def opportunities_page(
                 "source": source or "",
                 "status": status or "",
                 "fit_result": fit_result or "",
-                "closing_from": closing_from.isoformat() if closing_from else "",
-                "closing_to": closing_to.isoformat() if closing_to else "",
-            },
-            "export_filters": {
-                "created_from": "",
-                "created_to": "",
-                "closing_after": "",
+                "fit_level": fit_level or "",
+                "created_from": created_from.isoformat() if created_from else "",
+                "created_to": created_to.isoformat() if created_to else "",
+                "closing_after": closing_after.isoformat() if closing_after else "",
             },
             "this_week": {
                 "start": week_start.isoformat(),
@@ -71,6 +72,7 @@ def export_opportunities(
     source: str | None = Query(default=None),
     status: str | None = Query(default=None),
     fit_result: str | None = Query(default=None),
+    fit_level: str | None = Query(default=None),
     db: Session = Depends(get_db),
 ):
     result = export_opportunities_to_excel(
@@ -81,6 +83,7 @@ def export_opportunities(
         source_name=source,
         status=status,
         fit_result=fit_result,
+        fit_level=fit_level,
     )
     return FileResponse(
         result.output_path,

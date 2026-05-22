@@ -216,6 +216,7 @@ def export_opportunities_to_excel(
     source_name: str | None = None,
     status: str | None = None,
     fit_result: str | None = None,
+    fit_level: str | None = None,
     output_path: Path | None = None,
 ) -> ExportRunResult:
     settings.ensure_directories()
@@ -247,7 +248,11 @@ def export_opportunities_to_excel(
         for opp in opportunities:
             latest_analysis = _get_latest_analysis(opp)
             if fit_result == "fit" and latest_analysis and latest_analysis.is_fit is True:
-                filtered.append(opp)
+                if fit_level:
+                    if str(latest_analysis.fit_score) == fit_level:
+                        filtered.append(opp)
+                else:
+                    filtered.append(opp)
             elif fit_result == "not_fit" and latest_analysis and latest_analysis.is_fit is False:
                 filtered.append(opp)
             elif fit_result == "unanalyzed" and latest_analysis is None:
