@@ -215,7 +215,8 @@ th {
 }
 
 .toolbar,
-.action-bar {
+.action-bar,
+.export-toolbar {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
@@ -223,6 +224,22 @@ th {
 
 .toolbar {
   margin-bottom: 18px;
+}
+
+.export-toolbar {
+  align-items: end;
+  margin: 0 0 18px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: #f8fafc;
+}
+
+.export-toolbar label {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 0.88rem;
 }
 
 form.inline,
@@ -257,6 +274,12 @@ button {
   background: var(--accent);
   color: #fff;
   cursor: pointer;
+}
+
+button.secondary {
+  background: #ffffff;
+  color: var(--accent);
+  border: 1px solid var(--line);
 }
 
 button.secondary {

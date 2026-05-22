@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session, sessionmaker
 
 from app.db import Base
 from app.models import Opportunity, Source, LLMAnalysis
-from app.services.export_service import export_new_opportunities_to_excel
+from app.services.export_service import export_new_opportunities_to_excel, export_opportunities_to_excel
 
 
 def _build_session() -> Session:
@@ -90,3 +90,72 @@ def test_export_new_opportunities_to_excel_only_includes_last_week(tmp_path: Pat
     assert "Old RFP" not in sheet_xml
     assert "chiefs_of_ontario" in sheet_xml
     assert "nationtalk" in sheet_xml
+
+
+def test_export_opportunities_to_excel_filters_by_created_and_closing_dates(tmp_path: Path) -> None:
+    db = _build_session()
+    source = Source(name="bidsandtenders", base_url="https://bids.bidsandtenders.ca")
+    db.add(source)
+    db.commit()
+    db.refresh(source)
+
+    included = Opportunity(
+        source_id=source.id,
+        url="https://example.com/included",
+        title="Included RFP",
+        organization="City of Example",
+        publication_date=date(2026, 5, 18),
+        closing_date=date(2026, 6, 15),
+        status="detail_fetched",
+        description_raw="Included opportunity",
+        created_at=datetime(2026, 5, 20, 11, 30),
+        updated_at=datetime(2026, 5, 20, 12, 0),
+    )
+    wrong_scrape_date = Opportunity(
+        source_id=source.id,
+        url="https://example.com/wrong-scrape-date",
+        title="Wrong Scrape Date RFP",
+        organization="City of Example",
+        publication_date=date(2026, 5, 18),
+        closing_date=date(2026, 6, 15),
+        status="detail_fetched",
+        description_raw="Old scrape",
+        created_at=datetime(2026, 5, 10, 9, 0),
+        updated_at=datetime(2026, 5, 10, 9, 30),
+    )
+    wrong_closing_date = Opportunity(
+        source_id=source.id,
+        url="https://example.com/wrong-closing-date",
+        title="Wrong Closing Date RFP",
+        organization="City of Example",
+        publication_date=date(2026, 5, 18),
+        closing_date=date(2026, 5, 22),
+        status="detail_fetched",
+        description_raw="Closing too soon",
+        created_at=datetime(2026, 5, 21, 14, 0),
+        updated_at=datetime(2026, 5, 21, 14, 30),
+    )
+    db.add_all([included, wrong_scrape_date, wrong_closing_date])
+    db.commit()
+
+    output_path = tmp_path / "filtered_export.xlsx"
+    result = export_opportunities_to_excel(
+        db,
+        created_from=date(2026, 5, 19),
+        created_to=date(2026, 5, 22),
+        closing_after=date(2026, 6, 1),
+        source_name="bidsandtenders",
+        output_path=output_path,
+    )
+
+    assert result.exported_count == 1
+    assert result.output_path == output_path
+    assert output_path.exists()
+
+    with ZipFile(output_path) as workbook:
+        sheet_xml = workbook.read("xl/worksheets/sheet1.xml").decode("utf-8")
+
+    assert "Included RFP" in sheet_xml
+    assert "Wrong Scrape Date RFP" not in sheet_xml
+    assert "Wrong Closing Date RFP" not in sheet_xml
+    assert "created_at" in sheet_xml

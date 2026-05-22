@@ -33,6 +33,35 @@
       <a href="/opportunities" class="badge">Reset</a>
     </form>
 
+    <form method="get" action="/opportunities/export" class="export-toolbar">
+      <input type="hidden" name="source" value="{{ current_filters.source }}" />
+      <input type="hidden" name="status" value="{{ current_filters.status }}" />
+      <input type="hidden" name="fit_result" value="{{ current_filters.fit_result }}" />
+
+      <label>
+        Scraped from
+        <input id="export-created-from" type="date" name="created_from" value="{{ export_filters.created_from }}" />
+      </label>
+      <label>
+        Scraped to
+        <input id="export-created-to" type="date" name="created_to" value="{{ export_filters.created_to }}" />
+      </label>
+      <label>
+        Closing after
+        <input type="date" name="closing_after" value="{{ current_filters.closing_from }}" />
+      </label>
+      <button
+        type="button"
+        class="secondary"
+        id="export-this-week"
+        data-week-start="{{ this_week.start }}"
+        data-week-end="{{ this_week.end }}"
+      >
+        This week
+      </button>
+      <button type="submit">Export</button>
+    </form>
+
     <div class="table-wrap">
       <table>
         <thead>
@@ -43,6 +72,7 @@
             <th>Organization</th>
             <th>Publication date</th>
             <th>Closing date</th>
+            <th>Scraped date</th>
             <th>Status</th>
             <th>Fit score</th>
             <th>Analysis status</th>
@@ -58,6 +88,7 @@
               <td>{{ row.opportunity.organization or "n/a" }}</td>
               <td>{{ row.opportunity.publication_date.isoformat() if row.opportunity.publication_date else "n/a" }}</td>
               <td>{{ row.opportunity.closing_date.isoformat() if row.opportunity.closing_date else "n/a" }}</td>
+              <td>{{ row.opportunity.created_at.date().isoformat() if row.opportunity.created_at else "n/a" }}</td>
               <td><span class="badge">{{ row.opportunity.status }}</span></td>
               <td>
                 {% if row.latest_analysis and row.latest_analysis.fit_score == 3 %}High
@@ -76,7 +107,7 @@
             </tr>
           {% else %}
             <tr>
-              <td colspan="10" class="subtle">No opportunities matched the current filters.</td>
+              <td colspan="11" class="subtle">No opportunities matched the current filters.</td>
             </tr>
           {% endfor %}
         </tbody>
@@ -107,4 +138,14 @@
       </div>
     </div>
   </section>
+
+  <script>
+    const thisWeekButton = document.getElementById("export-this-week");
+    if (thisWeekButton) {
+      thisWeekButton.addEventListener("click", () => {
+        document.getElementById("export-created-from").value = thisWeekButton.dataset.weekStart;
+        document.getElementById("export-created-to").value = thisWeekButton.dataset.weekEnd;
+      });
+    }
+  </script>
 {% endblock %}
