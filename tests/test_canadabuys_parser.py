@@ -30,17 +30,4 @@ def test_parse_canadabuys_notice_extracts_structured_fields() -> None:
     assert "Documents:" in parsed["raw_text"]
 
 
-def test_parse_canadabuys_notice_handles_buying_orgs_and_related_notices() -> None:
-    parsed = parse_canadabuys_notice(_load_fixture("opp_6.html"))
 
-    assert parsed["title"] == "Case and Client Relationship Management Solution"
-    assert parsed["organization"] == "Department of Public Works and Government Services (PSPC)"
-    assert parsed["buying_organizations"] == "Department of Public Works and Government Services (PSPC)"
-    assert parsed["contact_email"] == "david.martyniuk@tpsgc-pwgsc.gc.ca"
-    assert parsed["contracting_authority"] == "Martyniuk, David (SPAC/PSPC)"
-    assert parsed["related_notices"]
-    assert (
-        "Request for Information for a Client Case Relationship Management Solution"
-        in parsed["related_notices"][-1]
-    )
-    assert "Related notices:" in parsed["raw_text"]

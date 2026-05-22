@@ -1,11 +1,12 @@
-{% extends "base.html" %}
+import re
 
-{% block title %}Opportunities | RFP Monitor{% endblock %}
+with open("app/web/templates/opportunities.html", "r") as f:
+    content = f.read()
 
-{% block content %}
-  <section class="panel">
-    <h2>Opportunity Review Queue</h2>
-    <form method="get" action="/opportunities" class="toolbar" style="flex-wrap: wrap; gap: 1rem;">
+# Replace the two forms with a single unified form
+old_forms_regex = r"<form method=\"get\" action=\"/opportunities\" class=\"toolbar\">.*?</form>\s*<form method=\"get\" action=\"/opportunities/export\" class=\"export-toolbar\">.*?</form>"
+
+new_form = """<form method="get" action="/opportunities" class="toolbar" style="flex-wrap: wrap; gap: 1rem;">
       <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; width: 100%;">
         <select name="source">
           <option value="">All sources</option>
@@ -66,86 +67,12 @@
           <a href="/opportunities" class="badge">Reset</a>
         </div>
       </div>
-    </form>
+    </form>"""
 
-    <div class="table-wrap">
-      <table>
-        <thead>
-          <tr>
-            <th>ID</th>
-            <th>Source</th>
-            <th>Title</th>
-            <th>Organization</th>
-            <th>Publication date</th>
-            <th>Closing date</th>
-            <th>Scraped date</th>
-            <th>Status</th>
-            <th>Fit score</th>
-            <th>Analysis status</th>
-            <th>Detail</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for row in page_data.items %}
-            <tr>
-              <td>{{ row.opportunity.id }}</td>
-              <td>{{ row.source.name }}</td>
-              <td>{{ row.opportunity.title or "Untitled opportunity" }}</td>
-              <td>{{ row.opportunity.organization or "n/a" }}</td>
-              <td>{{ row.opportunity.publication_date.isoformat() if row.opportunity.publication_date else "n/a" }}</td>
-              <td>{{ row.opportunity.closing_date.isoformat() if row.opportunity.closing_date else "n/a" }}</td>
-              <td>{{ row.opportunity.created_at.date().isoformat() if row.opportunity.created_at else "n/a" }}</td>
-              <td><span class="badge">{{ row.opportunity.status }}</span></td>
-              <td>
-                {% if row.latest_analysis and row.latest_analysis.fit_score == 3 %}High
-                {% elif row.latest_analysis and row.latest_analysis.fit_score == 2 %}Medium
-                {% elif row.latest_analysis and row.latest_analysis.fit_score == 1 %}Low
-                {% else %}n/a{% endif %}
-              </td>
-              <td>
-                {% if row.latest_analysis %}
-                  <span class="badge success">Analyzed</span>
-                {% else %}
-                  <span class="badge warn">Pending</span>
-                {% endif %}
-              </td>
-              <td><a href="/opportunities/{{ row.opportunity.id }}">Open</a></td>
-            </tr>
-          {% else %}
-            <tr>
-              <td colspan="11" class="subtle">No opportunities matched the current filters.</td>
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    </div>
+content = re.sub(old_forms_regex, new_form, content, flags=re.DOTALL)
 
-    <div class="pagination">
-      <div class="subtle">
-        Page {{ page_data.page }} of {{ page_data.total_pages }} · {{ page_data.total_items }} total opportunities
-      </div>
-      <div class="action-bar">
-        {% if page_data.page > 1 %}
-          <a
-            class="badge"
-            href="?page={{ page_data.page - 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&fit_level={{ current_filters.fit_level }}&created_from={{ current_filters.created_from }}&created_to={{ current_filters.created_to }}&closing_after={{ current_filters.closing_after }}"
-          >
-            Previous
-          </a>
-        {% endif %}
-        {% if page_data.page < page_data.total_pages %}
-          <a
-            class="badge"
-            href="?page={{ page_data.page + 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&fit_level={{ current_filters.fit_level }}&created_from={{ current_filters.created_from }}&created_to={{ current_filters.created_to }}&closing_after={{ current_filters.closing_after }}"
-          >
-            Next
-          </a>
-        {% endif %}
-      </div>
-    </div>
-  </section>
-
-
+# Add javascript to toggle the fit level dropdown
+js_to_add = """
   <script>
     const fitResultSelect = document.getElementById("fit_result");
     const fitLevelSelect = document.getElementById("fit_level");
@@ -169,5 +96,29 @@
       });
     }
   </script>
+"""
 
-{% endblock %}
+# Replace the old script block
+old_script_block = """  <script>
+    const thisWeekButton = document.getElementById("export-this-week");
+    if (thisWeekButton) {
+      thisWeekButton.addEventListener("click", () => {
+        document.getElementById("export-created-from").value = thisWeekButton.dataset.weekStart;
+        document.getElementById("export-created-to").value = thisWeekButton.dataset.weekEnd;
+      });
+    }
+  </script>"""
+
+content = content.replace(old_script_block, js_to_add)
+
+# update pagination
+old_pag_link1 = """?page={{ page_data.page - 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&closing_from={{ current_filters.closing_from }}&closing_to={{ current_filters.closing_to }}"""
+new_pag_link1 = """?page={{ page_data.page - 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&fit_level={{ current_filters.fit_level }}&created_from={{ current_filters.created_from }}&created_to={{ current_filters.created_to }}&closing_after={{ current_filters.closing_after }}"""
+
+old_pag_link2 = """?page={{ page_data.page + 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&closing_from={{ current_filters.closing_from }}&closing_to={{ current_filters.closing_to }}"""
+new_pag_link2 = """?page={{ page_data.page + 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&fit_level={{ current_filters.fit_level }}&created_from={{ current_filters.created_from }}&created_to={{ current_filters.created_to }}&closing_after={{ current_filters.closing_after }}"""
+
+content = content.replace(old_pag_link1, new_pag_link1).replace(old_pag_link2, new_pag_link2)
+
+with open("app/web/templates/opportunities.html", "w") as f:
+    f.write(content)

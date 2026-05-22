@@ -257,8 +257,10 @@ def list_opportunities_page(
     source_name: str | None = None,
     status: str | None = None,
     fit_result: str | None = None,
-    closing_from: date | None = None,
-    closing_to: date | None = None,
+    fit_level: str | None = None,
+    created_from: date | None = None,
+    created_to: date | None = None,
+    closing_after: date | None = None,
 ) -> OpportunityPage:
     latest_analysis_sq, latest_analysis = _latest_analysis_join()
     base_stmt = (
@@ -272,12 +274,21 @@ def list_opportunities_page(
         base_stmt = base_stmt.where(Source.name == source_name)
     if status:
         base_stmt = base_stmt.where(Opportunity.status == status)
-    if closing_from:
-        base_stmt = base_stmt.where(Opportunity.closing_date >= closing_from)
-    if closing_to:
-        base_stmt = base_stmt.where(Opportunity.closing_date <= closing_to)
+    if created_from:
+        base_stmt = base_stmt.where(Opportunity.created_at >= datetime.combine(created_from, datetime.min.time()))
+    if created_to:
+        base_stmt = base_stmt.where(Opportunity.created_at < datetime.combine(created_to + timedelta(days=1), datetime.min.time()))
+    if closing_after:
+        base_stmt = base_stmt.where(Opportunity.closing_date >= closing_after)
+
     if fit_result == "fit":
         base_stmt = base_stmt.where(latest_analysis.is_fit.is_(True))
+        if fit_level == "3":
+            base_stmt = base_stmt.where(latest_analysis.fit_score == 3)
+        elif fit_level == "2":
+            base_stmt = base_stmt.where(latest_analysis.fit_score == 2)
+        elif fit_level == "1":
+            base_stmt = base_stmt.where(latest_analysis.fit_score == 1)
     elif fit_result == "not_fit":
         base_stmt = base_stmt.where(latest_analysis.is_fit.is_(False))
     elif fit_result == "unanalyzed":

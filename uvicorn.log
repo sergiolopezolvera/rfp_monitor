@@ -1,6 +1,13 @@
-INFO:     Started server process [116934]
+INFO:     Will watch for changes in these directories: ['/app']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [107831] using StatReload
+INFO:     Started server process [109294]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
-INFO:     127.0.0.1:47250 - "GET /dashboard HTTP/1.1" 200 OK
-INFO:     127.0.0.1:48358 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58570 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58570 - "GET /static/styles.css?v=2 HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [109294]
+INFO:     Stopping reloader process [107831]
