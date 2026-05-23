@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from pydantic import Field
+from pydantic import Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -18,6 +18,14 @@ class Settings(BaseSettings):
     parsed_dir: Path = Field(default=Path("data/parsed"), alias="PARSED_DIR")
     export_dir: Path = Field(default=Path("data/exports"), alias="EXPORT_DIR")
     log_dir: Path = Field(default=Path("data/logs"), alias="LOG_DIR")
+
+
+    @field_validator("database_url", mode="before")
+    @classmethod
+    def set_default_db_if_empty(cls, v: str | None) -> str:
+        if not v:
+            return "sqlite:///data/rfp_monitor.db"
+        return v
 
     model_config = SettingsConfigDict(
         env_file=".env",
