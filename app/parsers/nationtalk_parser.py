@@ -3,7 +3,7 @@ from __future__ import annotations
 from datetime import date, datetime
 from typing import Any
 
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 
 
 def _normalize(value: str | None) -> str | None:

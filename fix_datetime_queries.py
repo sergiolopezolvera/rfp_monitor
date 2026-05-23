@@ -1,6 +1,5 @@
-import re
 
-with open("app/web/queries.py", "r") as f:
+with open("app/web/queries.py") as f:
     content = f.read()
 
 # I used datetime.min.time() which requires time import or datetime.min.time

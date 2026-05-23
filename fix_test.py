@@ -1,6 +1,5 @@
-import re
 
-with open("tests/test_canadabuys_parser.py", "r") as f:
+with open("tests/test_canadabuys_parser.py") as f:
     content = f.read()
 
 # Let's read what opp_6.html expects. It says:

@@ -1,2 +1,3 @@
-from datetime import date, datetime, timedelta
+from datetime import date, datetime
+
 print(datetime.combine(date.today(), datetime.min.time()))

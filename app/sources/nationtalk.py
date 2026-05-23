@@ -10,7 +10,6 @@ import httpx
 from app.logger import logger
 from app.schemas import FeedOpportunity
 
-
 NATIONTALK_BASE_URL = "https://nationtalk.ca"
 NATIONTALK_TENDERS_RSS_URL = "https://nationtalk.ca/feed?post_type=vl_tenders"
 

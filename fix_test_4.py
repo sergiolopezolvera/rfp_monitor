@@ -1,6 +1,5 @@
-import re
 
-with open("tests/test_canadabuys_parser.py", "r") as f:
+with open("tests/test_canadabuys_parser.py") as f:
     content = f.read()
 
 content = content.replace('assert parsed["contact_email"] == "david.martyniuk@tpsgc-pwgsc.gc.ca"', 'assert parsed["contact_email"] == "Kevin.Hailemariam@cra-arc.gc.ca"')

@@ -1,11 +1,10 @@
 from __future__ import annotations
 
-from datetime import date, datetime
 import re
+from datetime import date, datetime
 from typing import Any
 
 from bs4 import BeautifulSoup, Tag
-
 
 DATE_RE = re.compile(r"\b\d{2}/\d{2}/\d{4}(?:\s+\d{2}:\d{2}(?::\d{2})?)?\b")
 

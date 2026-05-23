@@ -1,6 +1,6 @@
 import re
 
-with open("app/services/export_service.py", "r") as f:
+with open("app/services/export_service.py") as f:
     content = f.read()
 
 # Modify `export_opportunities_to_excel` to accept `fit_level`

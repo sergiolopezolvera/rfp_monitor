@@ -1,11 +1,10 @@
 from __future__ import annotations
 
-from datetime import date, datetime
 import re
+from datetime import date, datetime
 from typing import Any
 
 from bs4 import BeautifulSoup, Tag
-
 
 ORDINAL_RE = re.compile(r"(\d+)(st|nd|rd|th)", re.IGNORECASE)
 

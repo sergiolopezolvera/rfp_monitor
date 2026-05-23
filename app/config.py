@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     app_env: str = Field(default="development", alias="APP_ENV")
     log_level: str = Field(default="INFO", alias="LOG_LEVEL")
 
-    database_url: str = Field(default="sqlite:///rfp_monitor.db", alias="DATABASE_URL")
+    database_url: str = Field(default="sqlite:///data/rfp_monitor.db", alias="DATABASE_URL")
 
     openai_api_key: str | None = Field(default=None, alias="OPENAI_API_KEY")
     openai_model: str = Field(default="gpt-4.1-mini", alias="OPENAI_MODEL")

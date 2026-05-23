@@ -10,7 +10,6 @@ import httpx
 from app.logger import logger
 from app.schemas import FeedOpportunity
 
-
 CANADABUYS_RSS_URL = (
     "https://canadabuys.canada.ca/en/search-feed?"
     "q=a%3a9%3a%7bs%3a13%3a%22search_filter%22%3Ba%3a1%3a%7bi%3a0%3Bs%3a0%3a%22%22%3B%7d"

@@ -1,6 +1,6 @@
 import re
 
-with open("app/web/queries.py", "r") as f:
+with open("app/web/queries.py") as f:
     content = f.read()
 
 # I need to find the `list_opportunities_page` signature and update it

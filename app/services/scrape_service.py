@@ -5,26 +5,24 @@ from sqlalchemy.orm import Session
 
 from app.logger import logger
 from app.models import ScrapeRun
-from app.parsers.canadabuys_parser import parse_canadabuys_notice
-from app.parsers.merx_parser import parse_merx_notice
 from app.parsers.bidsandtenders_parser import parse_bidsandtenders_notice
-from app.parsers.ontariotenders_parser import parse_ontario_tenders_notice
-from app.parsers.nationtalk_parser import parse_nationtalk_notice
+from app.parsers.canadabuys_parser import parse_canadabuys_notice
 from app.parsers.chiefsofontario_parser import parse_chiefs_of_ontario_notice
-
+from app.parsers.merx_parser import parse_merx_notice
+from app.parsers.nationtalk_parser import parse_nationtalk_notice
+from app.parsers.ontariotenders_parser import parse_ontario_tenders_notice
 from app.repositories.opportunities import (
     get_or_create_opportunity,
     list_opportunities_for_detail_fetch,
     update_opportunity,
 )
 from app.repositories.sources import get_source_by_name
-from app.sources.canadabuys import CanadaBuysConnector
-from app.sources.merx import MerxConnector
 from app.sources.bidsandtenders import BidsAndTendersConnector
-from app.sources.ontariotenders import OntarioTendersConnector
-from app.sources.nationtalk import NationTalkConnector
+from app.sources.canadabuys import CanadaBuysConnector
 from app.sources.chiefsofontario import ChiefsOfOntarioConnector
-
+from app.sources.merx import MerxConnector
+from app.sources.nationtalk import NationTalkConnector
+from app.sources.ontariotenders import OntarioTendersConnector
 from app.utils.files import build_raw_html_path, build_raw_text_path, write_text_file
 from app.utils.hashing import sha256_text
 

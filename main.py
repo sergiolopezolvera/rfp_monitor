@@ -1,28 +1,28 @@
 import typer
 from rich import print
 
+import app.models  # noqa: F401
 from app.config import settings
 from app.db import Base, SessionLocal, engine
 from app.logger import logger
-import app.models  # noqa: F401
-from app.services.source_service import get_all_sources, seed_default_sources
 from app.repositories.opportunities import list_opportunities as repo_list_opportunities
-from app.services.scrape_service import (
-    fetch_canadabuys_details,
-    fetch_merx_details,
-    fetch_bidsandtenders_details,
-    ingest_canadabuys_feed,
-    ingest_merx_feed,
-    ingest_bidsandtenders_feed,
-    fetch_ontario_tenders_details,
-    ingest_ontario_tenders_feed,
-    ingest_nationtalk_feed,
-    fetch_nationtalk_details,
-    ingest_chiefs_of_ontario_feed,
-    fetch_chiefs_of_ontario_details,
-)
 from app.services.analysis_service import analyze_opportunities
 from app.services.export_service import export_new_opportunities_to_excel
+from app.services.scrape_service import (
+    fetch_bidsandtenders_details,
+    fetch_canadabuys_details,
+    fetch_chiefs_of_ontario_details,
+    fetch_merx_details,
+    fetch_nationtalk_details,
+    fetch_ontario_tenders_details,
+    ingest_bidsandtenders_feed,
+    ingest_canadabuys_feed,
+    ingest_chiefs_of_ontario_feed,
+    ingest_merx_feed,
+    ingest_nationtalk_feed,
+    ingest_ontario_tenders_feed,
+)
+from app.services.source_service import get_all_sources, seed_default_sources
 
 app = typer.Typer(help="RFP monitoring CLI")
 

@@ -14,8 +14,6 @@ from app.config import settings
 from app.logger import logger
 from app.models import LLMAnalysis, Opportunity, Source
 
-
-
 PROMPTS_DIR = Path("app/llm/prompts")
 SYSTEM_PROMPT_PATH = PROMPTS_DIR / "system_prompt.txt"
 FIRM_PROFILE_PATH = PROMPTS_DIR / "firm_profile.txt"

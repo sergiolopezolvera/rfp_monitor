@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup, Tag
 from app.logger import logger
 from app.schemas import FeedOpportunity
 
-
 CHIEFS_OF_ONTARIO_BASE_URL = "https://chiefs-of-ontario.org"
 UPDATES_PATH = "/about/updates/"
 DEFAULT_PAGES = 5

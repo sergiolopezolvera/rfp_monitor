@@ -2,7 +2,6 @@ from pathlib import Path
 
 from app.parsers.chiefsofontario_parser import parse_chiefs_of_ontario_notice
 
-
 FIXTURES_DIR = Path(__file__).resolve().parents[1] / "data" / "raw" / "chiefs_of_ontario"
 
 
