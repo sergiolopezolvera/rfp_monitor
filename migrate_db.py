@@ -16,7 +16,7 @@ def migrate():
     print(f"Migrating to {pg_url}...")
 
     # We need connect_args to make sure we use SSL to connect to Render's postgres instances from within python, bypassing sqlalchemy's issues
-    pg_engine = create_engine(pg_url, connect_args={"sslmode": "require"})
+    pg_engine = create_engine(pg_url)
 
     # Ensure tables exist
     Base.metadata.create_all(pg_engine)

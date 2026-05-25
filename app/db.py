@@ -9,8 +9,6 @@ class Base(DeclarativeBase):
 
 
 connect_args = {}
-if settings.database_url.startswith("postgres"):
-    connect_args["sslmode"] = "require"
 
 engine = create_engine(
     settings.database_url,
