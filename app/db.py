@@ -1,3 +1,4 @@
+from urllib.parse import urlparse
 from sqlalchemy import create_engine
 from sqlalchemy.orm import DeclarativeBase, sessionmaker
 
@@ -9,8 +10,11 @@ class Base(DeclarativeBase):
 
 
 connect_args = {}
-if settings.database_url.startswith("postgres"):
-    connect_args["sslmode"] = "require"
+
+if settings.database_url:
+    parsed_url = urlparse(settings.database_url)
+    if parsed_url.hostname and ("render.com" in parsed_url.hostname or "supabase" in parsed_url.hostname):
+        connect_args["sslmode"] = "require"
 
 engine = create_engine(
     settings.database_url,

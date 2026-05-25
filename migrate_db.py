@@ -1,5 +1,6 @@
 import os
 import sys
+from urllib.parse import urlparse
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -15,8 +16,12 @@ def migrate():
 
     print(f"Migrating to {pg_url}...")
 
-    # We need connect_args to make sure we use SSL to connect to Render's postgres instances from within python, bypassing sqlalchemy's issues
-    pg_engine = create_engine(pg_url, connect_args={"sslmode": "require"})
+    connect_args = {}
+    parsed_url = urlparse(pg_url)
+    if parsed_url.hostname and ("render.com" in parsed_url.hostname or "supabase" in parsed_url.hostname):
+        connect_args["sslmode"] = "require"
+
+    pg_engine = create_engine(pg_url, connect_args=connect_args)
 
     # Ensure tables exist
     Base.metadata.create_all(pg_engine)
