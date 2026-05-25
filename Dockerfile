@@ -21,5 +21,5 @@ RUN pip install --no-cache-dir .
 # Copy application code
 COPY . .
 
-# Run the application
-CMD uvicorn app.web.main:app --host 0.0.0.0 --port ${PORT}
+# Run the application using the start script
+CMD ["./start.sh"]
