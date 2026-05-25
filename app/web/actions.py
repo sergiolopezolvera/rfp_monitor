@@ -22,7 +22,6 @@ from app.services.scrape_service import (
     ingest_ontario_tenders_feed,
 )
 
-
 ActionRunner = Callable[[Session, int], Any]
 
 

@@ -2,7 +2,6 @@ from pathlib import Path
 
 from app.parsers.merx_parser import parse_merx_notice
 
-
 FIXTURES_DIR = Path(__file__).resolve().parents[1] / "data" / "raw" / "merx"
 
 

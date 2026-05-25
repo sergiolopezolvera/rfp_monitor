@@ -1,14 +1,13 @@
 from __future__ import annotations
 
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlencode
-from datetime import datetime
 
 from fastapi import Request
 from fastapi.templating import Jinja2Templates
 
 from app.db import SessionLocal
-
 
 WEB_DIR = Path(__file__).resolve().parent
 templates = Jinja2Templates(directory=str(WEB_DIR / "templates"))

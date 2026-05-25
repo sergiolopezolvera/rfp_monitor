@@ -8,7 +8,6 @@ from app.services.export_service import export_opportunities_to_excel
 from app.web.dependencies import get_db, get_flash, templates
 from app.web.queries import get_opportunity_detail, list_filter_options, list_opportunities_page
 
-
 router = APIRouter()
 
 

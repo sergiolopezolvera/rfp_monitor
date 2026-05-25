@@ -1,6 +1,5 @@
-import re
 
-with open("app/web/routes/opportunities.py", "r") as f:
+with open("app/web/routes/opportunities.py") as f:
     content = f.read()
 
 old_opp_page = """@router.get("/opportunities")

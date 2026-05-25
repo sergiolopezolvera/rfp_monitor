@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from pydantic import Field
+from pydantic import Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     app_env: str = Field(default="development", alias="APP_ENV")
     log_level: str = Field(default="INFO", alias="LOG_LEVEL")
 
-    database_url: str = Field(default="sqlite:///rfp_monitor.db", alias="DATABASE_URL")
+    database_url: str = Field(default="sqlite:///data/rfp_monitor.db", alias="DATABASE_URL")
 
     openai_api_key: str | None = Field(default=None, alias="OPENAI_API_KEY")
     openai_model: str = Field(default="gpt-4.1-mini", alias="OPENAI_MODEL")
@@ -18,6 +18,14 @@ class Settings(BaseSettings):
     parsed_dir: Path = Field(default=Path("data/parsed"), alias="PARSED_DIR")
     export_dir: Path = Field(default=Path("data/exports"), alias="EXPORT_DIR")
     log_dir: Path = Field(default=Path("data/logs"), alias="LOG_DIR")
+
+
+    @field_validator("database_url", mode="before")
+    @classmethod
+    def set_default_db_if_empty(cls, v: str | None) -> str:
+        if not v:
+            return "sqlite:///data/rfp_monitor.db"
+        return v
 
     model_config = SettingsConfigDict(
         env_file=".env",

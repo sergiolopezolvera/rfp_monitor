@@ -2,7 +2,6 @@ from sqlalchemy.orm import Session
 
 from app.repositories.sources import get_or_create_source, list_sources
 
-
 DEFAULT_SOURCES = [
     {
         "name": "canadabuys",

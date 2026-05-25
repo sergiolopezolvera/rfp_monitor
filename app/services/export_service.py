@@ -1,9 +1,9 @@
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass
 from datetime import date, datetime, time, timedelta
 from pathlib import Path
-import re
 from typing import Any
 from xml.sax.saxutils import escape
 from zipfile import ZIP_DEFLATED, ZipFile

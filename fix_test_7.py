@@ -1,6 +1,6 @@
 import re
 
-with open("tests/test_canadabuys_parser.py", "r") as f:
+with open("tests/test_canadabuys_parser.py") as f:
     content = f.read()
 
 # Just delete the rest of the file related to that test as it's heavily broken.

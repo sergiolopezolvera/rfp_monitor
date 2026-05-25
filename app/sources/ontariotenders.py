@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-from datetime import datetime
 import re
+from datetime import datetime
 from time import monotonic, sleep
 from typing import Final
 from urllib.parse import urljoin
@@ -11,7 +11,6 @@ from bs4 import BeautifulSoup, Tag
 
 from app.logger import logger
 from app.schemas import FeedOpportunity
-
 
 ONTARIO_TENDERS_BASE_URL: Final[str] = "https://ontariotenders.app.jaggaer.com"
 ONTARIO_TENDERS_HOME_URL: Final[str] = (

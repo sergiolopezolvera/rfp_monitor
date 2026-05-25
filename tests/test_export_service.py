@@ -6,8 +6,11 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import Session, sessionmaker
 
 from app.db import Base
-from app.models import Opportunity, Source, LLMAnalysis
-from app.services.export_service import export_new_opportunities_to_excel, export_opportunities_to_excel
+from app.models import LLMAnalysis, Opportunity, Source
+from app.services.export_service import (
+    export_new_opportunities_to_excel,
+    export_opportunities_to_excel,
+)
 
 
 def _build_session() -> Session:

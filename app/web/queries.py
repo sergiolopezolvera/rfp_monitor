@@ -9,7 +9,6 @@ from sqlalchemy.orm import Session, aliased, selectinload
 
 from app.models import LLMAnalysis, Opportunity, ScrapeRun, Source
 
-
 PAGE_SIZE = 25
 
 
@@ -33,8 +32,8 @@ class SourceListRow:
     opportunity_count: int
     analyzed_count: int
     status_counts: list[tuple[str, int]]
-    last_scrape_run: "SourceRunSummary | None"
-    last_fetch_run: "SourceRunSummary | None"
+    last_scrape_run: SourceRunSummary | None
+    last_fetch_run: SourceRunSummary | None
 
 
 @dataclass(frozen=True)

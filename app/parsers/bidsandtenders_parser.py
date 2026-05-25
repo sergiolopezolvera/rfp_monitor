@@ -1,11 +1,10 @@
 from __future__ import annotations
 
-from datetime import date, datetime
 import re
+from datetime import date, datetime
 from typing import Any
 
 from bs4 import BeautifulSoup, Tag
-
 
 TIMEZONE_SUFFIX_RE = re.compile(r"\s+\(([A-Z]{3,5})\)$")
 BARE_TIMEZONE_SUFFIX_RE = re.compile(r"\s+([A-Z]{3,5})$")

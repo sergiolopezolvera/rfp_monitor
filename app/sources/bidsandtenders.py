@@ -1,15 +1,14 @@
 from __future__ import annotations
 
-from datetime import datetime
 import re
+from datetime import datetime
 from typing import Any
 
-from bs4 import BeautifulSoup
 import httpx
+from bs4 import BeautifulSoup
 
 from app.logger import logger
 from app.schemas import FeedOpportunity
-
 
 BIDS_AND_TENDERS_BASE_URL = "https://bids.bidsandtenders.ca"
 TIMEZONE_SUFFIX_RE = re.compile(r"\s+\(([A-Z]{3,5})\)$")

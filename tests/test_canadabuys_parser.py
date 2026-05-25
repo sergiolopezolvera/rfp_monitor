@@ -2,7 +2,6 @@ from pathlib import Path
 
 from app.parsers.canadabuys_parser import parse_canadabuys_notice
 
-
 FIXTURES_DIR = Path(__file__).resolve().parents[1] / "data" / "raw" / "canadabuys"
 
 

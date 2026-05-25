@@ -8,7 +8,6 @@ from bs4 import BeautifulSoup, Tag
 from app.logger import logger
 from app.schemas import FeedOpportunity
 
-
 MERX_BASE_URL = "https://www.merx.com"
 MERX_OPEN_SOLICITATIONS_URL = (
     "https://www.merx.com/public/solicitations/open"

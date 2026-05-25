@@ -1,6 +1,6 @@
+import app.models  # noqa: F401
 from app.db import Base, engine
 from app.logger import logger
-import app.models  # noqa: F401
 
 
 def main() -> None:

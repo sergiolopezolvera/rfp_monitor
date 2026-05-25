@@ -1,6 +1,6 @@
 import re
 
-with open("app/web/templates/opportunities.html", "r") as f:
+with open("app/web/templates/opportunities.html") as f:
     content = f.read()
 
 # Replace the two forms with a single unified form

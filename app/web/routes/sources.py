@@ -8,7 +8,6 @@ from app.web.actions import get_source_action_config, run_source_action
 from app.web.dependencies import get_db, get_flash, templates
 from app.web.queries import list_sources_with_counts
 
-
 router = APIRouter()
 
 

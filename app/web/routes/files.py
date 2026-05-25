@@ -5,7 +5,6 @@ from fastapi.responses import FileResponse
 
 from app.config import settings
 
-
 router = APIRouter()
 
 

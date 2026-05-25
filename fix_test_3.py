@@ -1,6 +1,5 @@
-import re
 
-with open("tests/test_canadabuys_parser.py", "r") as f:
+with open("tests/test_canadabuys_parser.py") as f:
     content = f.read()
 
 content = content.replace('assert parsed["buying_organizations"] == "Department of Public Works and Government Services (PSPC)"', 'assert parsed["buying_organizations"] is None')

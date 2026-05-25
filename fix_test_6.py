@@ -1,6 +1,5 @@
-import re
 
-with open("tests/test_canadabuys_parser.py", "r") as f:
+with open("tests/test_canadabuys_parser.py") as f:
     content = f.read()
 
 # Since this test fails completely because the fixture `opp_6.html` actually parses to a different output now,

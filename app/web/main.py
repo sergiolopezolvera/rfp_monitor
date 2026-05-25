@@ -7,7 +7,7 @@ from fastapi.staticfiles import StaticFiles
 
 import app.models  # noqa: F401
 from app.config import settings
-from app.db import Base, engine, SessionLocal
+from app.db import Base, SessionLocal, engine
 from app.services.source_service import seed_default_sources
 from app.web.routes.dashboard import router as dashboard_router
 from app.web.routes.files import router as files_router
