@@ -6406,3 +6406,15 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-05-25 17:59:55 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=2 path=/tmp/pytest-of-jules/pytest-2/test_export_new_opportunities_0/weekly_export.xlsx
 2026-05-25 17:59:55 | INFO | rfp_monitor | Opportunities Excel export completed. exported=1 source=bidsandtenders status=None fit=None created_from=2026-05-19 created_to=2026-05-22 closing_after=2026-06-01 path=/tmp/pytest-of-jules/pytest-2/test_export_opportunities_to_e0/filtered_export.xlsx
 2026-05-25 17:59:55 | INFO | rfp_monitor | MERX detail fetch completed for 1 opportunities.
+2026-05-25 18:46:29 | INFO | rfp_monitor | Bids & Tenders ingestion completed. total=1 new=0 existing=1
+2026-05-25 18:46:29 | INFO | rfp_monitor | Fetched 1 Bids & Tenders items.
+2026-05-25 18:46:29 | INFO | rfp_monitor | Fetched 1 Bids & Tenders items.
+2026-05-25 18:46:29 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=2 path=/tmp/pytest-of-jules/pytest-3/test_export_new_opportunities_0/weekly_export.xlsx
+2026-05-25 18:46:29 | INFO | rfp_monitor | Opportunities Excel export completed. exported=1 source=bidsandtenders status=None fit=None created_from=2026-05-19 created_to=2026-05-22 closing_after=2026-06-01 path=/tmp/pytest-of-jules/pytest-3/test_export_opportunities_to_e0/filtered_export.xlsx
+2026-05-25 18:46:29 | INFO | rfp_monitor | MERX detail fetch completed for 1 opportunities.
+2026-05-25 18:56:01 | INFO | rfp_monitor | Bids & Tenders ingestion completed. total=1 new=0 existing=1
+2026-05-25 18:56:01 | INFO | rfp_monitor | Fetched 1 Bids & Tenders items.
+2026-05-25 18:56:01 | INFO | rfp_monitor | Fetched 1 Bids & Tenders items.
+2026-05-25 18:56:01 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=2 path=/tmp/pytest-of-jules/pytest-4/test_export_new_opportunities_0/weekly_export.xlsx
+2026-05-25 18:56:01 | INFO | rfp_monitor | Opportunities Excel export completed. exported=1 source=bidsandtenders status=None fit=None created_from=2026-05-19 created_to=2026-05-22 closing_after=2026-06-01 path=/tmp/pytest-of-jules/pytest-4/test_export_opportunities_to_e0/filtered_export.xlsx
+2026-05-25 18:56:02 | INFO | rfp_monitor | MERX detail fetch completed for 1 opportunities.

@@ -21,6 +21,7 @@ engine = create_engine(
     connect_args=connect_args,
     echo=False,
     future=True,
+    pool_pre_ping=True
 )
 
 SessionLocal = sessionmaker(
