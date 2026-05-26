@@ -45,7 +45,7 @@ class Opportunity(Base):
     closing_date: Mapped[date | None] = mapped_column(Date, nullable=True)
 
     notice_type: Mapped[str | None] = mapped_column(String(100), nullable=True)
-    category: Mapped[str | None] = mapped_column(String(255), nullable=True)
+    category: Mapped[str | None] = mapped_column(Text, nullable=True)
 
     raw_html_path: Mapped[str | None] = mapped_column(String(1000), nullable=True)
     raw_text_path: Mapped[str | None] = mapped_column(String(1000), nullable=True)
