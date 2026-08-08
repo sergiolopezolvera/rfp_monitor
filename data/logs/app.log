@@ -6412,3 +6412,9 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 2026-05-26 05:57:41 | INFO | rfp_monitor | New non-fit opportunities Excel export completed. days=7 source=None exported=2 path=/tmp/pytest-of-jules/pytest-0/test_export_new_opportunities_0/weekly_export.xlsx
 2026-05-26 05:57:41 | INFO | rfp_monitor | Opportunities Excel export completed. exported=1 source=bidsandtenders status=None fit=None created_from=2026-05-19 created_to=2026-05-22 closing_after=2026-06-01 path=/tmp/pytest-of-jules/pytest-0/test_export_opportunities_to_e0/filtered_export.xlsx
 2026-05-26 05:57:42 | INFO | rfp_monitor | MERX detail fetch completed for 1 opportunities.
+2026-05-29 16:11:52 | INFO | rfp_monitor | Fetching CanadaBuys RSS feed...
+2026-05-29 16:12:06 | INFO | rfp_monitor | Fetching CanadaBuys RSS feed...
+2026-05-29 16:12:14 | INFO | rfp_monitor | CanadaBuys detail fetch completed for 0 opportunities.
+2026-05-29 16:12:14 | INFO | rfp_monitor | Completed fetch-canadabuys-details command.
+2026-05-29 16:12:23 | INFO | rfp_monitor | CanadaBuys detail fetch completed for 0 opportunities.
+2026-05-29 16:12:23 | INFO | rfp_monitor | Completed fetch-canadabuys-details command.
