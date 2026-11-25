@@ -1,5 +1,4 @@
 import json
-from datetime import datetime
 
 from sqlalchemy.orm import Session
 
@@ -17,7 +16,7 @@ from app.repositories.opportunities import (
     update_opportunity,
 )
 from app.repositories.sources import get_source_by_name
-from app.sources.bidsandtenders import BidsAndTendersConnector
+from app.sources.bidsandtenders import BidsAndTendersBlockedError, BidsAndTendersConnector
 from app.sources.canadabuys import CanadaBuysConnector
 from app.sources.chiefsofontario import ChiefsOfOntarioConnector
 from app.sources.merx import MerxConnector
@@ -25,6 +24,7 @@ from app.sources.nationtalk import NationTalkConnector
 from app.sources.ontariotenders import OntarioTendersConnector
 from app.utils.files import build_raw_html_path, build_raw_text_path, write_text_file
 from app.utils.hashing import sha256_text
+from app.utils.time import utcnow
 
 
 def _start_run(db: Session, *, source_id: int) -> ScrapeRun:
@@ -48,6 +48,7 @@ def _finish_run(
     items_updated: int = 0,
     items_failed: int = 0,
     extra: dict | None = None,
+    error: BaseException | None = None,
 ) -> None:
     summary = {
         "action": action,
@@ -57,15 +58,27 @@ def _finish_run(
     if extra:
         summary.update(extra)
 
+    if error is not None:
+        # Keep the traceback in the log and a short reason on the run record, so a
+        # failed run says why it failed instead of only "error".
+        logger.exception("Scrape run %s (%s) failed: %s", run.id, action, error)
+        summary["error"] = f"{type(error).__name__}: {error}"[:1000]
+        db.rollback()
+
     run.status = status
     run.items_found = items_found
     run.items_inserted = items_inserted
     run.items_updated = items_updated
     run.items_failed = items_failed
     run.log_summary = json.dumps(summary, ensure_ascii=False)
-    run.finished_at = datetime.utcnow()
+    run.finished_at = utcnow()
     db.add(run)
     db.commit()
+
+
+def _bidsandtenders_detail_text(item) -> str | None:
+    parts = [part for part in (item.summary, item.description) if part]
+    return "\n\n".join(parts) if parts else None
 
 
 def _update_bidsandtenders_feed_metadata(db: Session, opp, item) -> bool:
@@ -88,11 +101,12 @@ def _update_bidsandtenders_feed_metadata(db: Session, opp, item) -> bool:
         if value is not None and getattr(opp, field_name) != value
     }
 
+    feed_text = _bidsandtenders_detail_text(item)
+    if not opp.description_raw and feed_text:
+        changes["description_raw"] = feed_text
+
     if not changes:
         return False
-
-    if not opp.description_raw and (item.summary or item.description):
-        changes["description_raw"] = item.summary or item.description
 
     update_opportunity(db, opp, **changes)
     return True
@@ -168,10 +182,11 @@ def ingest_canadabuys_feed(db: Session, limit: int = 50) -> list[tuple[str, bool
             existing_count,
         )
         return results
-    except Exception:
+    except Exception as exc:
         _finish_run(
             db,
             run,
+            error=exc,
             status="error",
             action="ingest_feed",
             requested_value=limit,
@@ -275,10 +290,11 @@ def fetch_canadabuys_details(
         )
         logger.info("CanadaBuys detail fetch completed for %s opportunities.", len(results))
         return results
-    except Exception:
+    except Exception as exc:
         _finish_run(
             db,
             run,
+            error=exc,
             status="error",
             action="fetch_details",
             requested_value=limit,
@@ -326,8 +342,8 @@ def ingest_merx_feed(db: Session, limit: int = 50) -> list[tuple[str, bool]]:
             existing_count,
         )
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="ingest_feed", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="ingest_feed", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise
 
 
@@ -423,9 +439,16 @@ def fetch_merx_details(db: Session, limit: int = 10) -> list[tuple[int, str]]:
         )
         logger.info("MERX detail fetch completed for %s opportunities.", len(results))
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise
+
+BIDSANDTENDERS_EXCLUDED_TITLE_KEYWORDS = (
+    "notice of intent",
+    "participant of",
+    "group purchasing",
+)
+
 
 def ingest_bidsandtenders_feed(db: Session, limit: int = 50) -> list[tuple[str, bool]]:
     source = get_source_by_name(db, "bidsandtenders")
@@ -434,24 +457,18 @@ def ingest_bidsandtenders_feed(db: Session, limit: int = 50) -> list[tuple[str, 
     run = _start_run(db, source_id=source.id)
 
     try:
-        connector = BidsAndTendersConnector()
-        items = connector.fetch_feed_items(limit=limit)
-        excluded_keywords = [
-            "notice of intent",
-            "participant of",
-            "group purchasing",
-        ]
+        with BidsAndTendersConnector() as connector:
+            items = connector.fetch_feed_items(limit=limit)
 
         results: list[tuple[str, bool]] = []
+        changed_count = 0
+        skipped_count = 0
 
         for item in items:
             title_normalized = (item.title or "").lower()
-
-            if any(keyword in title_normalized for keyword in excluded_keywords):
-                logger.info(
-                    "Skipping Bids & Tenders opportunity due to title filter: %s",
-                    item.title,
-                )
+            if any(keyword in title_normalized for keyword in BIDSANDTENDERS_EXCLUDED_TITLE_KEYWORDS):
+                logger.info("Skipping Bids & Tenders opportunity due to title filter: %s", item.title)
+                skipped_count += 1
                 continue
 
             opportunity, created = get_or_create_opportunity(
@@ -459,7 +476,7 @@ def ingest_bidsandtenders_feed(db: Session, limit: int = 50) -> list[tuple[str, 
                 source_id=source.id,
                 url=str(item.url),
                 title=item.title,
-                description_raw=item.summary or item.description,
+                description_raw=_bidsandtenders_detail_text(item),
                 organization=item.organization,
                 publication_date=item.date_published.date() if item.date_published else None,
                 closing_date=item.closing_date.date() if item.closing_date else None,
@@ -467,8 +484,8 @@ def ingest_bidsandtenders_feed(db: Session, limit: int = 50) -> list[tuple[str, 
                 status="discovered",
             )
 
-            if not created:
-                _update_bidsandtenders_feed_metadata(db, opportunity, item)
+            if not created and _update_bidsandtenders_feed_metadata(db, opportunity, item):
+                changed_count += 1
 
             results.append((opportunity.url, created))
 
@@ -476,18 +493,23 @@ def ingest_bidsandtenders_feed(db: Session, limit: int = 50) -> list[tuple[str, 
         existing_count = len(results) - created_count
         _finish_run(
             db, run, status="success", action="ingest_feed", requested_value=limit,
-            requested_unit="items", items_found=len(items), items_inserted=created_count, items_updated=existing_count
+            requested_unit="items", items_found=len(items), items_inserted=created_count,
+            items_updated=changed_count,
+            extra={"existing": existing_count, "skipped_by_title": skipped_count},
         )
         logger.info(
-            "Bids & Tenders ingestion completed. total=%s new=%s existing=%s",
+            "Bids & Tenders ingestion completed. total=%s new=%s existing=%s changed=%s skipped=%s",
             len(results),
             created_count,
             existing_count,
+            changed_count,
+            skipped_count,
         )
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="ingest_feed", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="ingest_feed", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise
+
 
 def fetch_bidsandtenders_details(db: Session, limit: int = 10) -> list[tuple[int, str]]:
     source = get_source_by_name(db, "bidsandtenders")
@@ -496,66 +518,78 @@ def fetch_bidsandtenders_details(db: Session, limit: int = 10) -> list[tuple[int
     run = _start_run(db, source_id=source.id)
 
     try:
-        connector = BidsAndTendersConnector()
         opportunities = list_opportunities_for_detail_fetch(
             db,
             source_id=source.id,
             limit=limit,
-            include_statuses=("discovered", "detail_error"),
+            include_statuses=("discovered", "detail_error", "detail_blocked"),
         )
 
         results: list[tuple[int, str]] = []
 
-        for opp in opportunities:
-            try:
-                html = connector.fetch_notice_html(opp.url)
-                parsed = parse_bidsandtenders_notice(html)
+        with BidsAndTendersConnector() as connector:
+            for opp in opportunities:
+                try:
+                    html = connector.fetch_notice_html(opp.url)
+                    parsed = parse_bidsandtenders_notice(html)
 
-                record_id = f"opp_{opp.id}"
-                html_path = build_raw_html_path("bidsandtenders", record_id)
-                text_path = build_raw_text_path("bidsandtenders", record_id)
+                    record_id = f"opp_{opp.id}"
+                    html_path = build_raw_html_path("bidsandtenders", record_id)
+                    text_path = build_raw_text_path("bidsandtenders", record_id)
 
-                write_text_file(html_path, html)
-                write_text_file(text_path, parsed["raw_text"])
+                    write_text_file(html_path, html)
+                    write_text_file(text_path, parsed["raw_text"])
 
-                content_hash = sha256_text(html)
+                    update_opportunity(
+                        db,
+                        opp,
+                        title=opp.title or parsed.get("title"),
+                        description_raw=parsed.get("description_raw") or opp.description_raw,
+                        organization=opp.organization or parsed.get("organization"),
+                        publication_date=opp.publication_date or parsed.get("publication_date"),
+                        closing_date=opp.closing_date or parsed.get("closing_date"),
+                        source_record_id=opp.source_record_id or parsed.get("reference_number"),
+                        notice_type=parsed.get("bid_type") or opp.notice_type,
+                        raw_html_path=str(html_path),
+                        raw_text_path=str(text_path),
+                        hash_content=sha256_text(html),
+                        status="detail_fetched",
+                    )
+                    results.append((opp.id, "updated"))
 
-                update_opportunity(
-                    db,
-                    opp,
-                    description_raw=parsed.get("description_raw") or opp.description_raw,
-                    organization=opp.organization or parsed.get("organization"),
-                    publication_date=opp.publication_date or parsed.get("publication_date"),
-                    closing_date=opp.closing_date or parsed.get("closing_date"),
-                    source_record_id=opp.source_record_id or parsed.get("reference_number"),
-                    notice_type=parsed.get("bid_type") or opp.notice_type,
-                    raw_html_path=str(html_path),
-                    raw_text_path=str(text_path),
-                    hash_content=content_hash,
-                    status="detail_fetched",
-                )
-                results.append((opp.id, "updated"))
+                except BidsAndTendersBlockedError as exc:
+                    logger.warning("Bids & Tenders blocked detail for opportunity %s: %s", opp.id, exc)
+                    db.rollback()
+                    update_opportunity(db, opp, status="detail_blocked")
+                    results.append((opp.id, "blocked"))
 
-            except Exception as exc:
-                logger.warning(
-                    "Failed to fetch/process Bids & Tenders detail for opportunity %s: %s",
-                    opp.id,
-                    exc,
-                )
-                update_opportunity(db, opp, status="detail_error")
-                results.append((opp.id, "error"))
+                except Exception as exc:
+                    logger.warning(
+                        "Failed to fetch/process Bids & Tenders detail for opportunity %s (%s): %s: %s",
+                        opp.id,
+                        opp.url,
+                        type(exc).__name__,
+                        exc,
+                    )
+                    db.rollback()
+                    update_opportunity(db, opp, status="detail_error")
+                    results.append((opp.id, "error"))
 
         updated = sum(1 for _, status in results if status == "updated")
+        blocked = sum(1 for _, status in results if status == "blocked")
         errors = sum(1 for _, status in results if status == "error")
         _finish_run(
             db, run, status="success", action="fetch_details", requested_value=limit,
             requested_unit="items", items_found=len(opportunities), items_updated=updated,
-            items_failed=errors, extra={"errors": errors}
+            items_failed=blocked + errors, extra={"blocked": blocked, "errors": errors}
         )
-        logger.info("Bids & Tenders detail fetch completed for %s opportunities.", len(results))
+        logger.info(
+            "Bids & Tenders detail fetch completed. processed=%s updated=%s blocked=%s errors=%s",
+            len(results), updated, blocked, errors,
+        )
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise
 
 
@@ -605,8 +639,8 @@ def ingest_ontario_tenders_feed(db: Session, limit: int = 50) -> list[tuple[str,
             existing_count,
         )
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="ingest_feed", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="ingest_feed", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise
 
 
@@ -678,8 +712,8 @@ def fetch_ontario_tenders_details(db: Session, limit: int = 10) -> list[tuple[in
         )
         logger.info("Ontario Tenders detail fetch completed for %s opportunities.", len(results))
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise
 
 def ingest_nationtalk_feed(db: Session, limit: int = 50) -> list[tuple[str, bool]]:
@@ -722,8 +756,8 @@ def ingest_nationtalk_feed(db: Session, limit: int = 50) -> list[tuple[str, bool
             existing_count,
         )
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="ingest_feed", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="ingest_feed", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise
 
 def fetch_nationtalk_details(
@@ -802,8 +836,8 @@ def fetch_nationtalk_details(
         )
         logger.info("NationTalk detail fetch completed for %s opportunities.", len(results))
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise
 
 def ingest_chiefs_of_ontario_feed(
@@ -849,8 +883,8 @@ def ingest_chiefs_of_ontario_feed(
             existing_count,
         )
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="ingest_feed", requested_value=pages, requested_unit="pages", items_found=0, items_failed=1, extra={"item_limit": limit})
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="ingest_feed", requested_value=pages, requested_unit="pages", items_found=0, items_failed=1, extra={"item_limit": limit})
         raise
 
 
@@ -928,6 +962,6 @@ def fetch_chiefs_of_ontario_details(
         )
         logger.info("Chiefs of Ontario detail fetch completed for %s opportunities.", len(results))
         return results
-    except Exception:
-        _finish_run(db, run, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
+    except Exception as exc:
+        _finish_run(db, run, error=exc, status="error", action="fetch_details", requested_value=limit, requested_unit="items", items_found=0, items_failed=1)
         raise

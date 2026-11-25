@@ -1,8 +1,8 @@
 import os
-import sys
 from urllib.parse import urlparse
 
 from sqlalchemy import create_engine, text
+
 
 def migrate():
     pg_url = os.environ.get("DATABASE_URL")
