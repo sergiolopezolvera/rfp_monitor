@@ -4,12 +4,13 @@ import json
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta
 
-from sqlalchemy import func, select
+from sqlalchemy import case, func, select
 from sqlalchemy.orm import Session, aliased, selectinload
 
 from app.models import LLMAnalysis, Opportunity, ScrapeRun, Source
 
 PAGE_SIZE = 25
+PENDING_DETAIL_STATUSES = {"discovered", "detail_error", "detail_blocked"}
 
 
 @dataclass(frozen=True)
@@ -21,6 +22,10 @@ class DashboardStats:
     unanalyzed_count: int
     fit_score_counts: list[tuple[int | None, int]]
     closing_soon: list[Opportunity]
+    open_fit_count: int = 0
+    not_fit_count: int = 0
+    pending_details: int = 0
+    pending_analysis: int = 0
 
 
 @dataclass(frozen=True)
@@ -34,6 +39,8 @@ class SourceListRow:
     status_counts: list[tuple[str, int]]
     last_scrape_run: SourceRunSummary | None
     last_fetch_run: SourceRunSummary | None
+    pending_details: int = 0
+    pending_analysis: int = 0
 
 
 @dataclass(frozen=True)
@@ -46,6 +53,12 @@ class SourceRunSummary:
     items_inserted: int
     items_updated: int
     items_failed: int
+    error: str | None = None
+    extra: dict | None = None
+
+    @property
+    def failed(self) -> bool:
+        return self.status == "error"
 
 
 @dataclass(frozen=True)
@@ -115,11 +128,32 @@ def get_dashboard_stats(db: Session) -> DashboardStats:
             .select_from(Opportunity)
             .join(latest_analysis_sq, latest_analysis_sq.c.opportunity_id == Opportunity.id)
             .join(latest_analysis, latest_analysis.id == latest_analysis_sq.c.latest_analysis_id)
-            .where(latest_analysis.fit_score.is_not(None))
+            .where(latest_analysis.fit_score.is_not(None), latest_analysis.is_fit.is_not(False))
             .group_by(latest_analysis.fit_score)
             .order_by(latest_analysis.fit_score.desc())
         ).all()
     )
+
+    def _count_latest(*conditions) -> int:
+        return db.scalar(
+            select(func.count(Opportunity.id))
+            .select_from(Opportunity)
+            .join(latest_analysis_sq, latest_analysis_sq.c.opportunity_id == Opportunity.id)
+            .join(latest_analysis, latest_analysis.id == latest_analysis_sq.c.latest_analysis_id)
+            .where(*conditions)
+        ) or 0
+
+    open_fit_count = _count_latest(latest_analysis.is_fit.is_(True), Opportunity.closing_date >= today)
+    not_fit_count = _count_latest(latest_analysis.is_fit.is_(False))
+
+    pending_details = db.scalar(
+        select(func.count(Opportunity.id)).where(Opportunity.status.in_(PENDING_DETAIL_STATUSES))
+    ) or 0
+    pending_analysis = db.scalar(
+        select(func.count(Opportunity.id))
+        .outerjoin(latest_analysis_sq, latest_analysis_sq.c.opportunity_id == Opportunity.id)
+        .where(Opportunity.status == "detail_fetched", latest_analysis_sq.c.opportunity_id.is_(None))
+    ) or 0
 
     closing_soon = list(
         db.scalars(
@@ -143,6 +177,10 @@ def get_dashboard_stats(db: Session) -> DashboardStats:
         unanalyzed_count=unanalyzed_count,
         fit_score_counts=fit_score_counts,
         closing_soon=closing_soon,
+        open_fit_count=open_fit_count,
+        not_fit_count=not_fit_count,
+        pending_details=pending_details,
+        pending_analysis=pending_analysis,
     )
 
 
@@ -174,8 +212,21 @@ def list_sources_with_counts(db: Session) -> list[SourceListRow]:
     ).all()
 
     status_counts_by_source: dict[int, list[tuple[str, int]]] = {}
+    pending_details_by_source: dict[int, int] = {}
     for source_id, status, count in status_rows:
         status_counts_by_source.setdefault(source_id, []).append((status, count))
+        if status in PENDING_DETAIL_STATUSES:
+            pending_details_by_source[source_id] = pending_details_by_source.get(source_id, 0) + count
+
+    # Same rule as the analysis service: postings that were read but never analyzed.
+    pending_analysis_by_source = dict(
+        db.execute(
+            select(Opportunity.source_id, func.count(Opportunity.id))
+            .outerjoin(latest_analysis_sq, latest_analysis_sq.c.opportunity_id == Opportunity.id)
+            .where(Opportunity.status == "detail_fetched", latest_analysis_sq.c.opportunity_id.is_(None))
+            .group_by(Opportunity.source_id)
+        ).all()
+    )
 
     run_rows = db.execute(
         select(
@@ -216,6 +267,8 @@ def list_sources_with_counts(db: Session) -> list[SourceListRow]:
             items_inserted=row.items_inserted,
             items_updated=row.items_updated,
             items_failed=row.items_failed,
+            error=summary_data.get("error"),
+            extra=summary_data,
         )
 
         if action == "ingest_feed" and row.source_id not in latest_scrape_by_source:
@@ -234,6 +287,8 @@ def list_sources_with_counts(db: Session) -> list[SourceListRow]:
             status_counts=status_counts_by_source.get(row.id, []),
             last_scrape_run=latest_scrape_by_source.get(row.id),
             last_fetch_run=latest_fetch_by_source.get(row.id),
+            pending_details=pending_details_by_source.get(row.id, 0),
+            pending_analysis=pending_analysis_by_source.get(row.id, 0),
         )
         for row in rows
     ]
@@ -302,8 +357,15 @@ def list_opportunities_page(
     rows = db.execute(
         base_stmt
         .order_by(
-            Opportunity.closing_date.asc().nullslast(),
-            Opportunity.publication_date.desc().nullslast(),
+            # Open opportunities first (closing soonest first), then undated, then closed
+            # ones (most recently closed first).
+            case(
+                (Opportunity.closing_date >= date.today(), 0),
+                (Opportunity.closing_date.is_(None), 1),
+                else_=2,
+            ),
+            case((Opportunity.closing_date >= date.today(), Opportunity.closing_date), else_=None).asc(),
+            Opportunity.closing_date.desc().nullslast(),
             Opportunity.id.desc(),
         )
         .offset(offset)

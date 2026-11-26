@@ -4,170 +4,143 @@
 
 {% block content %}
   <section class="panel">
-    <h2>Opportunity Review Queue</h2>
-    <form method="get" action="/opportunities" class="toolbar" style="flex-wrap: wrap; gap: 1rem;">
-      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; width: 100%;">
+    <form method="get" action="/opportunities" class="filters">
+      <label>
+        Fit
+        <select name="fit">
+          <option value="">Any</option>
+          <option value="good" {% if current_filters.fit == "good" %}selected{% endif %}>Good fit (any level)</option>
+          <option value="high" {% if current_filters.fit == "high" %}selected{% endif %}>High fit</option>
+          <option value="medium" {% if current_filters.fit == "medium" %}selected{% endif %}>Medium fit</option>
+          <option value="low" {% if current_filters.fit == "low" %}selected{% endif %}>Low fit</option>
+          <option value="not_fit" {% if current_filters.fit == "not_fit" %}selected{% endif %}>Not a fit</option>
+          <option value="unanalyzed" {% if current_filters.fit == "unanalyzed" %}selected{% endif %}>Not analyzed yet</option>
+        </select>
+      </label>
+
+      <label>
+        Source
         <select name="source">
-          <option value="">All sources</option>
+          <option value="">All</option>
           {% for source_name in filters.sources %}
-            <option value="{{ source_name }}" {% if current_filters.source == source_name %}selected{% endif %}>{{ source_name }}</option>
+            <option value="{{ source_name }}" {% if current_filters.source == source_name %}selected{% endif %}>{{ source_name|source_label }}</option>
           {% endfor %}
         </select>
+      </label>
 
+      <label>
+        Processing
         <select name="status">
-          <option value="">All statuses</option>
+          <option value="">Any</option>
           {% for status in filters.statuses %}
-            <option value="{{ status }}" {% if current_filters.status == status %}selected{% endif %}>{{ status }}</option>
+            <option value="{{ status }}" {% if current_filters.status == status %}selected{% endif %}>{{ status|status_label }}</option>
           {% endfor %}
         </select>
+      </label>
 
-        <select name="fit_result" id="fit_result">
-          <option value="">All fit results</option>
-          <option value="fit" {% if current_filters.fit_result == "fit" %}selected{% endif %}>Fit</option>
-          <option value="not_fit" {% if current_filters.fit_result == "not_fit" %}selected{% endif %}>Not fit</option>
-          <option value="unanalyzed" {% if current_filters.fit_result == "unanalyzed" %}selected{% endif %}>Unanalyzed</option>
-        </select>
+      <label>
+        Found from
+        <input id="created-from" type="date" name="created_from" value="{{ current_filters.created_from }}" />
+      </label>
+      <label>
+        to
+        <input id="created-to" type="date" name="created_to" value="{{ current_filters.created_to }}" />
+      </label>
+      <button type="button" class="link-button" id="this-week"
+              data-week-start="{{ this_week.start }}" data-week-end="{{ this_week.end }}">This week</button>
 
-        <select name="fit_level" id="fit_level" {% if current_filters.fit_result != "fit" %}disabled{% endif %}>
-          <option value="">All fit levels</option>
-          <option value="3" {% if current_filters.fit_level == "3" %}selected{% endif %}>High</option>
-          <option value="2" {% if current_filters.fit_level == "2" %}selected{% endif %}>Medium</option>
-          <option value="1" {% if current_filters.fit_level == "1" %}selected{% endif %}>Low</option>
-        </select>
-      </div>
+      <label class="checkbox">
+        <input type="checkbox" name="open_only" value="1" {% if current_filters.open_only %}checked{% endif %} />
+        Only still open
+      </label>
 
-      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; width: 100%;">
-        <label>
-          Scraped from
-          <input id="export-created-from" type="date" name="created_from" value="{{ current_filters.created_from }}" />
-        </label>
-        <label>
-          Scraped to
-          <input id="export-created-to" type="date" name="created_to" value="{{ current_filters.created_to }}" />
-        </label>
-        <button
-          type="button"
-          class="secondary"
-          id="export-this-week"
-          data-week-start="{{ this_week.start }}"
-          data-week-end="{{ this_week.end }}"
-        >
-          This week
-        </button>
+      {# Keep older links (e.g. bookmarks with fit_result / closing_after) working. #}
+      {% if current_filters.closing_after %}<input type="hidden" name="closing_after" value="{{ current_filters.closing_after }}" />{% endif %}
+      {% if not current_filters.fit and current_filters.fit_result %}
+        <input type="hidden" name="fit_result" value="{{ current_filters.fit_result }}" />
+        <input type="hidden" name="fit_level" value="{{ current_filters.fit_level }}" />
+      {% endif %}
 
-        <label style="margin-left: 1rem;">
-          Closing after
-          <input type="date" name="closing_after" value="{{ current_filters.closing_after }}" />
-        </label>
-
-        <div style="margin-left: auto; display: flex; gap: 0.5rem;">
-          <button type="submit">Apply filters</button>
-          <button type="submit" formaction="/opportunities/export" class="secondary">Export</button>
-          <a href="/opportunities" class="badge">Reset</a>
-        </div>
+      <div class="filter-actions">
+        <button type="submit">Show</button>
+        {% if has_filters %}<a href="/opportunities" class="subtle">Clear filters</a>{% endif %}
+        <button type="submit" formaction="/opportunities/export" class="secondary" title="Download the filtered list as an Excel file">Export to Excel</button>
       </div>
     </form>
 
+    <p class="subtle result-count">
+      {{ page_data.total_items }} {{ "opportunity" if page_data.total_items == 1 else "opportunities" }}
+      · open ones first, closing soonest at the top
+    </p>
+
     <div class="table-wrap">
-      <table>
+      <table class="opps">
         <thead>
           <tr>
-            <th>ID</th>
+            <th>Opportunity</th>
+            <th>Closes</th>
+            <th>Fit</th>
             <th>Source</th>
-            <th>Title</th>
-            <th>Organization</th>
-            <th>Publication date</th>
-            <th>Closing date</th>
-            <th>Scraped date</th>
-            <th>Status</th>
-            <th>Fit score</th>
-            <th>Analysis status</th>
-            <th>Detail</th>
           </tr>
         </thead>
         <tbody>
           {% for row in page_data.items %}
-            <tr>
-              <td>{{ row.opportunity.id }}</td>
-              <td>{{ row.source.name }}</td>
-              <td>{{ row.opportunity.title or "Untitled opportunity" }}</td>
-              <td>{{ row.opportunity.organization or "n/a" }}</td>
-              <td>{{ row.opportunity.publication_date.isoformat() if row.opportunity.publication_date else "n/a" }}</td>
-              <td>{{ row.opportunity.closing_date.isoformat() if row.opportunity.closing_date else "n/a" }}</td>
-              <td>{{ row.opportunity.created_at.date().isoformat() if row.opportunity.created_at else "n/a" }}</td>
-              <td><span class="badge">{{ row.opportunity.status }}</span></td>
+            {% set opp = row.opportunity %}
+            <tr class="{% if opp.closing_date and (opp.closing_date|closing_text) == 'Closed' %}is-closed{% endif %}">
               <td>
-                {% if row.latest_analysis and row.latest_analysis.fit_score == 3 %}High
-                {% elif row.latest_analysis and row.latest_analysis.fit_score == 2 %}Medium
-                {% elif row.latest_analysis and row.latest_analysis.fit_score == 1 %}Low
-                {% else %}n/a{% endif %}
+                <a class="opp-title" href="/opportunities/{{ opp.id }}">{{ opp.title or "Untitled opportunity" }}</a>
+                <div class="subtle">
+                  {{ opp.organization or "Organization not listed" }}
+                  {% if opp.status != "detail_fetched" %}
+                    · <span class="badge small {{ opp.status|status_tone }}" title="{{ opp.status|status_help }}">{{ opp.status|status_label }}</span>
+                  {% endif %}
+                </div>
               </td>
-              <td>
-                {% if row.latest_analysis %}
-                  <span class="badge success">Analyzed</span>
+              <td class="nowrap">
+                {% if opp.closing_date %}
+                  <span class="badge {{ opp.closing_date|closing_tone }}">{{ opp.closing_date|closing_text }}</span>
+                  <div class="subtle">{{ opp.closing_date.isoformat() }}</div>
                 {% else %}
-                  <span class="badge warn">Pending</span>
+                  <span class="subtle">No date</span>
                 {% endif %}
               </td>
-              <td><a href="/opportunities/{{ row.opportunity.id }}">Open</a></td>
+              <td class="nowrap"><span class="badge {{ fit_tone(row.latest_analysis) }}">{{ fit_label(row.latest_analysis) }}</span></td>
+              <td class="nowrap subtle">{{ row.source.name|source_label }}</td>
             </tr>
           {% else %}
             <tr>
-              <td colspan="11" class="subtle">No opportunities matched the current filters.</td>
+              <td colspan="4" class="empty">
+                No opportunities match these filters.
+                {% if has_filters %}<a href="/opportunities">Clear filters</a>{% endif %}
+              </td>
             </tr>
           {% endfor %}
         </tbody>
       </table>
     </div>
 
-    <div class="pagination">
-      <div class="subtle">
-        Page {{ page_data.page }} of {{ page_data.total_pages }} · {{ page_data.total_items }} total opportunities
+    {% if page_data.total_pages > 1 %}
+      <div class="pagination">
+        <div class="subtle">Page {{ page_data.page }} of {{ page_data.total_pages }}</div>
+        <div class="action-bar">
+          {% if page_data.page > 1 %}
+            <a class="badge" href="?page={{ page_data.page - 1 }}&{{ filter_query }}">← Previous</a>
+          {% endif %}
+          {% if page_data.page < page_data.total_pages %}
+            <a class="badge" href="?page={{ page_data.page + 1 }}&{{ filter_query }}">Next →</a>
+          {% endif %}
+        </div>
       </div>
-      <div class="action-bar">
-        {% if page_data.page > 1 %}
-          <a
-            class="badge"
-            href="?page={{ page_data.page - 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&fit_level={{ current_filters.fit_level }}&created_from={{ current_filters.created_from }}&created_to={{ current_filters.created_to }}&closing_after={{ current_filters.closing_after }}"
-          >
-            Previous
-          </a>
-        {% endif %}
-        {% if page_data.page < page_data.total_pages %}
-          <a
-            class="badge"
-            href="?page={{ page_data.page + 1 }}&source={{ current_filters.source }}&status={{ current_filters.status }}&fit_result={{ current_filters.fit_result }}&fit_level={{ current_filters.fit_level }}&created_from={{ current_filters.created_from }}&created_to={{ current_filters.created_to }}&closing_after={{ current_filters.closing_after }}"
-          >
-            Next
-          </a>
-        {% endif %}
-      </div>
-    </div>
+    {% endif %}
   </section>
 
-
   <script>
-    const fitResultSelect = document.getElementById("fit_result");
-    const fitLevelSelect = document.getElementById("fit_level");
-
-    if (fitResultSelect && fitLevelSelect) {
-      fitResultSelect.addEventListener("change", (e) => {
-        if (e.target.value === "fit") {
-          fitLevelSelect.disabled = false;
-        } else {
-          fitLevelSelect.disabled = true;
-          fitLevelSelect.value = "";
-        }
-      });
-    }
-
-    const thisWeekButton = document.getElementById("export-this-week");
+    const thisWeekButton = document.getElementById("this-week");
     if (thisWeekButton) {
       thisWeekButton.addEventListener("click", () => {
-        document.getElementById("export-created-from").value = thisWeekButton.dataset.weekStart;
-        document.getElementById("export-created-to").value = thisWeekButton.dataset.weekEnd;
+        document.getElementById("created-from").value = thisWeekButton.dataset.weekStart;
+        document.getElementById("created-to").value = thisWeekButton.dataset.weekEnd;
       });
     }
   </script>
-
 {% endblock %}

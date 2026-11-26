@@ -7,6 +7,7 @@ from sqlalchemy.orm import Session
 from app.logger import logger
 from app.web.actions import get_source_action_config, run_source_action
 from app.web.dependencies import get_db, get_flash, templates
+from app.web.labels import source_label
 from app.web.queries import list_sources_with_counts
 
 router = APIRouter()
@@ -42,9 +43,11 @@ def run_action(
         message, level = run_source_action(db, source_name, action, value)
     except Exception as exc:
         logger.exception("Source action %s/%s failed", source_name, action)
-        message = f"{source_name.replace('_', ' ')}: {type(exc).__name__}: {exc}"
-        if len(message) > 600:
-            message = message[:600] + "… (see data/logs/app.log)"
+        step = {"ingest_feed": "Find new", "fetch_details": "Read details", "analyze": "Analyze fit"}.get(action, action)
+        reason = f"{type(exc).__name__}: {exc}"
+        if len(reason) > 500:
+            reason = reason[:500] + "…"
+        message = f"{source_label(source_name)} — “{step}” stopped. Reason: {reason} (Full details in data/logs/app.log.)"
         level = "error"
 
     query_string = urlencode({"message": message, "level": level})
