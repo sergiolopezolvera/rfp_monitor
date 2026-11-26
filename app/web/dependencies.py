@@ -8,11 +8,13 @@ from fastapi import Request
 from fastapi.templating import Jinja2Templates
 
 from app.db import SessionLocal
+from app.web import labels
 
 WEB_DIR = Path(__file__).resolve().parent
 templates = Jinja2Templates(directory=str(WEB_DIR / "templates"))
 templates.env.globals["artifact_url"] = lambda path: f"/artifacts?{urlencode({'path': path})}"
 templates.env.filters["datetime_local"] = lambda value: value.strftime("%Y-%m-%d %H:%M") if isinstance(value, datetime) else ""
+labels.register(templates.env)
 
 
 def get_db():

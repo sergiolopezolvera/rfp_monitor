@@ -21,6 +21,7 @@ from app.services.scrape_service import (
     ingest_nationtalk_feed,
     ingest_ontario_tenders_feed,
 )
+from app.web.labels import source_label
 
 ActionRunner = Callable[[Session, int], Any]
 
@@ -120,34 +121,40 @@ def run_source_action(
 
 
 def summarize_action_result(source_name: str, action: str, result: Any, *, value: int) -> str:
-    label = source_name.replace("_", " ")
+    label = source_label(source_name)
 
     if action == "ingest_feed":
         created = sum(1 for _, was_created in result if was_created)
         existing = len(result) - created
-        if source_name == "chiefs_of_ontario":
-            return (
-                f"{label}: feed ingest scanned {value} pages and processed {len(result)} opportunities "
-                f"({created} new, {existing} existing)."
-            )
+        scope = f"scanned {value} pages and " if source_name == "chiefs_of_ontario" else ""
+        if not result:
+            return f"{label}: {scope}found no opportunities in the listing."
+        next_step = " Next: “Read details”." if created else ""
         return (
-            f"{label}: feed ingest processed {len(result)} opportunities "
-            f"({created} new, {existing} existing)."
+            f"{label}: {scope}found {len(result)} opportunities — {created} new, "
+            f"{existing} already known.{next_step}"
         )
 
     if action == "fetch_details":
         updated = sum(1 for _, status in result if status == "updated")
         blocked = sum(1 for _, status in result if status == "blocked")
         errors = sum(1 for _, status in result if status == "error")
-        return (
-            f"{label}: detail fetch processed {len(result)} opportunities "
-            f"({updated} updated, {blocked} blocked, {errors} errors)."
-        )
+        if not result:
+            return f"{label}: no postings were waiting to be read."
+        parts = [f"read {updated} of {len(result)} postings"]
+        if blocked:
+            parts.append(f"{blocked} blocked by the site")
+        if errors:
+            parts.append(f"{errors} failed (they will be retried)")
+        next_step = " Next: “Analyze fit”." if updated else ""
+        return f"{label}: " + ", ".join(parts) + "." + next_step
 
     if action == "analyze" and isinstance(result, AnalysisRunResult):
-        return (
-            f"{label}: analysis processed {result.processed} opportunities "
-            f"({result.created} analyses created, {result.errors} errors)."
-        )
+        if not result.processed:
+            return f"{label}: no postings were waiting for analysis."
+        message = f"{label}: analyzed {result.created} of {result.processed} postings."
+        if result.errors:
+            message += f" {result.errors} failed — check the OpenAI key and quota."
+        return message
 
-    return f"{label}: action '{action}' completed."
+    return f"{label}: done."

@@ -1,58 +1,77 @@
 {% extends "base.html" %}
 
-{% block title %}Opportunity {{ opportunity.id }} | RFP Monitor{% endblock %}
+{% block title %}{{ opportunity.title or "Opportunity" }} | RFP Monitor{% endblock %}
 
 {% block content %}
+  <p><a href="{{ back_url }}">← Back to opportunities</a></p>
+
   <section class="panel">
-    <h2>{{ opportunity.title or "Untitled opportunity" }}</h2>
-    <ul class="detail-list">
-      <li><strong>Source</strong><span>{{ opportunity.source.name if opportunity.source else "n/a" }}</span></li>
-      <li><strong>Organization</strong><span>{{ opportunity.organization or "n/a" }}</span></li>
-      <li><strong>Publication date</strong><span>{{ opportunity.publication_date.isoformat() if opportunity.publication_date else "n/a" }}</span></li>
-      <li><strong>Closing date</strong><span>{{ opportunity.closing_date.isoformat() if opportunity.closing_date else "n/a" }}</span></li>
-      <li><strong>Status</strong><span class="badge">{{ opportunity.status }}</span></li>
-      <li><strong>Original URL</strong><span><a href="{{ opportunity.url }}" target="_blank" rel="noreferrer">{{ opportunity.url }}</a></span></li>
+    <div class="detail-head">
+      <div>
+        <h2>{{ opportunity.title or "Untitled opportunity" }}</h2>
+        <p class="subtle">
+          {{ opportunity.organization or "Organization not listed" }}
+          · {{ opportunity.source.name|source_label if opportunity.source else "Unknown source" }}
+        </p>
+      </div>
+      <a class="button" href="{{ opportunity.url }}" target="_blank" rel="noreferrer">Open original posting ↗</a>
+    </div>
+
+    <ul class="facts">
       <li>
-        <strong>Raw HTML</strong>
-        <span>
-          {% if opportunity.raw_html_path %}
-            <a href="{{ artifact_url(opportunity.raw_html_path) }}">{{ opportunity.raw_html_path }}</a>
-          {% else %}
-            n/a
-          {% endif %}
-        </span>
+        <span class="subtle">Closes</span>
+        {% if opportunity.closing_date %}
+          <strong>{{ opportunity.closing_date.isoformat() }}</strong>
+          <span class="badge {{ opportunity.closing_date|closing_tone }}">{{ opportunity.closing_date|closing_text }}</span>
+        {% else %}
+          <strong>No date</strong>
+        {% endif %}
       </li>
       <li>
-        <strong>Raw text</strong>
-        <span>
-          {% if opportunity.raw_text_path %}
-            <a href="{{ artifact_url(opportunity.raw_text_path) }}">{{ opportunity.raw_text_path }}</a>
-          {% else %}
-            n/a
-          {% endif %}
-        </span>
+        <span class="subtle">Published</span>
+        <strong>{{ opportunity.publication_date.isoformat() if opportunity.publication_date else "—" }}</strong>
+      </li>
+      <li>
+        <span class="subtle">Processing</span>
+        <span class="badge {{ opportunity.status|status_tone }}" title="{{ opportunity.status|status_help }}">{{ opportunity.status|status_label }}</span>
       </li>
     </ul>
   </section>
 
   <section class="panel">
-    <h3>Description / Parsed Text</h3>
-    <div class="copy">{{ opportunity.description_raw or "No description stored." }}</div>
+    <h3>
+      Fit
+      <span class="badge {{ fit_tone(latest_analysis) }}">{{ fit_label(latest_analysis) }}</span>
+    </h3>
+    {% if latest_analysis %}
+      <div class="copy">{{ latest_analysis.reasoning or "No reasoning was given." }}</div>
+      {% if latest_analysis.matched_services or latest_analysis.potential_concerns %}
+        <ul class="detail-list spaced">
+          {% if latest_analysis.matched_services %}
+            <li><strong>Matching services</strong><span>{{ latest_analysis.matched_services }}</span></li>
+          {% endif %}
+          {% if latest_analysis.potential_concerns %}
+            <li><strong>Concerns</strong><span>{{ latest_analysis.potential_concerns }}</span></li>
+          {% endif %}
+        </ul>
+      {% endif %}
+    {% else %}
+      <p class="subtle">Not analyzed yet. Run “Analyze fit” for this source on the <a href="/sources">Sources</a> page.</p>
+    {% endif %}
   </section>
 
   <section class="panel">
-    <h3>LLM Analysis</h3>
-    {% if latest_analysis %}
-      <ul class="detail-list">
-        <li><strong>Is fit</strong><span>{{ latest_analysis.is_fit }}</span></li>
-        <li><strong>Fit score</strong><span>{{ latest_analysis.fit_score }}</span></li>
-        <li><strong>Matched services</strong><span>{{ latest_analysis.matched_services or "n/a" }}</span></li>
-        <li><strong>Potential concerns</strong><span>{{ latest_analysis.potential_concerns or "n/a" }}</span></li>
-      </ul>
-      <h3>Reasoning</h3>
-      <div class="copy">{{ latest_analysis.reasoning or "No reasoning stored." }}</div>
-    {% else %}
-      <p class="subtle">No analysis is stored for this opportunity yet.</p>
+    <h3>Description</h3>
+    <div class="copy">{{ opportunity.description_raw or "No description saved yet. Run “Read details” for this source." }}</div>
+
+    {% if opportunity.raw_html_path or opportunity.raw_text_path %}
+      <details class="spaced">
+        <summary class="subtle">Saved copies of the posting</summary>
+        <ul class="plain">
+          {% if opportunity.raw_html_path %}<li><a href="{{ artifact_url(opportunity.raw_html_path) }}">Page as downloaded (HTML)</a></li>{% endif %}
+          {% if opportunity.raw_text_path %}<li><a href="{{ artifact_url(opportunity.raw_text_path) }}">Extracted text</a></li>{% endif %}
+        </ul>
+      </details>
     {% endif %}
   </section>
 {% endblock %}
