@@ -4,6 +4,7 @@ from sqlalchemy import case, or_, select
 from sqlalchemy.orm import Session
 
 from app.models import Opportunity
+from app.utils.time import utcnow
 
 
 def get_opportunity_by_source_and_url(
@@ -114,7 +115,7 @@ def update_opportunity(
     for key, value in fields.items():
         setattr(opportunity, key, value)
 
-    opportunity.updated_at = datetime.utcnow()
+    opportunity.updated_at = utcnow()
     db.add(opportunity)
     db.commit()
     db.refresh(opportunity)
@@ -131,7 +132,7 @@ def list_opportunities_for_detail_fetch(
     retry_blocked_after_minutes: int = 360,
 ) -> list[Opportunity]:
     """Return opportunities that need or may benefit from detail-page processing."""
-    now = datetime.utcnow()
+    now = utcnow()
     retry_error_before = now.timestamp() - (retry_error_after_minutes * 60)
     retry_blocked_before = now.timestamp() - (retry_blocked_after_minutes * 60)
 

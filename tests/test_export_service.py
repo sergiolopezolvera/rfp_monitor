@@ -11,6 +11,7 @@ from app.services.export_service import (
     export_new_opportunities_to_excel,
     export_opportunities_to_excel,
 )
+from app.utils.time import utcnow
 
 
 def _build_session() -> Session:
@@ -37,8 +38,8 @@ def test_export_new_opportunities_to_excel_only_includes_last_week(tmp_path: Pat
         closing_date=date(2026, 5, 12),
         status="detail_fetched",
         description_raw="Recent opportunity",
-        created_at=datetime.utcnow() - timedelta(days=2),
-        updated_at=datetime.utcnow() - timedelta(days=1),
+        created_at=utcnow() - timedelta(days=2),
+        updated_at=utcnow() - timedelta(days=1),
     )
     old = Opportunity(
         source_id=source.id,
@@ -49,8 +50,8 @@ def test_export_new_opportunities_to_excel_only_includes_last_week(tmp_path: Pat
         closing_date=date(2026, 4, 15),
         status="detail_fetched",
         description_raw="Old opportunity",
-        created_at=datetime.utcnow() - timedelta(days=10),
-        updated_at=datetime.utcnow() - timedelta(days=9),
+        created_at=utcnow() - timedelta(days=10),
+        updated_at=utcnow() - timedelta(days=9),
     )
     recent_other_source = Opportunity(
         source_id=other_source.id,
@@ -61,8 +62,8 @@ def test_export_new_opportunities_to_excel_only_includes_last_week(tmp_path: Pat
         closing_date=date(2026, 5, 14),
         status="detail_fetched",
         description_raw="Recent other-source opportunity",
-        created_at=datetime.utcnow() - timedelta(days=1),
-        updated_at=datetime.utcnow(),
+        created_at=utcnow() - timedelta(days=1),
+        updated_at=utcnow(),
     )
 
     db.add_all([recent, old, recent_other_source])

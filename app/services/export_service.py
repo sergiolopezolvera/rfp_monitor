@@ -14,6 +14,7 @@ from sqlalchemy.orm import Session, selectinload
 from app.config import settings
 from app.logger import logger
 from app.models import Opportunity
+from app.utils.time import utcnow
 
 
 @dataclass
@@ -272,7 +273,7 @@ def export_opportunities_to_excel(
             f"{_safe_filename_part(status)}_"
             f"{_safe_filename_part(fit_result)}_"
             f"{created_part}_"
-            f"{datetime.utcnow():%Y%m%d_%H%M%S}.xlsx"
+            f"{utcnow():%Y%m%d_%H%M%S}.xlsx"
         )
         output_path = settings.export_dir / filename
 
@@ -307,7 +308,7 @@ def export_new_opportunities_to_excel(
 
     settings.ensure_directories()
 
-    cutoff = datetime.utcnow() - timedelta(days=days)
+    cutoff = utcnow() - timedelta(days=days)
 
     stmt = (
         select(Opportunity)
@@ -332,7 +333,7 @@ def export_new_opportunities_to_excel(
         suffix = source_name or "all_sources"
         filename = (
             f"new_opportunities_non_fit_last_{days}_days_"
-            f"{suffix}_{datetime.utcnow():%Y-%m-%d}.xlsx"
+            f"{suffix}_{utcnow():%Y-%m-%d}.xlsx"
         )
         output_path = settings.export_dir / filename
 

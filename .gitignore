@@ -1,9 +1,21 @@
 venv/
+.venv/
+.venv.bak*/
 .env
 
-# Python cache files
+# Python cache and build files
 __pycache__/
 *.py[cod]
 *$py.class
-.venv/
-.venv.bak*/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store
+
+# Local runtime output
+*.log
+data/logs/
+data/debug/
+data/exports/

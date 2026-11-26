@@ -144,6 +144,64 @@ def scrape_bidsandtenders_feed(limit: int = 50) -> None:
     logger.info("Completed scrape-bidsandtenders-feed command.")
 
 
+@app.command("diagnose-bidsandtenders")
+def diagnose_bidsandtenders(rows: int = 5) -> None:
+    """Probe the Bids & Tenders portal and save what it answers to data/debug/.
+
+    Run this when the Bids & Tenders scraper fails: it shows which step breaks
+    (landing page, search request, detail page) and keeps the raw answers.
+    """
+    import json
+
+    from app.sources.bidsandtenders import BidsAndTendersConnector
+
+    debug_dir = settings.data_dir / "debug" / "bidsandtenders"
+    debug_dir.mkdir(parents=True, exist_ok=True)
+
+    with BidsAndTendersConnector(page_size=max(rows, 1)) as connector:
+        print(f"[bold]1. Landing page[/bold] {connector.landing_url}")
+        try:
+            connector._load_search_context()
+        except Exception as exc:
+            print(f"[red]FAILED[/red] {type(exc).__name__}: {exc}")
+            raise typer.Exit(code=1) from exc
+        print(
+            f"[green]OK[/green] home={connector.home_path} node={connector.node_id} "
+            f"token={'yes' if connector.request_verification_token else 'no'}"
+        )
+
+        print("[bold]2. Search request[/bold]")
+        try:
+            data = connector._request_search_page(page_num=1, page_size=max(rows, 1))
+        except Exception as exc:
+            print(f"[red]FAILED[/red] {type(exc).__name__}: {exc}")
+            raise typer.Exit(code=1) from exc
+        tenders = data.get("tenders") or []
+        (debug_dir / "search_page_1.json").write_text(
+            json.dumps(data, indent=2, ensure_ascii=False, default=str), encoding="utf-8"
+        )
+        print(f"[green]OK[/green] rows={len(tenders)} total={data.get('totalCount')}")
+        if tenders and isinstance(tenders[0], dict):
+            print(f"Row keys: {sorted(tenders[0].keys())}")
+
+        items = [connector._tender_to_item(t) for t in tenders if isinstance(t, dict)]
+        items = [item for item in items if item is not None]
+        for item in items[:rows]:
+            print(f" - {item.title} | {item.organization} | closes {item.closing_date} | {item.url}")
+
+        if items:
+            print("[bold]3. Detail page[/bold]")
+            try:
+                html = connector.fetch_notice_html(str(items[0].url))
+            except Exception as exc:
+                print(f"[red]FAILED[/red] {type(exc).__name__}: {exc}")
+                raise typer.Exit(code=1) from exc
+            (debug_dir / "detail_sample.html").write_text(html, encoding="utf-8")
+            print(f"[green]OK[/green] {len(html)} characters")
+
+    print(f"Raw answers saved in {debug_dir}")
+
+
 @app.command("scrape-ontario-tenders-feed")
 def scrape_ontario_tenders_feed(limit: int = 50) -> None:
     """Fetch Ontario Tenders opportunities and store new ones."""

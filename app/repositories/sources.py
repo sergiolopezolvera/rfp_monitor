@@ -45,6 +45,12 @@ def get_or_create_source(
     """Return an existing source or create it if it does not exist."""
     existing = get_source_by_name(db, name)
     if existing is not None:
+        # Keep the stored base URL in step with the connector (e.g. Bids & Tenders
+        # moved from bidsandtenders.ic9.esolg.ca to bids.bidsandtenders.ca).
+        if base_url and existing.base_url != base_url:
+            existing.base_url = base_url
+            db.add(existing)
+            db.commit()
         return existing, False
 
     created = create_source(

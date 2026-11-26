@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, Form, Request
 from fastapi.responses import RedirectResponse
 from sqlalchemy.orm import Session
 
+from app.logger import logger
 from app.web.actions import get_source_action_config, run_source_action
 from app.web.dependencies import get_db, get_flash, templates
 from app.web.queries import list_sources_with_counts
@@ -40,7 +41,10 @@ def run_action(
         value = pages if source_name == "chiefs_of_ontario" and action == "ingest_feed" else limit
         message, level = run_source_action(db, source_name, action, value)
     except Exception as exc:
-        message = f"{source_name.replace('_', ' ')}: {exc}"
+        logger.exception("Source action %s/%s failed", source_name, action)
+        message = f"{source_name.replace('_', ' ')}: {type(exc).__name__}: {exc}"
+        if len(message) > 600:
+            message = message[:600] + "… (see data/logs/app.log)"
         level = "error"
 
     query_string = urlencode({"message": message, "level": level})
